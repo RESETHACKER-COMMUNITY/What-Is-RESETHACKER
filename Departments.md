@@ -1,4 +1,4 @@
-**RESETHACKER** community has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people in India 🇮🇳.
+**RESETHACKER** is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
 In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge. 
 
@@ -36,8 +36,6 @@ Key Moments:
 
 
 Send a birthday message #RESETHACKER2021
-
-
 
 
 # README.md
