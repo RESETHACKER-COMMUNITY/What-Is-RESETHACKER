@@ -1,13 +1,13 @@
 # What is RESETHACKER?
-**RESETHACKER** is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
+> *RESETHACKER* is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
-**In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.**
+> *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
-# How did it happen?
+## How did it happen?
 Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community.
 Where 40+ people are the foundation of RESETHACKER.
 
-# [How all 4 Departments are separated from ResetHacker Community?](/Departments.md)
+## [How all 4 Departments are separated from ResetHacker Community?](/Departments.md)
 Index | Department 
 --- | ---
 **1** | ResetSecurity Dept.
@@ -15,11 +15,11 @@ Index | Department
 **3** | ResetHacker Cyber Crime Investigation Dept.
 **4** | ResetEditors Dept.
 
-# Key Moments:
+## Key Moments:
 
 Updating Soon
 
-# ResetHacker Highlights
+## ResetHacker Highlights
 
 Updating Soon
 
@@ -27,7 +27,7 @@ Updating Soon
 Send a birthday message #RESETHACKER2021
 
 
-# Be Social with RESETHACKER
+## Be Social with RESETHACKER
 [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
 
 Index | Social Media
