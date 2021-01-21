@@ -1,10 +1,4 @@
-**RESETHACKER** is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
-In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge. 
-
-*How did it happen?*
-Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community.
-Where 40+ people are the foundation of RESETHACKER.
 
 *How **RESETHACKER Community** is separated from the Departments?*
 We have created 4 departments based on the domain, skill and experience.
