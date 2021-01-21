@@ -2,14 +2,13 @@
 
 In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge. 
 
-How did it happen?
+*How did it happen?*
 Over 70+ people has contributed and 20+ people are volunteering the RESETHACKER Community.
 
 
-How **RESETHACKER Community** is separated from the Departments?
-
-We have created a department based on domains,skills and experiences.
-Departments mainly focus on projects & development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in India.
+*How **RESETHACKER Community** is separated from the Departments?*
+We have created a department based on domain,skill and experience.
+Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in India.
 
 Index | Department 
 --- | ---
@@ -19,24 +18,24 @@ Index | Department
 **4** | ResetHacker Editors Dept.
 
 
-1. RESETHACKER Security
-(A freelancers team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH,CCNA, A+N+  etc)
+1. **RESETHACKER Security**
+(A freelancer team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH,CCNA, A+N+  etc)
 
-2. RESETHACKER Cybercrime Investigation Department(@resethacker.ccid)
-(A freelancers team of cyber crime investigators to resolve the problem related to cybercrime and provide to awareness around the world )
+2. **RESETHACKER Cybercrime Investigation Department** (@resethacker.ccid)
+(A freelancer team of cyber crime investigators to resolve the problem related to cybercrime and provide to awareness around the world )
 
-3. RESETDEVELOPERS (@resetdvelopers)
-(A freelancers team of websites developers, Android developers, ml/AI learners etc) 
+3. **RESETDEVELOPERS** (@resetdvelopers)
+(A freelancer team of websites developers, Android developers, ml/AI learners etc) 
 
-4. RESETEDITORS (@reseteditors)
-(A freelancers team of Videos editors, graphic designer etc)
+4. **RESETEDITORS** (@reseteditors)
+(A freelancer team of Videos editors, graphic designer etc)
 
 Key Moments:
 
 #RESETHACKER highlights
 
 
-Send a birthday message #Wikipedia20
+Send a birthday message #RESETHACKER2021
 
 
 
@@ -44,7 +43,6 @@ Send a birthday message #Wikipedia20
 
 
 # README.md
-
 **Who are we?**
 We're RESETHACKER, India's crowdsourcing community of action for professionals, pentesters, developers, freelancers and cybercrime investigators. 
 
