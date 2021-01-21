@@ -3,7 +3,7 @@
 In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge. 
 
 *How did it happen?*
-Over 90+ people have contributed and 20+ people are volunteering the RESETHACKER Community.
+Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community.
 Where 40+ people are the foundation of RESETHACKER.
 
 *How **RESETHACKER Community** is separated from the Departments?*
