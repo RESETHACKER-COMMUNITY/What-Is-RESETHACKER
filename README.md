@@ -23,8 +23,8 @@ Updating Soon
 
 Updating Soon
 
-Send a birthday message #RESETHACKER2021
 
+Send a birthday message #RESETHACKER2021
 
 
 # Be Social with RESETHACKER
@@ -41,5 +41,4 @@ Index | Social Media
 -💬 | [Medium](https://www.resethackerofficial.medium.com/)
 -📩 | [Contact](resethackerteam@gmail.com)
 -🌐 | [Website](https://resethacker.com/) 
-
 
