@@ -1,9 +1,18 @@
-# What Is [RESETHACKER](/Departments.md)?
+# #What is RESETHACKER ?
 **RESETHACKER** is India crowdsourcing community of action for professionals, pentesters, developers, freelancers and cybercrime investigators. 
 
 [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
 
-Index | Social Media
+Index | Department 
+--- | ---
+**1** | ResetSecurity Dept.
+**2** | ResetDeveloper Dept.
+**3** | ResetHacker Cyber Crime Investigation Dept.
+**4** | ResetHacker Editors Dept.
+
+**[How all 4 Departments are separated from RESETHACKER Community?](Departments.md)**
+
+Index | Be Social with RESETHACKER
 --- | ---
 -📢 | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO) 
 -🎓 | [RESETHACKR DISCUSSION](https://t.me/resethacker/) 
