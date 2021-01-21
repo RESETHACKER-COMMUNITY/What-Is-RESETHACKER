@@ -8,7 +8,7 @@ Index | Department
 **1** | ResetSecurity Dept.
 **2** | ResetDeveloper Dept.
 **3** | ResetHacker Cyber Crime Investigation Dept.
-**4** | ResetHacker Editors Dept.
+**4** | ResetEditors Dept.
 
 [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
 
