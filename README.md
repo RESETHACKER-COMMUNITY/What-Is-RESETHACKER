@@ -1,8 +1,3 @@
-# #What is RESETHACKER ?
-**RESETHACKER** is India crowdsourcing community of action for professionals, pentesters, developers, freelancers and cybercrime investigators. 
-
-[Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
-
 Index | Department 
 --- | ---
 **1** | ResetSecurity Dept.
