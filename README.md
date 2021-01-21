@@ -3,19 +3,27 @@
 
 **In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.**
 
-# *How did it happen?*
+# How did it happen?
 Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community.
 Where 40+ people are the foundation of RESETHACKER.
 
-
-# **[How all 4 Departments are separated from RESETHACKER Community?](Departments.md)**
-
+# [How all 4 Departments are separated from RESETHACKER Community?](Departments.md)
 Index | Department 
 --- | ---
 **1** | ResetSecurity Dept.
 **2** | ResetDeveloper Dept.
 **3** | ResetHacker Cyber Crime Investigation Dept.
 **4** | ResetEditors Dept.
+
+# Key Moments:
+
+# RESETHACKER highlights
+
+
+Send a birthday message #RESETHACKER2021
+
+
+
 
 # Be Social with RESETHACKER
 [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
