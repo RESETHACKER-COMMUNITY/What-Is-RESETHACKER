@@ -10,17 +10,17 @@ Index | Department
 **4** | ResetHacker Editors Dept.
 
 
-√ 1. **RESETHACKER Security**
-(A freelancer team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH, CCNA, A+N+  etc)
+ 1. **RESETHACKER Security**
+√ (A freelancer team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH, CCNA, A+N+  etc)
 
-√ 2. **RESETHACKER Cybercrime Investigation Department** (@resethacker.ccid)
-(A freelancer team of cybercrime investigators to resolve the problem related to cybercrime and provide awareness around the world )
+ 2. **RESETHACKER Cybercrime Investigation Department** (@resethacker.ccid)
+√ (A freelancer team of cybercrime investigators to resolve the problem related to cybercrime and provide awareness around the world )
 
-√ 3. **RESETDEVELOPERS** (@resetdvelopers)
-(A freelancer team of websites developers, Android developers, ml/AI learners etc) 
+ 3. **RESETDEVELOPERS** (@resetdvelopers)
+√ (A freelancer team of websites developers, Android developers, ml/AI learners etc) 
 
-√ 4. **RESETEDITORS** (@reseteditors)
-(A freelancer team of Videos editors, graphic designer etc)
+ 4. **RESETEDITORS** (@reseteditors)
+√ (A freelancer team of Videos editors, graphic designer etc)
 
 ## README.md
 **Who are we?**
