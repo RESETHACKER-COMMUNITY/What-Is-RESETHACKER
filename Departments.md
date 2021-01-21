@@ -1,11 +1,9 @@
-RESETHACKER community has started with an idea
-
-to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people in India 🇮🇳.
+**RESETHACKER** community has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people in India 🇮🇳.
 
 In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge. 
 
 How did it happen?
-Over 70+ people have contributed and 40+ people are volunteering the RESETHACKER Community.
+Over 70+ people has contributed and 20+ people are volunteering the RESETHACKER Community.
 
 
 How **RESETHACKER Community** is separated from the Departments?
@@ -46,8 +44,8 @@ Send a birthday message #Wikipedia20
 
 
 # README.md
-##Who are we?
 
+**Who are we?**
 We're RESETHACKER, India's crowdsourcing community of action for professionals, pentesters, developers, freelancers and cybercrime investigators. 
 
 [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
