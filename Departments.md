@@ -3,11 +3,11 @@
 In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge. 
 
 *How did it happen?*
-Over 70+ people has contributed and 20+ people are volunteering the RESETHACKER Community.
-
+Over 90+ people have contributed and 20+ people are volunteering the RESETHACKER Community.
+Where 40+ people are the foundation of RESETHACKER.
 
 *How **RESETHACKER Community** is separated from the Departments?*
-We have created a department based on domain,skill and experience.
+We have created a department based on domain, skill and experience.
 Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in India.
 
 Index | Department 
@@ -19,10 +19,10 @@ Index | Department
 
 
 1. **RESETHACKER Security**
-(A freelancer team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH,CCNA, A+N+  etc)
+(A freelancer team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH, CCNA, A+N+  etc)
 
 2. **RESETHACKER Cybercrime Investigation Department** (@resethacker.ccid)
-(A freelancer team of cyber crime investigators to resolve the problem related to cybercrime and provide to awareness around the world )
+(A freelancer team of cybercrime investigators to resolve the problem related to cybercrime and provide awareness around the world )
 
 3. **RESETDEVELOPERS** (@resetdvelopers)
 (A freelancer team of websites developers, Android developers, ml/AI learners etc) 
@@ -36,8 +36,6 @@ Key Moments:
 
 
 Send a birthday message #RESETHACKER2021
-
-
 
 
 
