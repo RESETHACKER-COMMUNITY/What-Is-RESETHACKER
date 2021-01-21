@@ -1,6 +1,5 @@
+# How RESETHACKER Community is separated from the Departments?
 
-
-*How **RESETHACKER Community** is separated from the Departments?*
 We have created 4 departments based on the domain, skill and experience.
 Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in IT sectors.
 
@@ -23,14 +22,6 @@ Index | Department
 
 4. **RESETEDITORS** (@reseteditors)
 (A freelancer team of Videos editors, graphic designer etc)
-
-Key Moments:
-
-#RESETHACKER highlights
-
-
-Send a birthday message #RESETHACKER2021
-
 
 # README.md
 **Who are we?**
