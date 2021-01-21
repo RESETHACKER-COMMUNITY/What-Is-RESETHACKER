@@ -7,8 +7,8 @@ Over 90+ people have contributed and 20+ people are leading the RESETHACKER Comm
 Where 40+ people are the foundation of RESETHACKER.
 
 *How **RESETHACKER Community** is separated from the Departments?*
-We have created a department based on domain, skill and experience.
-Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in India.
+We have created 4 departments based on the domain, skill and experience.
+Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in IT sectors.
 
 Index | Department 
 --- | ---
