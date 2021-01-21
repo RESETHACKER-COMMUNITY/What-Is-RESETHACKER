@@ -1,4 +1,4 @@
-# Send a birthday message #RESETHACKER2021
+**Send a birthday message #RESETHACKER2021**
 
 # Be Social with RESETHACKER
 [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
