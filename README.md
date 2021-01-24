@@ -6,7 +6,7 @@
 ## How It started ?
 > Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 40+ people are the foundation of RESETHACKER.
 
-## [How all 4 Departments are separated from ResetHacker Community?](/Departments.md)
+## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
 **1** | ResetSecurity Dept.
