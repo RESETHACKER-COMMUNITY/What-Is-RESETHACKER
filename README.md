@@ -4,7 +4,7 @@
 √ *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
 ## How It started ?
-> Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 40+ people are the foundation of RESETHACKER.
+> Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 45+ people are the CORE of RESETHACKER.
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
@@ -14,12 +14,18 @@ Index | Department
 **3** | ResetHacker Cyber Crime Investigation Dept.
 **4** | ResetEditors Dept.
 
-## Key Moments:
+## Our Journey:
+- [26th January 2021]
+> (ResetHacker celebrates its 2nd birthday & RESETHACKER community launches Github organisation page, Making everything transparent to the community and Our Journey.)
+> (ResetHacker introduces workflow of team's, achievements, and exclusive resources. 
 
-√ Updating Soon
+- [7th Dec 2020]
+> (ResetHacker Launches the 1st Season of SECURITY MONDAY, a weekly based Security News.)
 
-## ResetHacker Highlights
+- [5th Dec 2020]
+> ResetHacker launches a new department for video editors, graphical designers, logo designers and event management where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of new department(RESETEDITOR).
 
+- [
 √ Updating Soon
 
 
