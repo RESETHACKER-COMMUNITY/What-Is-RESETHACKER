@@ -3,7 +3,7 @@
 
 √ *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
-## How did it happen?
+## How It started ?
 > Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 40+ people are the foundation of RESETHACKER.
 
 ## [How all 4 Departments are separated from ResetHacker Community?](/Departments.md)
