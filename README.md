@@ -7,7 +7,7 @@ Index | Social Media
 -📢 | [What is ResetHacker?]() 
 -🎓 | [How it started?]() 
 -🗨 | [Departments of ResetHacker]()
--📺 | [ResetHacker Features] 
+-📺 | [ResetHacker Features]()
 -👁️‍🗨️ | [Our Story]() 
 -👩‍💻 | [Meet ResetHacker]() 
 -🏆 | [Be Scocial with ResetHacker]() 
@@ -54,7 +54,7 @@ Index | Events
 >RESETHACKER introduced free private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
 - 4th January 2020
->ResetHacker launches User Helpdesk on discord, to giving community full assistance to provide help on ResetHacker discord, explore and curate content.
+>ResetHacker launches Helpdesk on discord, to giving community full assistance with questions on ResetHacker discord, explore and curate content.
 
 - 1st January 2020
 > ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants to join Team ResetHacker.
