@@ -47,7 +47,7 @@ Index | Department
 - [29 October 2020]
 > Celebration Our 1st Dashara with Team ResetHacker.
 > Appriciating the contributions of Team ResetHacker with HTB VIP, gift from Board of Directors and founder.
-> Motivating the team members to learn, guidance on certification such as CEH, OSCP and reducing the daily work to 4hr in a week.
+> Motivating the team members to learn and reducing the daily work to 4hr in a week.
 
 - [21 October 2020]
 > Gift from Spyspe and rejecting the paid sponsorship which does not benefit the team or community.
@@ -77,7 +77,7 @@ Index | Department
 
 - [1 August 2020]
 > Task assigned to ResetHacker graphics department regarding creating Certificate for CTF winners.
-> Thankyou to our 
+> Thank you to our 
 
 - [
 
