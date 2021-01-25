@@ -49,9 +49,8 @@ Graphics designer | Gautam Makwana
 YouTube Manager | Vijay
 Team Coordinator| Saurav Baghz
 Team manager | Tushar Baweja
-Webinar Management | Anugrah SR
+Communication Manager | Anugrah SR
 Event Management| Tushar Varma 
-
 
 
 Index | The ResetHacker show (Guests)
@@ -68,11 +67,29 @@ Role | ResetHacker Spotlight (Team)
 Content Coordinator| Amir 
 Content director | attrib
 Graphics designer | Gautam Makwana
-Team Coordinator| Saurav Baghz
+Team Coordinator| Saurav Bagh
 Team manager | Tushar Baweja
 
 Index | The ResetHacker show (Guests)
 -- | --
 1 | Imran penny 
-2 | Simran Singhp
+2 | Simran Singh
 3 | Basu Banker 
+
+# Q/A Live session
+Role | Public representatives
+-- | --
+Host 1 | cryptonic07
+Host 2 | Tushar Baweja
+Host 3 | Gaurav Singh
+
+
+# Discord Discussion 
+Role | Public representatives
+-- | --
+Host 1 | CyberKnight
+Host 2 | attr1b
+
+Host 3 | Mr.alien
+Host 4 | Smile_Hacker
+Host 5 | cryptonic07
