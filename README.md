@@ -112,7 +112,7 @@ Index | Department
 
 > RESETHACKER organized RESTCON Sponsored by ResetHacker Security Department, Google cloud, Bugsee, HTB, Tryhackme, 3daysHack, ResetHacker.CCID Dept. and ResetDevelopers Dept.
 
-> Total number of visitors for the 1st day of RESTInstituterence 2k.
+> Total number of visitors for the 1st day of RESTCON conference was 2k.
 
 - 28th August 2020
 > ResetHacker announcement of Outstanding community partners is Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.
@@ -167,7 +167,7 @@ Index | Department
 > The sponsors for the HAVOC are MALCROVE, Zero Day Initiative, Resilience Cybersecurity, Takdeliver and Trend Micro.
 
 - 26 January 2019
- ResetHacker launches the Series with index, question and showcases the popular Attack vector, wrote some blog on ResetHacker.
+> ResetHacker launches the Series with index, question and showcases the popular Attack vector, takes about defence, and continued his blog on ResetHacker.
 
 - 26 January 2019
 > Vikram creates a logo and launches RESETHacker on Instagram, started a blog series called Certified Ethical Hacking and to promote Ethical Hacking.
