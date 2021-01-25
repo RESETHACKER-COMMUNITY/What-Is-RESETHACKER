@@ -11,10 +11,8 @@ Cryptonic07 | [Leader & The ResetHacker Show Host](https://instagram.com/crypton
 Tushar Baweja | [Team Manager of RESETHACKER](https://instagram.com/thetusharbaweja?igshid=h2uuc0a3ju4q)
 Encryptor | [Social media  Manager of RESETHACKER](https://instagram.com/_.encryptor._?igshid=2bw4lipcnz1m)
 Souravbaghz | [Leader & Team coordinator](https://instagram.com/souravbaghz?igshid=11ev1197z9qtt)
-Amir During | [Content coordinated](https://instagram.com/1.1.1.1_____?igshid=1mx7aqr29mio6)
+1.1.1.1_ | [Content coordinated](https://instagram.com/1.1.1.1_____?igshid=1mx7aqr29mio6)
 Rudraksh shini | [CTF CO-lead & Lead CTF Event](https://instagram.com/thehackerscrew_?igshid=ctvvrg69gi0b)
-Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
-Gautam Makwana | [Co-lead Graphics designer](https://instagram.com/_iroot?igshid=1cyyca9inepxt
 Vijay | [Youtube Manager & discord Moderater ](https://instagram.com/_.v_j._?igshid=vrvvi9b9uo7c)
 DreyAnd | [Team member](https://instagram.com/dreycoding?igshid=ra07a6cb6w8y)
 Sahili gore| [Technical writer  & CTF player](https://instagram.com/xotic_hacker?igshid=1e19h8sa06c5j) 
@@ -65,3 +63,5 @@ Chitrayudh Basu | [Video Editor]()
 Rohit Kumar | [Video Editor]()
 Mayank Arora | [Video Editor]()
 Gokula krishnan | [Video Editor]()
+Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
+
