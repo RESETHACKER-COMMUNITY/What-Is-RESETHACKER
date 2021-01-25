@@ -1,4 +1,7 @@
 # Content table
+In the age where Hacking is crime. India is digitising fast but non technical people & Technical people do not care about Privacy, data leaks,etc.
+Wouldn’t it be great if IT community and people who care join together to better understand the changing digital India and learn Security.
+
 Index | Social Media
 --- | ---
 -📢 | [What is ResetHacker?]() 
