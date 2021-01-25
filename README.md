@@ -24,7 +24,7 @@ Index | Department
 >RESETHACKER introduced free private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
 - [1 January 202
-> ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants join RESETHACKER Team.
+> ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants join Team ResetHacker.
 
 > Welcome Anugrah SR, Tushar Varma & Rahul to ResetHacker Team.:)
 
@@ -37,19 +37,19 @@ Index | Department
 > ResetHacker launches new department for video editors, graphical designers and logo designers. where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of RESETEDITOR department.
 
 - [22nd November 2020]
-> ResetHacker conducts his 1st Joint Meeting with community and all the department to nominate the leader, new roles, helpdesk for the community and resolving the question of team ResetHacker.
+> ResetHacker conducts his 1st Joint Meeting with community and all the departments to nominate the leader, new roles, helpdesk for the community and resolving the question of team ResetHacker.
 
-> ResetHacker team leaders assigned an task to create NDA and automate the work of ResetHacker Community.
+> ResetHacker team leaders assigned a task to create NDA and automate the work of ResetHacker Community.
 
 - [7th November 2020]
-> ResetHacker announcement their Monthly webinar series to promote pentesting and improve bug hunting.
+> ResetHacker announced his Monthly webinar series to promote pentesting and improve bug hunting.
 
-> Team ResetHacker received an application with HTB VIP from Board of Directors of ResetHacker.
+> Team leader of ResetHacker & CTF players received a HTB VIP access from Board of Directors of ResetHacker.
 
-> ResetHacker launches RHv 3.0 to enhance the knowledge of team members and reduced the daily contributing inside the Community to 3hr per week.
+> ResetHacker launches RHv3.0 to enhance the knowledge of team members and reduced the daily contributing inside the Community to 3hr per week.
 
 - [21 October 2020]
-> ResetHacker received an Gift from Spyspe.
+> ResetHacker received an Gift from **Spyspe**.
 
 - [18 October 2020]
 > RH_CCID officially launched the cybercrime report portal for the cybercrime investigation.
@@ -66,14 +66,13 @@ Index | Department
 > ResetHacker got mentioned in **Integrity** Blog for "Top 20 bug bounty YouTube channels to follow in 2020!"
 
 - [2 October 2020]
-> ResetHacker team got appreciated with a certificate for contributing to the RESTCON event.
+> ResetHacker team got appreciated from the board of directors & community leaders with a certificate for contribution to the RESTCON event.
 
 - [1 October 2020]
-> Team leader of ResetDeveloper (Altaf Shaikh) announced his 1st webinars on "Importance of Python and cybersecurity."
+> ResetDeveloper (team leader Altaf Shaikh) announced his 1st webinars on "Importance of Python and cybersecurity."
 
 - [24th September 2020]
 > RH_Security assigned the task to create a Pentesting report Samples, Quotation, T&c for ResetHacker website.
-- [
 
 √ Updating Soon
 
