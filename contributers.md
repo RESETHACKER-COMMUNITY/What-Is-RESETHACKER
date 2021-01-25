@@ -1,3 +1,12 @@
+#Contributer of ResetHacker websites
+
+  @RH(Gagan Kartike Dev)⁩ @⁨RH(Shivansh Panday)⁩ ⁩ @⁨M_solo_sad_rider⁩ @RH(gagan  and @⁨RH(Sagerpanwar)⁩.
+Developer Department 
+Role | The ResetHacker Show (Team)
+-- | --
+Host | cryptonic07
+
+
 # Contributers of The ResetHacker Show
 
 Role | The ResetHacker Show (Team)
