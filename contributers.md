@@ -93,3 +93,27 @@ Host 2 | attr1b
 Host 3 | Mr.alien
 Host 4 | Smile_Hacker
 Host 5 | cryptonic07
+
+
+# Blog Writeups
+Role | Technical Writers 
+-- | --
+Content Coordinator | 1.1.1.1
+Content Verifier | Attr1b 
+Technical Writter 1 | xxxxx
+Technical Writter 1 | xxxxx
+Technical Writter 1 | xxxxx
+Team Coordinator/Managaer | Saurabhaz
+
+
+# Social Media Management 
+Role | Technical Writers 
+-- | --
+Instagram | 1.1.1.1
+twitter | Attr1b 
+linked in |
+Telegram | Automate
+Dircord | Automate
+WhatsApp | 
+
+# 
