@@ -8,7 +8,7 @@ Index | Social Media
 -🎓 | [How it started?]() 
 -🗨 | [Departments of ResetHacker]()
 -📺 | [ResetHacker Features]()
--👁️‍🗨️ | [Our Story]() 
+-👁️‍🗨️ | [Our Journey]() 
 -👩‍💻 | [Meet ResetHacker]() 
 -🏆 | [Be Scocial with ResetHacker]() 
 -💬 | [Contributors of ResetHacker]()
