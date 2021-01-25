@@ -12,6 +12,7 @@ Waleed | [Lead Mi/Ai ](https://instagram.com/pistalavista?igshid=ghh094dihv5k)
 Gagan Kartike Dev | [Front End developer]()
 Shivansh Panday | [front end developers]()
 Gagan | [Developer]()
+Gaurav Yadav [front and back end Developer]()
 
 
 # Contributers of The ResetHacker Show
@@ -132,4 +133,3 @@ Telegram | Automate
 Dircord | Automate
 WhatsApp | 
 
-# 
