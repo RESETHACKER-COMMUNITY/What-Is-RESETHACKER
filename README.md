@@ -4,12 +4,12 @@ Index | Social Media
 -📢 | [What is ResetHacker?]() 
 -🎓 | [How it started?]() 
 -🗨 | [Departments of ResetHacker]()
+-📺 | [ResetHacker Features] 
 -👁️‍🗨️ | [Our Story]() 
 -👩‍💻 | [Meet ResetHacker]() 
 -🏆 | [Be Scocial with ResetHacker]() 
 -💬 | [Contributors of ResetHacker]()
 -🌐 | [Website](https://resethacker.com/) 
-
 
 
 # What is RESETHACKER?
@@ -27,6 +27,19 @@ Index | Department
 **2** | ResetDeveloper Dept.
 **3** | ResetHacker Cyber Crime Investigation Dept.
 **4** | ResetEditors Dept.
+
+# ResetHacker Features 
+Index | Events 
+--- | ---
+**1** | [Monthly Webinar](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
+**2** | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO)
+**3** | [The ResetHacker Show](https://youtube.com/playlist?list=PLNR8n-5bMyMNQOHLdDh6-t0Hw_YPWa04N)
+**4** | [Security Monday](https://youtube.com/playlist?list=PLNR8n-5bMyMMdpvOtaHB8r1ScVBg2Ed2m)
+**5** | [ResetHacker Publication](https://www.resethackerofficial.medium.com/)
+**6** | [Mini CTF](https://youtube.com/playlist?list=PLNR8n-5bMyMOR6PHMOKXtTBMnguMMugFM)
+**7** | [ResetHacker Discussion](https://t.me/joinchat/URNgiYnNKnZw_Jqy)
+**8** | [Discord Discussions](https://discord.gg/HbM3435JcX)
+**9** | [ResetHacker Spotlight](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
 - 26th January 2021
