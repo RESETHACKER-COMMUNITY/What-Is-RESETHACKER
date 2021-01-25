@@ -23,10 +23,16 @@ Index | Department
 - 6th January 2020]
 >RESETHACKER introduced free private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
+- 4th January 2020
+>ResetHacker launches User Helpdesk on discord, to  giving community full assistance to provide help on ResetHacker discord, explore and curate content.
+
 - 1st January 2020
 > ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants join Team ResetHacker.
 
 > Welcome Anugrah SR, Tushar Varma & Rahul to ResetHacker Team.:)
+
+- 9th Dec 2020
+> ResetHacker announced of Episode 2 of Monthly webinar with Ninad Mathpati on Accounts Takeovers.
 
 - 7th Dec 2020
 > ResetHacker introduced India 1st a weekly basis Security news called SECURITY MONDAY with QuiteHacker, to promote security and give an update on cybersecurity.)
