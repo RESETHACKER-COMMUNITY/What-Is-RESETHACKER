@@ -44,8 +44,20 @@ Mihir | [Front end developer]()
 Waleed | [Lead Mi/Ai ](https://instagram.com/pistalavista?igshid=ghh094dihv5k)
 
 
-Name  | CCID department 
+Name | CCID department 
 -- | --
 Gaurav singh | [Lead CCID](https://instagram.com/_i_am_root_?igshid=1jpna3lvkhnb6)
 Souravbaghz | [Co-lead](https://instagram.com/itninja.official?igshid=1weibdzj3jzav)
 NavinHariharan | [Cybersecurity Awareness](https://instagram.com/itninja.official?igshid=1paawj040ns0s)
+
+Name | Editor Department
+-- | --
+Gautam | [Lead( Graphics Designer)]()
+Kalsariya mitulbhai | [Graphics Designer]()
+Chiranjit |  [Lead Video Editor]()
+Mayank Arora | [Co_Lead Video Editor]()
+Akash Majumder | [Video Editor]()
+Chitrayudh Basu | [Video Editor]()
+Rohit Kumar | [Video Editor]()
+Mayank Arora | [Video Editor] ()
+Gokula krishnan | [Video Editor]()
