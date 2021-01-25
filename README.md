@@ -42,6 +42,9 @@ Index | Department
 - 5th Dec 2020
 > ResetHacker launches new department for video editors, graphical designers and logo designers. where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of RESETEDITOR department.
 
+- 1st Dec 2020
+> ResetHacker introduced SPOTLIGHT to appreciate the findings and technical writing of community.
+
 - 22nd November 2020
 > ResetHacker conducts his 1st Joint Meeting with community and all the departments to nominate the leader, new roles, helpdesk for the community and resolving the question of team ResetHacker.
 
@@ -52,34 +55,36 @@ Index | Department
 
 > Team leader of ResetHacker & CTF players received a HTB VIP access from Board of Directors of ResetHacker.
 
-> ResetHacker launches RHv3.0 to enhance the knowledge of team members and reduced the daily contributing inside the Community to 3hr per week.
+> ResetHacker launches RHv3.0 to enhance the knowledge of team members and reduced the daily contribution inside the Community to 3hr per week.
 
 - 21st October 2020
 > ResetHacker received an Gift from **Spyspe**.
 
 - 18th October 2020
-> RH_CCID officially launched the cybercrime report portal for the cybercrime investigation.
-> ResetHacker CTF creators (Cyberknight, Mr.Unstoppable and Thehackercrew) express the interest in creating challenges in Bsidemaharasha event.
+> RH_CCID officially launched the cybercrime report portal to take query for the investigation.
+> ResetHacker CTF creators (Cyberknight, Mr.Unstoppable and Thehackercrew) volunteered bsidesmaharastra by creating challenges in event.
 
 - 17th October 2020
 > ResetHacker got an invitation to become a Community partner of Bsidemaharasha.
-> Announcement for ResetHacker CTF creators regarding the invitation we receive from Founder of Bsidemaharasha to creator CTF challenges for a there upcoming event.
+> ResetHacker notified team regarding the invitation we receive from Founder of Bsidemaharasha to creator CTF challenges for a their upcoming event.
 
 - 7th October 2020
-> ResetHacker announced the partnership giveaway with Spyse.
+> ResetHacker announced the partnership giveaway with Spyspe.
 
 - 5th October 2020
 > ResetHacker got mentioned in **Integrity** Blog for "Top 20 bug bounty YouTube channels to follow in 2020!"
 
 - 2th October 2020
-> ResetHacker team got appreciated from the board of directors & community leaders with a certificate for contribution to the RESTCON event.
+> ResetHacker team got appreciated from the board of directors by receiving a certificate for the contributions to the RESTCON.
 
 - 1st October 2020
 > ResetDeveloper (team leader Altaf Shaikh) announced his 1st webinars on "Importance of Python and cybersecurity."
 
 - 24th September 2020
-> RH_Security assigned the task to create a Pentesting report Samples, Quotation, privacy policy for ResetHacker.
+> RH_Security leaders assigned with the task to create a Pentesting report Samples, Quotation, privacy policy for ResetHacker.
 
+- 
+>
 √ Updating Soon
 
 
