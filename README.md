@@ -20,7 +20,7 @@ Index | Department
 
 > ResetHacker revealed the inside details, teams, workflow, achievement and exclusive resources. 
 
-- 6th January 2020]
+- 6th January 2020
 >RESETHACKER introduced free private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
 - 4th January 2020
@@ -78,7 +78,7 @@ Index | Department
 > ResetDeveloper (team leader Altaf Shaikh) announced his 1st webinars on "Importance of Python and cybersecurity."
 
 - 24th September 2020
-> RH_Security assigned the task to create a Pentesting report Samples, Quotation, T&c for ResetHacker website.
+> RH_Security assigned the task to create a Pentesting report Samples, Quotation, privacy policy for ResetHacker.
 
 √ Updating Soon
 
