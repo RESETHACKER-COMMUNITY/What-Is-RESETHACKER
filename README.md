@@ -1,3 +1,17 @@
+# Content table
+Index | Social Media
+--- | ---
+-📢 | [What is ResetHacker?]() 
+-🎓 | [How it started?]() 
+-🗨 | [Departments of ResetHacker]()
+-👁️‍🗨️ | [Our Story]() 
+-👩‍💻 | [Meet ResetHacker]() 
+-🏆 | [Be Scocial with ResetHacker]() 
+-💬 | [Contributors of ResetHacker]()
+-🌐 | [Website](https://resethacker.com/) 
+
+
+
 # What is RESETHACKER?
 > *RESETHACKER* is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
@@ -167,15 +181,17 @@ Index | Department
 > The sponsors for the HAVOC are MALCROVE, Zero Day Initiative, Resilience Cybersecurity, Takdeliver and Trend Micro.
 
 - 26 January 2019
-> ResetHacker launches the Series with index, question and showcases the popular Attack vector, takes about defence, and continued his blog on ResetHacker.
+> ResetHacker launches the Series with index, question and showcases the popular Attack vector, attack server, defend server, and continued his blog on ResetHacker.
 
 - 26 January 2019
 > Vikram creates a logo and launches RESETHacker on Instagram, started a blog series called Certified Ethical Hacking and to promote Ethical Hacking.
 
-√ Updating Soon
+# Meet ResetHacker
+
 
 
 √ Send a birthday message #RESETHACKER2021
+# Contributors of ResetHacker
 
 
 ## Be Social with RESETHACKER
