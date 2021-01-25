@@ -16,15 +16,15 @@ Index | Department
 
 ## Our Journey:
 - [26th January 2021]
-> ResetHacker celebrates its 2year anniversary and RESETHACKER community launches Github organisation page, Making everything transparent to the community and Our Journey.)
+> ResetHacker celebrates its 2 year anniversary and RESETHACKER community launches Github organisation page, Making everything transparent to the community.
 
-> ResetHacker disclosed team's, workflows, achievements and exclusive resources. 
+> ResetHacker revealed the inside details, teams, workflow, achievement and exclusive resources. 
 
 - 6th January 2020]
 >RESETHACKER introduced free private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
-- [1 January 2021]
-> We announce an opportunity for leaders who have an enthusiasm to bring the community together and be the part of RESETHACKER Team.
+- [1 January 202
+> ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants join RESETHACKER Team.
 
 > Welcome Anugrah SR, Tushar Varma & Rahul to ResetHacker Team.:)
 
@@ -34,37 +34,29 @@ Index | Department
 > Welcome QuiteHacker to the team. :)
 
 - [5th Dec 2020]
-> ResetHacker launches a new department for video editors, graphical designers, logo designers and event management where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of the new department(RESETEDITOR).
-
-> Metting with ResetHacker CTF team to explain the helpdesk for CTF and benefits on playing with ResetHacker.
+> ResetHacker launches new department for video editors, graphical designers and logo designers. where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of RESETEDITOR department.
 
 - [22nd November 2020]
-> 1st Joint Meeting of community and all the department to nominate the leader, new roles, helpdesk for the community and resolving the question of team members.
+> ResetHacker conducts his 1st Joint Meeting with community and all the department to nominate the leader, new roles, helpdesk for the community and resolving the question of team ResetHacker.
 
-- [14th November 2020]
-> Announcement of 1st Joint Metting of ResetHacker Community, ResetDeveloper and ResetHacker.CCID departments.
-
-> Task assigned to create NDA & automating the work of ResetHacker Community.
+> ResetHacker team leaders assigned an task to create NDA and automate the work of ResetHacker Community.
 
 - [7th November 2020]
-> Announcement of Monthly series called RESETBOUNTY to promote pentesting and improve bug hunting.
+> ResetHacker announcement their Monthly webinar series to promote pentesting and improve bug hunting.
 
-- [29 October 2020]
-> Celebration Our 1st Dashara with Team ResetHacker.
+> Team ResetHacker received an application with HTB VIP from Board of Directors of ResetHacker.
 
-> Appriciating the contributions of Team ResetHacker with HTB VIP, gift from Board of Directors and founder.
-
-> Motivating the team members to learn and reducing the daily work to 4hr in a week.
+> ResetHacker launches RHv 3.0 to enhance the knowledge of team members and reduced the daily contributing inside the Community to 3hr per week.
 
 - [21 October 2020]
-> Gift from Spyspe and rejecting the paid sponsorship which does not benefit the team or community.
+> ResetHacker received an Gift from Spyspe.
 
 - [18 October 2020]
-> Team RH_CCID official launched the cybercrime report portal for the public submission.
+> RH_CCID officially launched the cybercrime report portal for the cybercrime investigation.
 > ResetHacker CTF creators (Cyberknight, Mr.Unstoppable and Thehackercrew) express the interest in creating challenges in Bsidemaharasha event.
 
 - [17 October 2020]
-> Got an invitation to become a Community partner of Bsidemaharasha.
+> ResetHacker got an invitation to become a Community partner of Bsidemaharasha.
 > Announcement for ResetHacker CTF creators regarding the invitation we receive from Founder of Bsidemaharasha to creator CTF challenges for a there upcoming event.
 
 - [7 October 2020]
@@ -77,15 +69,10 @@ Index | Department
 > ResetHacker team got appreciated with a certificate for contributing to the RESTCON event.
 
 - [1 October 2020]
-> Team leader of ResetDeveloper(Altaf Shaikh) announced his 1st webinars on "Importance of Python and cybersecurity."
+> Team leader of ResetDeveloper (Altaf Shaikh) announced his 1st webinars on "Importance of Python and cybersecurity."
 
 - [24th September 2020]
 > RH_Security assigned the task to create a Pentesting report Samples, Quotation, T&c for ResetHacker website.
-
-- [1 August 2020]
-> Task assigned to ResetHacker graphics department regarding creating Certificate for CTF winners.
-> Thank you to our 
-
 - [
 
 √ Updating Soon
