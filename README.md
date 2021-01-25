@@ -17,6 +17,7 @@ Index | Department
 ## Our Journey:
 - [26th January 2021]
 > ResetHacker celebrates its 2year anniversary and RESETHACKER community launches Github organisation page, Making everything transparent to the community and Our Journey.)
+
 > ResetHacker disclosed team's, workflows, achievements and exclusive resources. 
 
 - 6th January 2020]
@@ -24,14 +25,17 @@ Index | Department
 
 - [1 January 2021]
 > We announce an opportunity for leaders who have an enthusiasm to bring the community together and be the part of RESETHACKER Team.
+
 > Welcome Anugrah SR, Tushar Varma & Rahul to ResetHacker Team.:)
 
 - [7th Dec 2020]
 > ResetHacker introduced India 1st a weekly basis Security news called SECURITY MONDAY with QuiteHacker, to promote security and give an update on cybersecurity.)
+
 > Welcome QuiteHacker to the team. :)
 
 - [5th Dec 2020]
 > ResetHacker launches a new department for video editors, graphical designers, logo designers and event management where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of the new department(RESETEDITOR).
+
 > Metting with ResetHacker CTF team to explain the helpdesk for CTF and benefits on playing with ResetHacker.
 
 - [22nd November 2020]
@@ -39,6 +43,7 @@ Index | Department
 
 - [14th November 2020]
 > Announcement of 1st Joint Metting of ResetHacker Community, ResetDeveloper and ResetHacker.CCID departments.
+
 > Task assigned to create NDA & automating the work of ResetHacker Community.
 
 - [7th November 2020]
@@ -46,7 +51,9 @@ Index | Department
 
 - [29 October 2020]
 > Celebration Our 1st Dashara with Team ResetHacker.
+
 > Appriciating the contributions of Team ResetHacker with HTB VIP, gift from Board of Directors and founder.
+
 > Motivating the team members to learn and reducing the daily work to 4hr in a week.
 
 - [21 October 2020]
