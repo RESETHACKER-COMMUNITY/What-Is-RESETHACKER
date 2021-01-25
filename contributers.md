@@ -38,7 +38,7 @@ Content Director | attr1b
 Team Coordinator| Saurav Baghz
 
 
-# Contributers of The ResetHacker Show
+# Contributers of Monthly Webinar 
 
 Role | The ResetHacker Show (Team)
 -- | --
@@ -59,3 +59,20 @@ Index | The ResetHacker show (Guests)
 1 | Smile Hacker, 
 2 | Ninad Mathapati 
 3 | Guest Speaker
+
+
+# Contributers of ResetHacker Spotlight 
+
+Role | ResetHacker Spotlight (Team)
+-- | --
+Content Coordinator| Amir 
+Content director | attrib
+Graphics designer | Gautam Makwana
+Team Coordinator| Saurav Baghz
+Team manager | Tushar Baweja
+
+Index | The ResetHacker show (Guests)
+-- | --
+1 | Imran penny 
+2 | Simran Singhp
+3 | Basu Banker 
