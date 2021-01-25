@@ -1,6 +1,6 @@
 Name | ResetHacker Role
 -- | --
-Vikram | [Board of Director]
+Vikram | [Board of Director]()
 4usmodous | [Board Member & Lead clients](https://instagram.com/aki_4smodeus?igshid=ljsbk8v5bfwy)
 Me.Alien | [Board of Directors](https://instagram.com/all_illusions__?igshid=1oclwhm4jmbgi)
 *M. Jaffer | [Resethacker Adviser](https://instagram.com/moh4mm3d_j4ff3r?igshid=l17pbrnd854q)
@@ -48,7 +48,11 @@ Name | CCID department
 -- | --
 Gaurav singh | [Lead CCID](https://instagram.com/_i_am_root_?igshid=1jpna3lvkhnb6)
 Souravbaghz | [Co-lead](https://instagram.com/itninja.official?igshid=1weibdzj3jzav)
-NavinHariharan | [Cybersecurity Awareness](https://instagram.com/itninja.official?igshid=1paawj040ns0s)
+NavinHariharan | [Forensics & Awareness](https://instagram.com/itninja.official?igshid=1paawj040ns0s)
+Cybersquard | [Forensics and awareness](https://instagram.com/cyb3rsqu4d?igshid=1bsoe5ub6d7a9)
+Chittaranjan Kumar | [Forensics and awareness](https://instagram.com/@chitta2019)
+Dhrupad Soni | [Core Investigation]()
+
 
 Name | Editor Department
 -- | --
@@ -59,5 +63,5 @@ Mayank Arora | [Co_Lead Video Editor]()
 Akash Majumder | [Video Editor]()
 Chitrayudh Basu | [Video Editor]()
 Rohit Kumar | [Video Editor]()
-Mayank Arora | [Video Editor] ()
+Mayank Arora | [Video Editor]()
 Gokula krishnan | [Video Editor]()
