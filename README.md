@@ -133,10 +133,10 @@ Index | Department
 > ResetHacker Launches a mini CTF series called "Let's play CTF" with creators CyberKnight and moderator Smile_Hacker to promote CTF.
 
 - 12 June 2020
-> ResetHacker Celebrates the 5k on Instagram by going live with team members Cryptonic07 , Walled, Harsh and Gaurav Singh.
+> ResetHacker Celebrates the 5k on Instagram by going live with team members Cryptonic07, Walled, Harsh and Gaurav Singh.
 
 -11th June 2020
-> ResetHacker Launches the two department 1.) ResetDeveloper department with 10+ Developers and 2.) ResetHacker.CCID with 7+ Cybercrime investigators.
+> ResetHacker Launches the two departments 1.) ResetDeveloper department with 10+ Developers and 2.) ResetHacker.CCID with 7+ Cybercrime investigators.
 
 - 25th May 2020
 > ResetHacker team RyukSec (CTF leader) published his 1st recorded tools tutorials videos on ResetHacker Youtube.
@@ -148,7 +148,7 @@ Index | Department
 - ResetHacker officially launched ResetHacker community and Youtube channel.
 
 - 10th May 2020
-> ResetHacker launched a weekly interview series called The ResetHacker Show with host cryptonic07 , Tushar baweja, Gaurav Singh and moderator encryption.
+> ResetHacker launched a weekly interview series called The ResetHacker Show with host cryptonic07, Tushar baweja, Gaurav Singh and moderator encryption.
 
 > The guests appeared on the ResetHacker show are Aditya shende, Harsh Bothra, Ashish Kunwar, Kishan Choudhary, Udit Bhadaurai, Mr Hacker, Aakash Sharma, Mayank Bharti, that faceless coder, Rupendra Bauhtey and Tushar Baweja.
 
@@ -162,15 +162,15 @@ Index | Department
 > Hackeracademy congrats ResetHacker work for making HAVOC a huge success and 3k+ members visited for the HAVOC conference.
 
 - 11th April 2020
-> Social Media Announcement of HAVOC online Hacking Confrence with help of DESC official, TRA,Hackersacademy and Resethacker .
+> Social Media Announcement of HAVOC online Hacking Conference with help of DESC official, TRA, Hackersacademy and Resethacker.
 
 > The sponsors for the HAVOC are MALCROVE, Zero Day Initiative, Resilience Cybersecurity, Takdeliver and Trend Micro.
 
 - 26 January 2019
- ResetHacker start a blog series called Certified Ethical Hacking.
+ ResetHacker launches the Series with index, question and showcases the popular Attack vector, wrote some blog on ResetHacker.
 
 - 26 January 2019
-> Vikram Launches the ResetHacker to promote Ethical Hacking.
+> Vikram creates a logo and launches RESETHacker on Instagram, started a blog series called Certified Ethical Hacking and to promote Ethical Hacking.
 
 √ Updating Soon
 
