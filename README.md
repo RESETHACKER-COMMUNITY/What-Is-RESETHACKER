@@ -51,10 +51,10 @@ Index | Events
 > ResetHacker revealed the inside details, teams, workflow, achievement and exclusive resources. 
 
 - 6th January 2020
->RESETHACKER introduced free private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
+> ResetHacker introduced private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
 - 4th January 2020
->ResetHacker launches Helpdesk on discord, to giving community full assistance with questions on ResetHacker discord, explore and curate content.
+> ResetHacker launches Helpdesk on discord, to giving community full assistance with questions on ResetHacker discord, explore and curate content.
 
 - 1st January 2020
 > ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants to join Team ResetHacker.
@@ -130,12 +130,13 @@ Index | Events
 
 - 29th August 2020
 
-> ResetHacker presents 2nd day of **RESTCON conference** called as Researchersers day with guest speakers with the guest speakers Phillips Wylie, Nitin Panday, Tajwar Khan, Akash Sharma, Atul Singh and Umair Nehri
+> ResetHacker presents 2nd day of **RESTCON conference** called as Researchersers day with the guest speakers Phillips Wylie, Nitin Panday, Tajwar Khan, Akash Sharma, Atul Singh and Umair Nehri
 
 > Total number of visitors for the 2nd day of RESTCON conference 1.5k. 
 
 - 29th August 2020
->RESETHACKER announcement of promoting partners are Owaspchandigarh Cyberhack_lpu Secarmy Bsidesmaharashtra and Noob_4rmy
+> RESETHACKER announced the promoting partners of RESTCON.
+  Owaspchandigarh Cyberhack_lpu Secarmy Bsidesmaharashtra and Noob_4rmy
 
 - 28th August 2020
 > ResetHacker presents 1st day of **RESTCON conference** called as Bug Hunting day with guest speakers Alyssa Miller, priyanshu_ratnakar⁣, sankarrajj⁣, Chenny Ren and aravindha Hariharan.
@@ -145,7 +146,7 @@ Index | Events
 > Total number of visitors for the 1st day of RESTCON conference was 2k.
 
 - 28th August 2020
-> ResetHacker announcement of Outstanding community partners is Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.
+> ResetHacker introduced the community partners of RESTCON, Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.
 
 - 22nd August 2020
 > ResetHacker announcement of 2 days RESTCON Conference.
