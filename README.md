@@ -208,7 +208,7 @@ Index | Events
 
 
 √ Send a birthday message #RESETHACKER2021
-# Contributors of ResetHacker
+# [Contributors of ResetHacker](/resethackerteam.md)
 
 
 ## Be Social with RESETHACKER
@@ -216,8 +216,7 @@ Index | Events
 
 Index | Social Media
 --- | ---
--📢 | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO) 
--🎓 | [RESETHACKR DISCUSSION](https://t.me/resethacker/) 
+--🎓 | [RESETHACKR DISCUSSION](https://t.me/resethacker/) 
 -🗨 | [RESETHACKER Discord](https://discord.gg/HbM3435JcX)
 -👁️‍🗨️ | [Instagram ](https://instagram.com/@resethacker/) 
 -👩‍💻 | [Tools](https://github.com/RESETHACKER) 
