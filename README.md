@@ -316,5 +316,6 @@ Index | Social Media
 -🏆 | [LinkedIn](https://www.linkedin.com/in/RESETHACKER/) 
 -💬 | [Medium](https://www.resethackerofficial.medium.com/)
 -📩 | [Contact](resethackerteam@gmail.com)
--🌐 | [Website](https://resethacker.com/) 
+-🌐 | [Website](https://resethacker.com/)
+
 Thank you 
