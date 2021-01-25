@@ -1,7 +1,5 @@
-#Contributer of ResetHacker websites
+# Contributer of ResetHacker websites
 
-Role | The ResetHacker Show (Team)
--- | --
 Name | Developer Department 
 -- | --
 Altaf Shikh | [Team lead & Back-end developer](https://instagram.com/ialtafshaikh?igshid=1x3yi6o25uf1v)
