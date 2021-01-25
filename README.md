@@ -7,7 +7,7 @@ Index | Social Media
 --- | ---
 -📢 | [What is ResetHacker?](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#what-is-resethacker) 
 -🎓 | [How it started?](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#how-it-started) 
--🗨 | [Departments of ResetHacker]()
+-🗨 | [Departments of ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#departments-of-resethacker-community)
 -📺 | [ResetHacker Features]()
 -👁️‍🗨️ | [Our Journey]() 
 -👩‍💻 | [Meet ResetHacker]() 
