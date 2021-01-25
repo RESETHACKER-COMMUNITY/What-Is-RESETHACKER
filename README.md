@@ -118,6 +118,8 @@ Index | Events
 - 6th September 2020
 > ResetHacker assigned the task to RESTCON team to deliver certificates and price to the CTF winners.
 
+> ResetDeveloper scheduled an meeting to Creating an incident respond team for RESETHACKER website.
+
 - 4th September 2020
 > ResetHacker Community assigned the task to RESTCON team to deliver certificates and letter of appreciation to the speakers.
 
@@ -149,14 +151,49 @@ Index | Events
 - 28th August 2020
 > ResetHacker introduced the community partners of RESTCON, Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.
 
+- 27 August 2020
+> ResetDevelopers fixed the logo of Sponsor and community partners on the event page.
+
+> ResetDeveloper fixed the email registrations on the event page.
+
+> ResetDeveloper fixed the 500 error on the registration page.
+
+> ResetDeveloper fixed the issues with https://resethacker.com and https://www.resethacker.com
+
 - 6th August 2020
 > ResetHacker announced for the open Discussion on discord agenda will be hosting an onion server.
+
+- 26th Junly 2020
+> ResetDevelopers testing the CTFd platform and other platforms.
+
+- 23th Jully 2020
+> ResetDeveloper team (@Sagar Panwar) finish the developer page of ResetHacker.Kudos to Altaf for the leading the project.
+
+- 19th July 2020
+> ResetDeveloper team (@Miheer) finish the Login page of ResetHacker.Kudos to Altaf for leading the project.
+
+- 17th Jully 2020
+> ResetDeveloper Team (@Miheer) finalising the template for ResetHacker.CCID page.
+
+- 8th July 2020
+> ResetHacker Team (Solo rider and gaurav Yadav) finished the reset developer page for ResetHacker.Kudos to Altaf for leading the project.
+
+- 7th July 2020
+> ResetDevelopers co-leader(@Harsh) created an even sheet to simplify the task of Developers.
+
+- 29th June 2020
+> ResetDeveloper has submitted a prototype of ResetHacker websites and Thanks to @⁨RH(Altaf)⁩ @⁨RH(Harsh Docker)⁩ @⁨RH(Gaurav Dev+other)⁩ @⁨RH(Gagan Kartike Dev)⁩ @⁨RH(Shivansh Panday)⁩ @⁨RH(Miheer Gujarat Android Dev & Front End Dev)⁩ @⁨RH(waleed)⁩  @⁨M_solo_sad_rider⁩ 
+  @RH(gagan @⁨RH(Rohan )⁩ and  @⁨RH(Sagerpanwar)⁩.
 
 - 17th June 2020
 > ResetHacker launches the medium publication for IT sector and Gaurav Yadav Published his 1st blog Basic of ×86 architecture.
 
+> Resetdevelopers Team created a rough structure of resethacker.com .Kudos to team members Altaf, Harsh and gaurav.
+
 - 14th June 2020
 > ResetHacker Launches a mini CTF series called "Let's play CTF" with creators CyberKnight and moderator Smile_Hacker to promote CTF.
+
+> ResetDeveloper team minimising the programming language for the websites and it's types either the dynamic or static.
 
 - 12 June 2020
 > ResetHacker Celebrates the 5k on Instagram by going live with team members Cryptonic07, Walled, Harsh and Gaurav Singh.
