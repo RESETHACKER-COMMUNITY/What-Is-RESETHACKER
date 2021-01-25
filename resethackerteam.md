@@ -13,21 +13,16 @@ Encryptor | [Social media  Manager of RESETHACKER](https://instagram.com/_.encry
 Souravbaghz | [Leader & Team coordinator](https://instagram.com/souravbaghz?igshid=11ev1197z9qtt)
 Amir During | [Content coordinated](https://instagram.com/1.1.1.1_____?igshid=1mx7aqr29mio6)
 Rudraksh shini | [CTF CO-lead & Lead CTF Event](https://instagram.com/thehackerscrew_?igshid=ctvvrg69gi0b)
-*Kumar Ayush | [Graphical Design]
-(https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
+Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
 Gautam Makwana | [Co-lead Graphics designer](https://instagram.com/_iroot?igshid=1cyyca9inepxt
 Vijay | [Youtube Manager & discord Moderater ](https://instagram.com/_.v_j._?igshid=vrvvi9b9uo7c)
 DreyAnd | [Team member](https://instagram.com/dreycoding?igshid=ra07a6cb6w8y)
 Sahili gore| [Technical writer  & CTF player](https://instagram.com/xotic_hacker?igshid=1e19h8sa06c5j) 
 Chiranjit | [Video Editor Lead & Technical writer](https://instagram.com/cyberchiranjit?igshid=1mj784pc55lv2)
 Mayank | [Video Editor Co-Lead](https://instagram.com/mtrsacademy1?igshid=1fzbwfj5szh9t)
-Pratik Rajkumar Gupta | [Discord moderator & community Contributor]
+Pratik Rajkumar Gupta | [Discord moderator & community Contributor]()
 Riyaz Ahmad | [CTF player & Creator]()
 Sarthak Joshi | [CTF player & Technical writer]()
-
-
-New Members | [Community]()
--- | --
 QuiteHacker | [Host of Security Monday]()
 Basavaraj Banakar | [YouTube Host]()
 Simran Singh | [Medium admin & Technical writer]()
