@@ -118,7 +118,7 @@ Index | Events
 > ResetHacker assigned the task to RESTCON team to deliver certificates and price to the CTF winners.
 
 - 4th September 2020
-> ResetHacker Community assigned the task RESTCON team to deliver certificates and letter of appreciation to the speakers.
+> ResetHacker Community assigned the task to RESTCON team to deliver certificates and letter of appreciation to the speakers.
 
 - 1 September 2020
 > Announcement for RESETCON CTF winners.
@@ -148,14 +148,8 @@ Index | Events
 - 28th August 2020
 > ResetHacker introduced the community partners of RESTCON, Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.
 
-- 22nd August 2020
-> ResetHacker announcement of 2 days RESTCON Conference.
-
-- 19th August 2020
-> ResetHacker announced the 14hr RESTCON CTF.
-
 - 6th August 2020
-> ResetHacker announced the open Discussion on discord agenda was hosting an onion server.
+> ResetHacker announced for the open Discussion on discord agenda will be hosting an onion server.
 
 - 17th June 2020
 > ResetHacker launches the medium publication for IT sector and Gaurav Yadav Published his 1st blog Basic of ×86 architecture.
@@ -277,12 +271,12 @@ Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlo
 
 Index | Social Media
 --- | ---
---🎓 | [RESETHACKR DISCUSSION](https://t.me/resethacker/) 
+--🎓 | [RESETHACKR Telegram](https://t.me/resethacker/) 
 -🗨 | [RESETHACKER Discord](https://discord.gg/HbM3435JcX)
--👁️‍🗨️ | [Instagram ](https://instagram.com/@resethacker/) 
--👩‍💻 | [Tools](https://github.com/RESETHACKER) 
+-👁️‍🗨️ | [Instagram](https://instagram.com/@resethacker/) 
+-👩‍💻 | [Tools](https://github.com/RESETHACKER-COMMUNITY/) 
 -🏆 | [LinkedIn](https://www.linkedin.com/in/RESETHACKER/) 
 -💬 | [Medium](https://www.resethackerofficial.medium.com/)
 -📩 | [Contact](resethackerteam@gmail.com)
 -🌐 | [Website](https://resethacker.com/) 
-
+Thank you 
