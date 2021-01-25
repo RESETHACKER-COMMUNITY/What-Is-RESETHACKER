@@ -12,7 +12,7 @@ Index | Social Media
 -👁️‍🗨️ | [Our Journey]() 
 -👩‍💻 | [Meet ResetHacker]() 
 -🏆 | [Be Scocial with ResetHacker]() 
--💬 | [Contributors of ResetHacker]()
+-💬 | [Contributors of ResetHacker](/contributers.md)
 -🌐 | [Website](https://resethacker.com/) 
 
 
@@ -264,7 +264,7 @@ Gokula krishnan | [Video Editor]()
 Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
 
 
-# [Contributors of ResetHacker](/resethackerteam.md)
+# [Contributors of ResetHacker](contributers.md)
 
 
 ## Be Social with RESETHACKER
