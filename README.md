@@ -1,6 +1,7 @@
 # Content table
-In the age where Hacking is crime. India is digitising fast but non technical people & Technical people do not care about Privacy, data leaks,etc.
-Wouldn’t it be great if IT community and people who care join together to better understand the changing digital India and learn Security.
+> [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
+
+> Send a birthday message #RESETHACKER2021
 
 Index | Social Media
 --- | ---
@@ -18,7 +19,7 @@ Index | Social Media
 # What is RESETHACKER?
 > *RESETHACKER* is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
-√ *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
+ *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
 ## How It started?
 > Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 45+ people are the CORE of RESETHACKER.
@@ -262,7 +263,7 @@ Mayank Arora | [Video Editor]()
 Gokula krishnan | [Video Editor]()
 Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
 
-√ Send a birthday message #RESETHACKER2021
+
 # [Contributors of ResetHacker](/resethackerteam.md)
 
 
