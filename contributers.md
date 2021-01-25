@@ -1,10 +1,19 @@
 #Contributer of ResetHacker websites
 
-  @RH(Gagan Kartike Dev)⁩ @⁨RH(Shivansh Panday)⁩ ⁩ @⁨M_solo_sad_rider⁩ @RH(gagan  and @⁨RH(Sagerpanwar)⁩.
-Developer Department 
 Role | The ResetHacker Show (Team)
 -- | --
-Host | cryptonic07
+Name | Developer Department 
+-- | --
+Altaf Shikh | [Team lead & Back-end developer](https://instagram.com/ialtafshaikh?igshid=1x3yi6o25uf1v)
+Rohan chouhan | [Team advisor](https://instagram.com/coders.arena?igshid=1luqw330aiwrr)
+Harsh Singhvi | [Devops Lead & Team co-ordinator](https://instagram.com/insomniac_coder?igshid=5w1s7jlwc5bi)
+Sager panwar | [Front end developer and Github moderator](https://instagram.com/sagarpanwar5249?igshid=8lpyy1lufdn8)
+Mr.Solo sad rider | [Front end developer](https://instagram.com/mr.solo_sad_rider?igshid=17msl7m9b8dh9)
+Mihir | [Front end developer]()
+Waleed | [Lead Mi/Ai ](https://instagram.com/pistalavista?igshid=ghh094dihv5k)
+Gagan Kartike Dev | [Front End developer]()
+Shivansh Panday | [front end developers]()
+Gagan | [Developer]()
 
 
 # Contributers of The ResetHacker Show
