@@ -43,7 +43,7 @@ Index | Department
 > ResetHacker launches new department for video editors, graphical designers and logo designers. where the Gautam Makwana⁣ and Chiranjit Ghosh got promoted as a leader of RESETEDITOR department.
 
 - 1st Dec 2020
-> ResetHacker introduced SPOTLIGHT to appreciate the findings and technical writing of community.
+> ResetHacker introduced SPOTLIGHT to appreciate the findings and technical writing of individuals.
 
 - 22nd November 2020
 > ResetHacker conducts his 1st Joint Meeting with community and all the departments to nominate the leader, new roles, helpdesk for the community and resolving the question of team ResetHacker.
@@ -72,9 +72,10 @@ Index | Department
 > ResetHacker announced the partnership giveaway with Spyspe.
 
 - 5th October 2020
-> ResetHacker got mentioned in **Integrity** Blog for "Top 20 bug bounty YouTube channels to follow in 2020!"
+> The ResetHacker Show(Host:@Cryptonic007 & Mod: @Encryptor) got appreciated by **Integrity** in "Top 20 bug bounty YouTube channels to follow in 2020!"
+> **Intigriti** awarded **ResetHacker** with €133 Swag Voucher and appreciate the hard work of ResetHacker Team.
 
-- 2th October 2020
+- 2nd October 2020
 > ResetHacker team got appreciated from the board of directors by receiving a certificate for the contributions to the RESTCON.
 
 - 1st October 2020
@@ -82,7 +83,7 @@ Index | Department
 
 - 24th September 2020
 > RH_Security leaders assigned with the task to create a Pentesting report Samples, Quotation, privacy policy for ResetHacker.
-
+> 
 - 
 >
 √ Updating Soon
