@@ -10,9 +10,9 @@ Index | Social Media
 -🗨 | [Departments of ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#departments-of-resethacker-community)
 -📺 | [ResetHacker Features](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#resethacker-features)
 -👁️‍🗨️ | [Our Journey](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#our-journey) 
--👩‍💻 | [Meet ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#meet-resethacker) 
--🏆 | [Be Scocial with ResetHacker]() 
+-👩‍💻 | [Meet ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#meet-resethacker)  
 -💬 | [Contributors of ResetHacker](/contributers.md)
+-🏆 | [Be Scocial with ResetHacker]()
 -🌐 | [Website](https://resethacker.com/) 
 
 
