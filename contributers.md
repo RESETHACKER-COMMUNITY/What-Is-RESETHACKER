@@ -1,4 +1,4 @@
-#Leaders of Security Departments
+# Leaders of Security Departments
 
 Name |Roles]
 -- | --
@@ -71,6 +71,7 @@ Graphics designer2 | Gautam Makwana
 YouTube Manager | Vijay
 Team Coordinator| Saurav Baghz
 
+# Contributers of The ResetHacker Show
 
 Index | The ResetHacker show (Guests)
 -- | --
@@ -97,7 +98,7 @@ Content Director | attr1b
 Team Coordinator| Saurav Baghz
 
 
-# Contributers of Monthly Webinar 
+# Contributers of ResetBounty- Monthly Webinar 
 
 Role | The ResetHacker Show (Team)
 -- | --
@@ -111,8 +112,9 @@ Team manager | Tushar Baweja
 Communication Manager | Anugrah SR
 Event Management| Tushar Varma 
 
+# Contributers of ResetBounty
 
-Index | The ResetHacker show (Guests)
+Index | RESETBOUNTY- Monthly Webinar (Guests)
 -- | --
 1 | Smile Hacker, 
 2 | Ninad Mathapati 
@@ -129,6 +131,8 @@ Graphics designer | Gautam Makwana
 Team Coordinator| Saurav Bagh
 Team manager | Tushar Baweja
 
+# Contributers of ResetHacker Spotlight 
+
 Index | The ResetHacker show (Guests)
 -- | --
 1 | Imran penny 
@@ -136,6 +140,7 @@ Index | The ResetHacker show (Guests)
 3 | Basu Banker 
 
 # Q/A Live session
+
 Role | Public representatives
 -- | --
 Host 1 | cryptonic07
@@ -144,6 +149,7 @@ Host 3 | Gaurav Singh
 
 
 # Discord Discussion 
+
 Role | Public representatives
 -- | --
 Host 1 | CyberKnight
@@ -155,6 +161,7 @@ Host 5 | cryptonic07
 
 
 # Blog Writeups
+
 Role | Technical Writers 
 -- | --
 Content Coordinator | 1.1.1.1
@@ -166,6 +173,7 @@ Team Coordinator/Managaer | Saurabhaz
 
 
 # Social Media Management 
+
 Role | Technical Writers 
 -- | --
 Instagram | encryptor
@@ -178,7 +186,8 @@ Signal | Anugrah SR
 
 
 
-#RESTCON 2020 conference Speakers
+# RESTCON 2020 conference Speakers
+
 Bug Hunting day (28th Aug) | Researchersers day (29 Aug)
 -- | --
 Alyssa Miller | Phillips Wylie, 
@@ -188,7 +197,8 @@ Chenny Ren | Akash Sharma,
 Aravindha Hariharan | Atul Singh
 Umair Nehri | Viral parmar
 
-#RESTCON 2020 sponsores
+# RESTCON 2020 sponsored
+
 Index | Sponsorers
 -- | --
 0 | ResetHacker Security Dept 
@@ -201,7 +211,8 @@ Index | Sponsorers
 7 | ResetHacker.CCID Dept. 
 
 
-#RESTCON 2020 Supporters 
+# RESTCON 2020 Supporters 
+
 Promotion partners | community partners
 -- | --
 Owasp Chandigarh | Thapar university, 
@@ -213,7 +224,8 @@ Noob_4rmy |
 , 
  
 
-#RESTCON CTF Contributors
+# RESTCON CTF Contributors
+
 INDEX | CTF contributors
 -- | --
 1. CyberKnight
