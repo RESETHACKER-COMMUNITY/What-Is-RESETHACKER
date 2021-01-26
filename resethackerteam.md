@@ -26,7 +26,7 @@ Basavaraj Banakar | [YouTube Host]()
 Simran Singh | [Medium admin & Technical writer]()
 Anugrah SR | [Event planner & Moderator]() 
 Tushar Varma | [Event planner & Moderator]()
-Rahul | [GitHub Management & Moderator]()
+Rahul | [GitHub Management & Moderator](https://twitter.com/coder_rc)
 Ujjawal Kumar | [GitHub Management & Contributor]()
 
 
