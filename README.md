@@ -336,11 +336,11 @@ Vikram | [Founder & Board of Director]
 Me.Alien | [Board of Directors](https://instagram.com/all_illusions__?igshid=1oclwhm4jmbgi)
 *M. Jaffer | [Resethacker Adviser](https://instagram.com/moh4mm3d_j4ff3r?igshid=l17pbrnd854q)
 Tajwer khan | [Resethacker Adviser](https://instagram.com/tajwar_khan_?igshid=mxxr8b95owdc)
-CyberKnight | [Lead CTF creator & Discord Host](https://instagram.com/cyberknight00?igshid=xuceryx1s7y)
+CyberKnight | [Pentester](https://instagram.com/cyberknight00?igshid=xuceryx1s7y)
 Harsh Boathra | [Pentester & Bug Hunter]()
-Arnav Tripathy | [Security Researcher](https://instagram.com/arnavtripathy98?igshid=qbuppe2klpfe)
-Cryptonic07 | [pentester ](https://instagram.com/cryptonic007?igshid=1ff7bpzyxyo25)
-SmileHacker | [Bug Hunter]()
+Arnav Tripathy | [Pentester & Security Researcher](https://instagram.com/arnavtripathy98?igshid=qbuppe2klpfe)
+Cryptonic07 | [pentester & CTF player ](https://instagram.com/cryptonic007?igshid=1ff7bpzyxyo25)
+SmileHacker | [Bug Hunter & Security Researchers]()
 
 
 # [Contributors of ResetHacker](contributers.md)
