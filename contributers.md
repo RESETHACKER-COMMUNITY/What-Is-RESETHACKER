@@ -1,4 +1,4 @@
-#Contributer of ResetHacker Community 
+# Contributer of ResetHacker Community 
 
 ## Contributer of ResetHacker websites
 
@@ -184,7 +184,7 @@ Noob_4rmy |
 
 ## RESTCON CTF Contributors
 
-INDEX | CTF contributors
+Index | CTF contributors
 -- | --
 1. | CyberKnight
 2. | RyuSec
