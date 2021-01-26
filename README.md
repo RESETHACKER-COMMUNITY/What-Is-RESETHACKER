@@ -13,7 +13,7 @@
 > [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 
 ## Sponsor Resethacker
-<a href="https://www.paypal.com/paypalme/Vicky481"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="200" ></a>
+<a href="https://www.paypal.com/paypalme/Vicky481"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="150" ></a>
 
 Index | *ResetHacker*
 --- | ---
