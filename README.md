@@ -241,14 +241,14 @@ Index | Events
 
 # Meet ResetHacker
 
-# Leader of ResetDevelopers Department 
+## Leader of ResetDevelopers Department 
 
 Name | Roles
 -- | --
 Lead | Altaf Shaik
 Co-lead | Harsh Sangvi
 
-# Leader of ResetHacker.CCID Department 
+## Leader of ResetHacker.CCID Department 
 
 Name | Roles
 -- | --
@@ -256,14 +256,14 @@ Lead | Gaurav Singh
 Co-lead | SaurabBagz
 
 
-# Leader of Editors Department 
+## Leader of Editors Department 
 
 Name | Roles
 -- | --
 Lead | Gautam Makawana
 Lead | Ranjeet
 
-# Leaders of ResetHacker community 
+## Leaders of ResetHacker community 
 
 Name | Roles
 -- | --
@@ -314,7 +314,6 @@ Name | Editor Department
 Gautam | [Lead( Graphics Designer)]()
 Kalsariya mitulbhai | [Graphics Designer]()
 Chiranjit | [Video Editor Lead & Technical writer](https://instagram.com/cyberchiranjit?igshid=1mj784pc55lv2)
-
 Mayank | [Video Editor Co-Lead](https://instagram.com/mtrsacademy1?igshid=1fzbwfj5szh9t)
 Akash Majumder | [Video Editor]()
 Chitrayudh Basu | [Video Editor]()
@@ -323,7 +322,7 @@ Mayank Arora | [Video Editor]()
 Gokula krishnan | [Video Editor]()
 Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlobsso6f)
 
-# Leaders of Security Departments
+## Leaders of Security Departments
 
 Name |Roles]
 -- | --
@@ -333,7 +332,7 @@ Me.Alien | [Board of Directors](https://instagram.com/all_illusions__?igshid=1oc
 *M. Jaffer | [Resethacker Adviser](https://instagram.com/moh4mm3d_j4ff3r?igshid=l17pbrnd854q)
 Tajwer khan | [Resethacker Adviser](https://instagram.com/tajwar_khan_?igshid=mxxr8b95owdc)
 CyberKnight | [Lead CTF creator & Discord Host](https://instagram.com/cyberknight00?igshid=xuceryx1s7y)
-Harsh Boathra | [Pentester & Bug Hunter]
+Harsh Boathra | [Pentester & Bug Hunter]()
 Arnav Tripathy | [Security Researcher](https://instagram.com/arnavtripathy98?igshid=qbuppe2klpfe)
 Cryptonic07 | [pentester ](https://instagram.com/cryptonic007?igshid=1ff7bpzyxyo25)
 SmileHacker | [Bug Hunter]()
