@@ -247,14 +247,12 @@ Index | Events
 # Meet ResetHacker
 
 ## Leader of ResetDevelopers Department 
-
 Name | Roles
 -- | --
 Lead | Altaf Shaik
 Co-lead | Harsh Sangvi
 
 ## Leader of ResetHacker.CCID Department 
-
 Name | Roles
 -- | --
 Lead | Gaurav Singh
@@ -262,14 +260,12 @@ Co-lead | SaurabBagz
 
 
 ## Leader of Editors Department 
-
 Name | Roles
 -- | --
 Lead | Gautam Makawana
 Lead | Ranjeet
 
 ## Leaders of ResetHacker community 
-
 Name | Roles
 -- | --
 Attr1b | [Lead Community & Content director]
