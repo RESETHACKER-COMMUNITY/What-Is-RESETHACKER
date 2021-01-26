@@ -37,7 +37,7 @@ Index | *ResetHacker*
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
-**1** | [ResetHacker Security-Freelance Penitration Testing(www.resethacker.com)
+**1** | [ResetHacker Security-Freelance Penitration Testing](www.resethacker.com)
 **2** | [ResetDeveloper Dept.](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
 **3** | [ResetHacker Cyber Crime Investigation Dept.](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
 **4** | [ResetEditors Dept.](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
