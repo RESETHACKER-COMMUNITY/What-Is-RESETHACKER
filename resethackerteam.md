@@ -1,5 +1,3 @@
-Name | ResetHacker Role
--- | --
 ## Leader of ResetDevelopers Department 
 Name | Roles
 -- | --
