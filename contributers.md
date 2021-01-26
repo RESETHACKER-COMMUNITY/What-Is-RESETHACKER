@@ -1,6 +1,6 @@
+#Contributer of ResetHacker Community 
 
-
-# Contributer of ResetHacker websites
+## Contributer of ResetHacker websites
 
 Name | Developer Department 
 -- | --
@@ -17,7 +17,7 @@ Gagan | [Developer]()
 Gaurav Yadav | [front+back end Developer]()
 
 
-# Contributers of The ResetHacker Show
+## Contributers of The ResetHacker Show
 
 Role | The ResetHacker Show (Team)
 -- | --
@@ -31,7 +31,7 @@ Graphics designer2 | Gautam Makwana
 YouTube Manager | Vijay
 Team Coordinator| Saurav Baghz
 
-# Contributers of The ResetHacker Show
+## Contributers of The ResetHacker Show
 
 Index | The ResetHacker show (Guests)
 -- | --
@@ -47,7 +47,7 @@ Index | The ResetHacker show (Guests)
 10 | Rupendra Bauhtey 
 11 | Tushar Baweja.
 
-# Contributers of Security Monday
+## Contributers of Security Monday
 
 Role | Schrity Monday(Team)
 -- | --
@@ -58,7 +58,7 @@ Content Director | attr1b
 Team Coordinator| Saurav Baghz
 
 
-# Contributers of ResetBounty- Monthly Webinar 
+## Contributers of ResetBounty- Monthly Webinar 
 
 Role | The ResetHacker Show (Team)
 -- | --
@@ -72,7 +72,7 @@ Team manager | Tushar Baweja
 Communication Manager | Anugrah SR
 Event Management| Tushar Varma 
 
-# Contributers of ResetBounty
+## Contributers of ResetBounty
 
 Index | RESETBOUNTY- Monthly Webinar (Guests)
 -- | --
@@ -81,7 +81,7 @@ Index | RESETBOUNTY- Monthly Webinar (Guests)
 3 | Guest Speaker
 
 
-# Contributers of ResetHacker Spotlight 
+## Contributers of ResetHacker Spotlight 
 
 Role | ResetHacker Spotlight (Team)
 -- | --
@@ -91,7 +91,7 @@ Graphics designer | Gautam Makwana
 Team Coordinator| Saurav Bagh
 Team manager | Tushar Baweja
 
-# Contributers of ResetHacker Spotlight 
+## Contributers of ResetHacker Spotlight 
 
 Index | The ResetHacker show (Guests)
 -- | --
@@ -99,7 +99,7 @@ Index | The ResetHacker show (Guests)
 2 | Simran Singh
 3 | Basu Banker 
 
-# Q/A Live session
+## Q/A Live session
 
 Role | Public representatives
 -- | --
@@ -108,7 +108,7 @@ Host 2 | Tushar Baweja
 Host 3 | Gaurav Singh
 
 
-# Discord Discussion 
+## Discord Discussion 
 
 Role | Public representatives
 -- | --
@@ -120,7 +120,7 @@ Host 4 | Smile_Hacker
 Host 5 | cryptonic07
 
 
-# Blog Writeups
+## Blog Writeups
 
 Role | Technical Writers 
 -- | --
@@ -132,7 +132,7 @@ Technical Writter 1 | xxxxx
 Team Coordinator/Managaer | Saurabhaz
 
 
-# Social Media Management 
+## Social Media Management 
 
 Role | Technical Writers 
 -- | --
@@ -146,7 +146,7 @@ Signal | Anugrah SR
 
 
 
-# RESTCON 2020 conference Speakers
+## RESTCON 2020 conference Speakers
 
 Bug Hunting day (28th Aug) | Researchersers day (29 Aug)
 -- | --
@@ -157,7 +157,7 @@ Chenny Ren | Akash Sharma,
 Aravindha Hariharan | Atul Singh
 Umair Nehri | Viral parmar
 
-# RESTCON 2020 sponsored
+## RESTCON 2020 sponsored
 
 Index | Sponsorers
 -- | --
@@ -171,7 +171,7 @@ Index | Sponsorers
 7 | ResetHacker.CCID Dept. 
 
 
-# RESTCON 2020 Supporters 
+## RESTCON 2020 Supporters 
 
 Promotion partners | community partners
 -- | --
@@ -182,7 +182,7 @@ Bsidesmaharashtra | The Hacker meetups.
 Noob_4rmy | 
  
 
-# RESTCON CTF Contributors
+## RESTCON CTF Contributors
 
 INDEX | CTF contributors
 -- | --
