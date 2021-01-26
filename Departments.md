@@ -11,13 +11,13 @@ Index | Department
 
 
  1. **RESETHACKER Security**
-√ (A freelancer team of White Hat Hackers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH, CCNA, A+N+  etc)
+√ (A team of freelance penetration Testers and our team member from corporate are equipped with certification such as OSCP, ECSA, CEH, CCNA, A+N+  etc)
 
  2. **RESETHACKER Cybercrime Investigation Department** (@resethacker.ccid)
-√ (A freelancer team of cybercrime investigators to resolve the problem related to cybercrime and provide awareness around the world )
+√ (A team of freelance cybercrime investigators to resolve the problem related to cybercrime and provide awareness around the world )
 
  3. **RESETDEVELOPERS** (@resetdvelopers)
-√ (A freelancer team of websites developers, Android developers, ml/AI learners etc) 
+√ (A freelance team of websites developers, Android developers, and software engineer.) 
 
  4. **RESETEDITORS** (@reseteditors)
 √ (A freelancer team of Videos editors, graphic designer etc)
