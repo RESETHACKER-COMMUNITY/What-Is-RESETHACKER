@@ -1,4 +1,4 @@
-# 26th January - Republic Day with RESETHACKER
+## 26th January - Republic Day with RESETHACKER
 
 <h1 align="center">
   <br>
