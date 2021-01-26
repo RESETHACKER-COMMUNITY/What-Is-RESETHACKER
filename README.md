@@ -1,9 +1,12 @@
 # Content table
 > [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
+- 26th January - Republic Day with RESETHACKER.
+> ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation, Making everything transparent for the community.
+
+> Made in India🇮🇳 
 
 > Send a birthday message #RESETHACKER2021 
-> Celebrate Republic Day 2021 with **RESETHACKER**
-> Made in India🇮🇳 
+
 
 Index | *ResetHacker*
 --- | ---
