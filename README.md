@@ -27,10 +27,10 @@ Index | Social Media
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
-**1** | ResetSecurity Dept.
-**2** | ResetDeveloper Dept.
-**3** | ResetHacker Cyber Crime Investigation Dept.
-**4** | ResetEditors Dept.
+**1** | [ResetSecurity Dept.](Confedential)
+**2** | [ResetDeveloper Dept.](https://instagram.com/resetdevelopers)
+**3** | [ResetHacker Cyber Crime Investigation Dept.](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
+**4** | [ResetEditors Dept.](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
 
 # ResetHacker Features 
 Index | Events 
