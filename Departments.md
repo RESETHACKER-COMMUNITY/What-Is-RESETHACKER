@@ -1,6 +1,6 @@
 ## How RESETHACKER Community is separated from the Departments?
 
-> We have created 4 departments based on the domain, skill and experience.Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge Non-Technical & Technical people in IT sectors.
+> ResetHacker have created 4 departments based on the profession, skill and experience. Each Departments mainly focus on projects & Development where ResetHacker community focus on providing free cybersecurity knowledge to Non-Technical & Technical people in IT sectors.
 
 Index | Department 
 --- | ---
