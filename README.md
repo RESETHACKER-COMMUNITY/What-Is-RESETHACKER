@@ -249,7 +249,7 @@ Me.Alien | [Board of Directors](https://instagram.com/all_illusions__?igshid=1oc
 Tajwer khan | [Resethacker Adviser](https://instagram.com/tajwar_khan_?igshid=mxxr8b95owdc)
 CyberKnight | [Lead CTF creator & Discord Host](https://instagram.com/cyberknight00?igshid=xuceryx1s7y)
 Arnav Tripathy | [Security Researcher](https://instagram.com/arnavtripathy98?igshid=qbuppe2klpfe)
-Cryptonic07 | [Leader & The ResetHacker Show Host](https://instagram.com/cryptonic007?igshid=1ff7bpzyxyo25)
+Cryptonic07 | [Host:The ResetHacker Show & Core ](https://instagram.com/cryptonic007?igshid=1ff7bpzyxyo25)
 Tushar Baweja | [Team Manager of RESETHACKER](https://instagram.com/thetusharbaweja?igshid=h2uuc0a3ju4q)
 Encryptor | [Social media  Manager of RESETHACKER](https://instagram.com/_.encryptor._?igshid=2bw4lipcnz1m)
 Souravbaghz | [Leader & Team coordinator](https://instagram.com/souravbaghz?igshid=11ev1197z9qtt)
@@ -313,7 +313,7 @@ Kumar Ayush | [Graphical Design](https://instagram.com/imtheayush?igshid=11yqzlo
 
 Index | Social Media
 --- | ---
---🎓 | [RESETHACKR Telegram](https://t.me/resethacker/) 
+-🎓 | [RESETHACKR Telegram](https://t.me/resethacker/) 
 -🗨 | [RESETHACKER Discord](https://discord.gg/HbM3435JcX)
 -👁️‍🗨️ | [Instagram](https://instagram.com/@resethacker/) 
 -👩‍💻 | [Tools](https://github.com/RESETHACKER-COMMUNITY/) 
