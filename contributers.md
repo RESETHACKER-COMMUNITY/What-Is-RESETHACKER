@@ -126,10 +126,61 @@ Team Coordinator/Managaer | Saurabhaz
 # Social Media Management 
 Role | Technical Writers 
 -- | --
-Instagram | 1.1.1.1
+Instagram | encryptor
 twitter | Attr1b 
 linked in |
-Telegram | Automate
+Telegram | @Reset_RC
 Dircord | Automate
-WhatsApp | 
+WhatsApp | Tushaer Varma
+Signal | Anugrah SR
 
+
+
+#RESTCON 2020 conference Speakers
+Bug Hunting day (28th Aug) | Researchersers day (29 Aug)
+-- | --
+Alyssa Miller | Phillips Wylie, 
+priyanshu_ratnakar ⁣| Nitin Panday, 
+sankarrajj⁣ | Tajwar Khan, 
+Chenny Ren | Akash Sharma, 
+Aravindha Hariharan | Atul Singh
+Umair Nehri | Viral parmar
+
+#RESTCON 2020 sponsores
+Index | Sponsorers
+-- | --
+0 | ResetHacker Security Dept 
+1 | Google cloud, 
+2 | Bugsee 
+3 | HTB
+4 | Tryhackme, 
+5 | ResetDevelopers Dept.
+6 | 3daysHack  
+7 | ResetHacker.CCID Dept. 
+
+
+#RESTCON 2020 Supporters 
+Promotion partners | community partners
+-- | --
+Owasp Chandigarh | Thapar university, 
+Cyberhack_lpu | Owasp tiet
+Secarmy | Vellore Institute of Technology
+Bsidesmaharashtra | The Hacker meetups.
+Noob_4rmy | 
+
+, 
+ 
+
+#RESTCON CTF Contributors
+INDEX | CTF contributors
+-- | --
+1. CyberKnight
+2. RyuSec
+2. DreyAnd
+3. Cryptonic07
+4. Attr1b
+5. Recardo
+6. Altaf
+7. Smile_hacker
+8. Umair Nehri
+ 
