@@ -26,10 +26,11 @@ Co-Host 1 | Tushar Baweja
 Co-Host 2 | Gaurav Singh
 Moderator1 | Encryptor
 Content Director | attr1b
+Team Coordinator| Saurav Baghz
 Graphics designer1 | Kumar Ayush
 Graphics designer2 | Gautam Makwana
+Video Editor | Renjeet
 YouTube Manager | Vijay
-Team Coordinator| Saurav Baghz
 
 ## Contributers of The ResetHacker Show
 
