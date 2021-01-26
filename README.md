@@ -42,7 +42,7 @@ Index | Department
 **3** | [ResetHacker Cyber Crime Investigation Dept.](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
 **4** | [ResetEditors Dept.](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
 
-# ResetHacker Features 
+## ResetHacker Community Features 
 Index | Events 
 --- | ---
 **1** | [Monthly Webinar](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
