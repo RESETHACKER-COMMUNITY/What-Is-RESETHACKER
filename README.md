@@ -47,15 +47,15 @@ Index | Department
 ## ResetHacker Community Features 
 Index | Events 
 --- | ---
-**1** | [Monthly Webinar](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
+**1** | [Monthly Webinar on Pentesting](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
 **2** | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO)
-**3** | [The ResetHacker Show](https://youtube.com/playlist?list=PLNR8n-5bMyMNQOHLdDh6-t0Hw_YPWa04N)
-**4** | [Security Monday](https://youtube.com/playlist?list=PLNR8n-5bMyMMdpvOtaHB8r1ScVBg2Ed2m)
-**5** | [ResetHacker Publication](https://www.resethackerofficial.medium.com/)
-**6** | [Mini CTF](https://youtube.com/playlist?list=PLNR8n-5bMyMOR6PHMOKXtTBMnguMMugFM)
-**7** | [ResetHacker Discussion](https://t.me/joinchat/URNgiYnNKnZw_Jqy)
-**8** | [Discord Discussions](https://discord.gg/HbM3435JcX)
-**9** | [ResetHacker Spotlight](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
+**3** | [The ResetHacker Show - Interview with Hacker](https://youtube.com/playlist?list=PLNR8n-5bMyMNQOHLdDh6-t0Hw_YPWa04N)
+**4** | [Security Monday - Weekly News from IT sector](https://youtube.com/playlist?list=PLNR8n-5bMyMMdpvOtaHB8r1ScVBg2Ed2m)
+**5** | [ResetHacker Publication- Blogs](https://www.resethackerofficial.medium.com/)
+**6** | [Mini CTF - Monthly CTF](https://youtube.com/playlist?list=PLNR8n-5bMyMOR6PHMOKXtTBMnguMMugFM)
+**7** | [ResetHacker Discussion to discuss Vulnerability](https://t.me/joinchat/URNgiYnNKnZw_Jqy)
+**8** | [Discord Discussions - resources & Open talk](https://discord.gg/HbM3435JcX)
+**9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
 - 26th January 2021
