@@ -36,17 +36,17 @@ YouTube Manager | Vijay
 
 Index | The ResetHacker show (Guests)
 -- | --
-1 | Aditya shende, 
-2 | Harsh Bothra, 
-3 | Ashish Kunwar, 
-4 | Kishan Choudhary, 
-5 | Udit Bhadaurai, 
-6 | Mr Hacker, 
-7 | Aakash Sharma, 
-8 | Mayank Bharti, 
-9 | that faceless coder, 
+1 | Aditya shende
+2 | Harsh Bothra
+3 | Ashish Kunwar
+4 | Kishan Choudhary
+5 | Udit Bhadaurai
+6 | Mr Hacker
+7 | Aakash Sharma
+8 | Mayank Bharti
+9 | that faceless coder 
 10 | Rupendra Bauhtey 
-11 | Tushar Baweja.
+11 | Tushar Baweja
 
 ## Contributers of Security Monday
 
@@ -77,7 +77,7 @@ Event Management| Tushar Varma
 
 Index | RESETBOUNTY- Monthly Webinar (Guests)
 -- | --
-1 | Smile Hacker, 
+1 | Smile Hacker
 2 | Ninad Mathapati 
 3 | Guest Speaker
 
@@ -141,8 +141,8 @@ Instagram | encryptor
 twitter | Attr1b 
 linked in |
 Telegram | @Reset_RC
-Dircord | Automate
-WhatsApp | Tushaer Varma
+Discord | Automate
+WhatsApp | Tushar Varma
 Signal | Anugrah SR
 
 
@@ -162,24 +162,24 @@ Umair Nehri | Viral parmar
 
 Index | Sponsorers
 -- | --
-0 | ResetHacker Security Dept 
-1 | Google cloud, 
+0 | ResetHacker Security Dept.
+1 | Google cloud 
 2 | Bugsee 
 3 | HTB
-4 | Tryhackme, 
+4 | Tryhackme
 5 | ResetDevelopers Dept.
 6 | 3daysHack  
-7 | ResetHacker.CCID Dept. 
+7 | ResetHacker.CCID Dept.
 
 
 ## RESTCON 2020 Supporters 
 
 Promotion partners | community partners
 -- | --
-Owasp Chandigarh | Thapar university, 
+Owasp Chandigarh | Thapar university 
 Cyberhack_lpu | Owasp tiet
 Secarmy | Vellore Institute of Technology
-Bsidesmaharashtra | The Hacker meetups.
+Bsidesmaharashtra | The Hacker meetups
 Noob_4rmy | 
  
 
