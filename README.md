@@ -64,10 +64,10 @@ Index | Events
 > ResetHacker disclosed the inside details, teams, workflow, achievement and exclusive resources. 
 
 - 6th January 2020
-> ResetHacker introduced private Discussion group with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
+> ResetHacker introduced **private Discussion group** with a purpose to explore, discuss the vulnerability, attacks, POC, pen-testing, bug hunting approaches, privacy, tools development, programming, project and talk about the best in IT sector.
 
 - 4th January 2020
-> ResetHacker launches Helpdesk on discord, to giving community full assistance with questions on ResetHacker discord, explore and curate content.
+> ResetHacker launches **Helpdesk** on discord, to giving community full assistance with questions on ResetHacker discord, explore and curate content.
 
 - 1st January 2020
 > ResetHacker announce an opportunity for leaders who have an enthusiasm to bring the community together and wants to join Team ResetHacker.
@@ -104,7 +104,7 @@ Index | Events
 > ResetHacker received a Gift from **Spyspe**.
 
 - 18th October 2020
-> RH_CCID officially launched the cybercrime report portal to take query for the investigation.
+> RH_CCID officially launched the **cybercrime report portal** to take query for the investigation.
 > ResetHacker team of CTF creators (Cyberknight, Mr.Unstoppable and Thehackercrew) volunteering bsidesmaharastra by creating challenges in the event.
 
 - 17th October 2020
@@ -143,6 +143,12 @@ Index | Events
 
 > Statistics of CTFd platform are 626 Team,1.1k individual.
 
+> ResetDevelopers department assigned @Harsh to moderate the CTF server and resolve the issue.
+
+> ResetHacker assigned RESTCON team( @Cyberknight, @Attrib, @RyuSec) to uploading update the challenges and resolve the issue with the challenges.
+
+> ResetHacker assigned Cyberknight, cryptonic007, Smile_hacker, saurav & Thehackercrew to moderate the discord.
+
 - 29th August 2020
 
 > ResetHacker presents 2nd day of **RESTCON conference** called as Researchersers day with the guest speakers Phillips Wylie, Nitin Panday, Tajwar Khan, Akash Sharma, Atul Singh and Umair Nehri
@@ -154,14 +160,14 @@ Index | Events
   Owaspchandigarh Cyberhack_lpu Secarmy Bsidesmaharashtra and Noob_4rmy
 
 - 28th August 2020
-> ResetHacker presents 1st day of **RESTCON conference** called as Bug Hunting day with guest speakers Alyssa Miller, priyanshu_ratnakar⁣, sankarrajj⁣, Chenny Ren and aravindha Hariharan.
+> ResetHacker presents 1st day of **RESTCON conference** called as **Bug Hunting day** with guest speakers **Alyssa Miller, priyanshu_ratnakar⁣, sankarrajj⁣, Chenny Ren and aravindha Hariharan.**
 
-> RESETHACKER organized RESTCON Sponsored by ResetHacker Security Department, Google cloud, Bugsee, HTB, Tryhackme, 3daysHack, ResetHacker.CCID Dept. and ResetDevelopers Dept.
+> RESETHACKER organized RESTCON **Sponsored** by **ResetHacker Security Department, Google cloud, Bugsee, HTB, Tryhackme, 3daysHack, ResetHacker.CCID Dept. and ResetDevelopers Dept.**
 
 > Total number of visitors for the 1st day of RESTCON conference was 2k.
 
 - 28th August 2020
-> ResetHacker introduced the community partners of RESTCON, Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.
+> ResetHacker introduced the **community partners** of RESTCON:- **Thapar university, Owasp tiet, Vellore Institute of Technology and The Hacker meetups.**
 
 - 27 August 2020
 > ResetDevelopers Dept. fixed the logo of Sponsor and community partners on the event page.
