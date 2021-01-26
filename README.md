@@ -1,8 +1,9 @@
 # Content table
 > [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 
-> Send a birthday message #RESETHACKER2021
-> Celebrate Republic day with RESETHACKER 
+> Send a birthday message #RESETHACKER2021 
+> Celebrate Republic Day 2021 with **RESETHACKER**
+> Made in India🇮🇳 
 
 Index | *ResetHacker*
 --- | ---
