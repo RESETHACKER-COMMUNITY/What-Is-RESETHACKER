@@ -3,7 +3,7 @@
 - 26th January - Republic Day with RESETHACKER.
 > ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation, Making everything transparent for the community.
 
-> Made in India🇮🇳 
+> Made in India 🇮🇳 
 
 > *Send a birthday message #RESETHACKER2021* 
 
