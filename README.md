@@ -151,13 +151,13 @@ Index | Events
 
 - 29th August 2020
 
-> ResetHacker presents 2nd day of **RESTCON conference** called as Researchersers day with the guest speakers Phillips Wylie, Nitin Panday, Tajwar Khan, Akash Sharma, Atul Singh and Umair Nehri
+> ResetHacker presents 2nd day of **RESTCON conference** called as **Researchersers day** with the guest speakers **Phillips Wylie, Nitin Panday, Tajwar Khan, Akash Sharma, Atul Singh and Umair Nehri.**
 
 > Total number of visitors for the 2nd day of RESTCON conference 1.5k. 
 
 - 29th August 2020
-> RESETHACKER announced the promoting partners of RESTCON.
-  Owaspchandigarh Cyberhack_lpu Secarmy Bsidesmaharashtra and Noob_4rmy
+> RESETHACKER announced the **promoting partners** of RESTCON.
+  **Owaspchandigarh, Cyberhack_lpu, Secarmy, Bsidesmaharashtra and Noob_4rmy.**
 
 - 28th August 2020
 > ResetHacker presents 1st day of **RESTCON conference** called as **Bug Hunting day** with guest speakers **Alyssa Miller, priyanshu_ratnakar⁣, sankarrajj⁣, Chenny Ren and aravindha Hariharan.**
@@ -229,12 +229,12 @@ Index | Events
 - ResetHacker officially launched **ResetHacker Community** with Vikram and Youtube channel.
 
 - 10th May 2020
-> ResetHacker launched a weekly interview series called The ResetHacker Show with host cryptonic07, Tushar baweja, Gaurav Singh and moderator encryptor.
+> ResetHacker launched a weekly interview series called **The ResetHacker Show** with host cryptonic07, Tushar baweja, Gaurav Singh and moderator encryptor.
 
-> The guests appeared on the ResetHacker show are Aditya shende, Harsh Bothra, Ashish Kunwar, Kishan Choudhary, Udit Bhadaurai, Mr Hacker, Aakash Sharma, Mayank Bharti, that faceless coder, Rupendra Bauhtey and Tushar Baweja.
+> The guests appeared on the ResetHacker show are **Aditya shende, Harsh Bothra, Ashish Kunwar, Kishan Choudhary, Udit Bhadaurai, Mr Hacker, Aakash Sharma, Mayank Bharti, that faceless coder, Rupendra Bauhtey and Tushar Baweja.**
 
 -1st May 2020
-> ResetHacker partnership with Coding Ninja to conduct a Webinars.
+> ResetHacker partnership with **Coding Ninja** to conduct a Webinars.
 
 -28th April 2020
 > ResetHacker partnership with Coding ninja to promote the Free online test series.
@@ -243,9 +243,9 @@ Index | Events
 > Hackeracademy congrats ResetHacker work for making HAVOC a huge success and 3k+ members visited for the HAVOC conference.
 
 - 11th April 2020
-> Social Media Announcement of HAVOC online Hacking Conference with help of DESC official, TRA, Hackersacademy and Resethacker.
+> Social Media Announcement of **HAVOC online Hacking Conference** with help of DESC official, TRA, Hackersacademy and Resethacker.
 
-> The sponsors for the HAVOC are MALCROVE, Zero Day Initiative, Resilience Cybersecurity, Takdeliver and Trend Micro.
+> The **sponsors** for the HAVOC are **MALCROVE, Zero Day Initiative, Resilience Cybersecurity, Takdeliver and Trend Micro.**
 
 - 26 January 2019
 > Vikram creates and launches RESETHacker on Instagram, started a blog series called Certified Ethical Hacking and to promote Ethical Hacking.
