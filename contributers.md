@@ -1,3 +1,45 @@
+#Leaders of Security Departments
+
+Name |Roles]
+-- | --
+Vikram | [B.O.D]
+Akhil | [B.O.D]
+Chaitanya Bobthe | [B.O.D]
+
+# Leader of ResetDevelopers Department 
+
+Name | Roles
+-- | --
+Lead | Altaf Shaik
+Co-lead | Harsh Sangvi
+
+# Leader of ResetHacker.CCID Department 
+
+Name | Roles
+-- | --
+Lead | Gaurav Singh
+Co-lead | SaurabBagz
+
+
+# Leader of Editors Department 
+
+Name | Roles
+-- | --
+Lead | Gautam Makawana
+Lead | Ranjeet
+
+# Leaders of ResetHacker community 
+
+Name | Roles
+-- | --
+Attr1b | [Lead Community & Content director]
+Tushar Baweja | [Team Manager of RESETHACKER](https://instagram.com/thetusharbaweja?igshid=h2uuc0a3ju4q)
+Sauravbaghz | [Leader & Team coordinator](https://instagram.com/souravbaghz?igshid=11ev1197z9qtt)
+CyberKnight | [Lead CTF creator & Discord Host](https://instagram.com/cyberknight00?igshid=xuceryx1s7y)
+Cryptonic07 | [Host & Core team](https://instagram.com/cryptonic007?igshid=1ff7bpzyxyo25)
+Encryptor | [Social media  Manager of RESETHACKER](https://instagram.com/_.encryptor._?igshid=2bw4lipcnz1m)
+
+
 # Contributer of ResetHacker websites
 
 Name | Developer Department 
