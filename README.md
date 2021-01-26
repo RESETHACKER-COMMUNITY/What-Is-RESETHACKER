@@ -2,8 +2,9 @@
 > [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 
 > Send a birthday message #RESETHACKER2021
+> Celebrate Republic day with RESETHACKER 
 
-Index | Social Media
+Index | *ResetHacker*
 --- | ---
 -📢 | [What is ResetHacker?](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#what-is-resethacker) 
 -🎓 | [How it started?](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#how-it-started) 
@@ -27,8 +28,8 @@ Index | Social Media
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
-**1** | [ResetSecurity Dept.](Confedential)
-**2** | [ResetDeveloper Dept.](https://instagram.com/resetdevelopers)
+**1** | [ResetHacker Security (Confedential)]
+**2** | [ResetDeveloper Dept.](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
 **3** | [ResetHacker Cyber Crime Investigation Dept.](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
 **4** | [ResetEditors Dept.](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
 
