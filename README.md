@@ -5,14 +5,13 @@
   <a href="https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/"><img src="/.images/RESETHACKER.png" alt="RESETHACKER" width="300" height="280"></a>
 </h1>
 
-> [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 - 26th January - Republic Day with RESETHACKER.
 > ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation, Making everything transparent for the community.
 
 > Made in India 🇮🇳 
 
 > *Send a birthday message #RESETHACKER2021* 
-
+> [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 
 Index | *ResetHacker*
 --- | ---
