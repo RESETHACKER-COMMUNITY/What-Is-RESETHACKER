@@ -139,7 +139,7 @@ Index | Events
 > ResetHacker assigned the task to RESTCON team to Announce the CTF winners.
 
 - 30 August 2020
-> RESTHACKER 14hr jeopardy based RESTCON CTF Competition is Live.
+> RESTHACKER 14hr jeopardy based **RESTCON CTF** Competition is Live.
 
 > Statistics of CTFd platform are 626 Team,1.1k individual.
 
