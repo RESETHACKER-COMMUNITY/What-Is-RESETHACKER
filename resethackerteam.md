@@ -42,6 +42,8 @@ Tushar Varma | [Event planner & Moderator]()
 Rahul RC | [GitHub Management & Moderator](https://twitter.com/coder_rc)
 Ujjawal Kumar | [GitHub Management & Contributor]()
 
+
+## Team of ResetDevelopers Department 
 Name | Developer Department 
 -- | --
 Altaf Shikh | [Team lead & Back-end developer](https://instagram.com/ialtafshaikh?igshid=1x3yi6o25uf1v)
@@ -53,6 +55,8 @@ Mr.Solo sad rider | [Front end developer](https://instagram.com/mr.solo_sad_ride
 Mihir | [Front end developer]()
 Waleed | [Lead Mi/Ai ](https://instagram.com/pistalavista?igshid=ghh094dihv5k)
 
+
+## Team of ResetHacker.CCID Department 
 Name | CCID department 
 -- | --
 Gaurav singh | [Lead CCID](https://instagram.com/_i_am_root_?igshid=1jpna3lvkhnb6)
@@ -62,6 +66,7 @@ Cybersquard | [Forensics and awareness](https://instagram.com/cyb3rsqu4d?igshid=
 Chittaranjan Kumar | [Forensics and awareness](https://instagram.com/@chitta2019)
 Dhrupad Soni | [Core Investigation]()
 
+## Team of ResetEditors Department 
 Name | Editor Department
 -- | --
 Gautam | [Lead( Graphics Designer)]()
