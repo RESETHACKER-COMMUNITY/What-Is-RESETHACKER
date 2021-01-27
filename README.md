@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/"><img src="/.images/RESETHACKER.png" alt="RESETHACKER" width="300" height="280"></a>
+  <a href="https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/"><img src="/.images/RH-BLACK-BG.jpg" alt="RESETHACKER" width="300" height="280"></a>
 </h1>
 
 > ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation, Making everything transparent for the community.
