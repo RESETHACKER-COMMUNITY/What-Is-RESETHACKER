@@ -211,25 +211,25 @@ Index | Events
 - 14th June 2020
 > ResetHacker Launches a **mini CTF series** called "Let's play CTF" with creators CyberKnight and moderator Smile_Hacker to promote CTF.
 
-> ResetDeveloper Dept. finalising the websites and it's types either the dynamic or static.
+> ResetDeveloper Department finalising the websites and it's types either the dynamic or static.
 
 - 12 June 2020
-> ResetHacker Celebrates the 5k on Instagram with live conversation and team appears on live Cryptonic07, Walled, Harsh Sangvi, Gaurav Singh.
+> ResetHacker Celebrates the 5k on Instagram with live Q/A segment and team members Cryptonic07, Walled, Harsh Sangvi and Gaurav Singh interacted with everyone.
 
 -11th June 2020
-> ResetHacker Launches it's departments **1.) ResetDeveloper department with 10+ Developers and 2.) ResetHacker.CCID with 7+ Cybercrime investigators.**
+> ResetHacker Launches it's departments 1.) **ResetDeveloper department with leader Altaf Shaikh** and 2.) **ResetHacker.CCID with leader Gaurav Singh.**
 
 - 25th May 2020
-> ResetHacker team RyukSec (CTF leader) published his tools tutorials video on ResetHacker Youtube.
+> ResetHacker team RyukSec (CTF leader) published his tutorials video on **ResetHacker Youtube.**
 
 -19th May 2020
-> ResetHacker team Smile_Hacker(Bug Hunter) his tool tutorial video on ResetHacker Youtube.
+> ResetHacker team Smile_Hacker(Bug Hunter) published his tutorial video on "*ResetHacker Youtube.**
 
 > 11th May 2020
 - ResetHacker officially launched **ResetHacker Community** with Vikram and Youtube channel.
 
 - 10th May 2020
-> ResetHacker launched a weekly interview series called **The ResetHacker Show** with host cryptonic07, Tushar baweja, Gaurav Singh and moderator encryptor.
+> ResetHacker launched a weekly interview series called **The ResetHacker Show** with host cryptonic07, Tushar baweja, Gaurav Singh and Series Coordinator Encryptor.
 
 > The guests appeared on the ResetHacker show are **Aditya shende, Harsh Bothra, Ashish Kunwar, Kishan Choudhary, Udit Bhadaurai, Mr Hacker, Aakash Sharma, Mayank Bharti, that faceless coder, Rupendra Bauhtey and Tushar Baweja.**
 
