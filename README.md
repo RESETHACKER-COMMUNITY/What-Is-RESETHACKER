@@ -1,4 +1,14 @@
 ## 26th January - Republic Day with RESETHACKER
+<div align=""><br>
+<a href="mailto:resethackerofficail@gmail.com?subject=ResetHacker Community" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail"></a>
+<a href="https://github.com/RESETHACKER-COMMUNITY" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github"></a>
+<a href="https://www.youtube.com/c/RESETHACKER?style=social" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UChQSrDKLm8NkSsgqZZYtKZA?style=social"></a>
+<a href="https://instagram.com/resethacker" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram"></a>
+<a href="https://twitter.com/resethacker" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter"></a>
+<a href="https://www.linkedin.com/company/resethacker-solutions" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin"></a>
+<a href="https://resethacker.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium"></a>
+<a href="https://linktr.ee/RESETHACKER" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?logo=linktree"></a>
+</div>
 
 <h1 align="center">
   <br>
@@ -14,6 +24,7 @@
 
 ## Sponsor Resethacker
 <a href="https://www.paypal.com/paypalme/Vicky481"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/PNG/blue.png" width="150" ></a>
+
 
 Index | *ResetHacker*
 --- | ---
