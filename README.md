@@ -69,7 +69,7 @@ Index | Events
 **9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
-- 26th June 2021
+- 1st April 2021
 > ResetHacker Team will be offline.
 
 - 26th January 2021
