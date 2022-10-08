@@ -69,8 +69,21 @@ Index | Events
 **9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
+
+- 21st Sept 2022
+> After running multiple updates v0.6 of Weekly Infosec Update. finally we decide to release it every wednesday at 8:00 - 8:30PM IST.
+
+- 25th July 2022
+> ResetHacker community enroll the beta version of Weekly Infosec Update v0.1 crowdsource newsletter.
+
+- 26th June 2022
+> ResetHacker community started working on new project called Weekly Infosec Update.
+
+- 1st June 2022
+> ResetHacker community started working on new mission to Bringing Infosec community, group and leaders together that solve community challenges, problems, create cultural and provide value to Infosec community. 
+
 - 1st April 2021
-> ResetHacker Team will be offline.
+> ResetHacker Team will be offline from social media platform and only taking the on private projects.
 
 - 26th January 2021
 > ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation page, Making everything transparent to the community.
