@@ -73,7 +73,7 @@ Index | Events
 
 - 21st Sept 2022
 > After taking the feedback from community form 2+ months, making announcement such as release it every wednesday at 8:00-8:30 AM IST.
- and working on the feedback with multiple updates v0.1 -v0.6 and We have started working on the stage 2.
+ and working on the feedback with multiple updates v0.1 - v0.6 and We have started working on the stage 2.
  
 - 7tt Sept 2022
 > Resethacker Community is so grateful to all the Organization, group, and community that support Weekly Infosec Update for the engagement. Without their support reaching out to hackers would not have been possible and we have given the title "Community Engagement Partners" of Weekly Infosec Update:- Hacker101 Discord, TryHackMe Discord, Offensive Security Discord, HackerSploit Discord, Bug Bounty Hunter Den, Stefan Rows Community, Nahamsec Discord, RedBlue Private Discussion, TCM Security Discord, Bounty-hunters, The Cyber Council and others. 
