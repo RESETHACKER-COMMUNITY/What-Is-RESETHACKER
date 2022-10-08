@@ -50,11 +50,11 @@ Index | *ResetHacker*
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
-**0** | [Weekly Infosec Update (Online)](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
-**1** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
-**2** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
-**3** | [ResetHacker Cyber Crime Investigation Dept.(Offline)](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
-**4** | [ResetEditors Dept.(Offline)](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
+**1** | [Weekly Infosec Update (Online)](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
+**2** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
+**3** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
+**4** | [ResetHacker Cyber Crime Investigation Dept.(Offline)](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
+**5** | [ResetEditors Dept.(Offline)](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
 
 ## ResetHacker Community Features 
 Index | Events 
