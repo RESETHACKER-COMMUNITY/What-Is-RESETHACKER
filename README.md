@@ -33,10 +33,10 @@ Index | *ResetHacker*
 -🗨 | [Departments of ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#departments-of-resethacker-community)
 -📺 | [ResetHacker Features](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#resethacker-community-features)
 -👁️‍🗨️ | [Our Journey](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#our-journey) 
--👩‍💻 | [Meet ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#meet-resethacker)  
+-👩‍💻 | [Meet ResetHacker (Offline)](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#meet-resethacker)  
 -💬 | [Contributors of ResetHacker](/contributers.md)
 -🏆 | [Be Scocial with ResetHacker](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/README.md#be-social-with-resethacker)
--🌐 | [Website](https://resethacker.com/) 
+-🌐 | [Website(Offline)](https://resethacker.com/) 
 
 
 # What is RESETHACKER?
@@ -50,10 +50,10 @@ Index | *ResetHacker*
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
-**1** | [ResetHacker Security- Team of Freelance Penetration Tester](https://resethacker.com)
-**2** | [ResetDeveloper Dept.](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
-**3** | [ResetHacker Cyber Crime Investigation Dept.](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
-**4** | [ResetEditors Dept.](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
+**1** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
+**2** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
+**3** | [ResetHacker Cyber Crime Investigation Dept.(Offline)](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
+**4** | [ResetEditors Dept.(Offline)](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
 
 ## ResetHacker Community Features 
 Index | Events 
@@ -65,22 +65,26 @@ Index | Events
 **5** | [ResetHacker Publication- Blogs](https://www.resethackerofficial.medium.com/)
 **6** | [Mini CTF - Monthly CTF](https://youtube.com/playlist?list=PLNR8n-5bMyMOR6PHMOKXtTBMnguMMugFM)
 **7** | [ResetHacker Discussion to discuss Vulnerability](https://t.me/joinchat/URNgiYnNKnZw_Jqy)
-**8** | [Discord Discussions - resources & Open talk](https://discord.gg/HbM3435JcX)
+**8** | [Discord(Offline) Discussions - resources & Open talk](https://discord.gg/HbM3435JcX)
 **9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
 
 - 21st Sept 2022
-> After running multiple updates v0.6 of Weekly Infosec Update. finally we decide to release it every wednesday at 8:00 - 8:30PM IST.
-
+> After taking the feedback from community form 2+ months, making announcement such as release it every wednesday at 8:00-8:30 AM IST.
+ and working on the feedback with multiple updates v0.1 -v0.6. We have started working on the stage 2.
+ 
 - 25th July 2022
 > ResetHacker community enroll the beta version of Weekly Infosec Update v0.1 crowdsource newsletter.
 
 - 26th June 2022
-> ResetHacker community started working on new project called Weekly Infosec Update.
+> Inviting community leaders to work together and solve the problem with Weekly Infosec Update.
+
+- 26th June 2022
+> Vikram founder ResetHacker community started working on new project called Weekly Infosec Update because It's very time consuming for professionals to monitor the InfoSec Community on twitter, telegram, reddit, discord and visiting security website every day.
 
 - 1st June 2022
-> ResetHacker community started working on new mission to Bringing Infosec community, group and leaders together that solve community challenges, problems, create cultural and provide value to Infosec community. 
+> Vikram one of the founder of ResetHacker community started working on new mission to Bring Infosec community, group and leader together that solve community challenge, problem, create culture and provide value to Infosec community. 
 
 - 1st April 2021
 > ResetHacker Team will be offline from social media platform and only taking the on private projects.
