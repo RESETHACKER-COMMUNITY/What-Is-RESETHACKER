@@ -82,7 +82,7 @@ Index | Events
 > ResetHacker community enroll the beta version of Weekly Infosec Update v0.1 crowdsource newsletter.
 
 - 26th June 2022
-> Inviting community leaders to work together and solve the problem with Weekly Infosec Update.
+> Inviting community leaders to solve the problem with Weekly Infosec Update and work togrther to create culture and provide value to Infosec community. 
 
 - 26th June 2022
 > Vikram founder ResetHacker community started working on new project called Weekly Infosec Update because It's very time consuming for professionals to monitor the InfoSec Community on twitter, telegram, reddit, discord and visiting security website every day.
