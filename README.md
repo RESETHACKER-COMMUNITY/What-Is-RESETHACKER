@@ -42,7 +42,7 @@ Index | *ResetHacker*
 # What is RESETHACKER?
 > *RESETHACKER* is India centric crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
- *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
+ *In 2 years(2019 - 2021), RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
 ## How It started?
 > Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
