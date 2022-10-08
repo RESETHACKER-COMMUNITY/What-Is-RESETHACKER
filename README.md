@@ -40,7 +40,7 @@ Index | *ResetHacker*
 
 
 # What is RESETHACKER?
-> *RESETHACKER* is India's crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
+> *RESETHACKER* is India centric crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
 
  *In 2 years, RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
@@ -50,6 +50,7 @@ Index | *ResetHacker*
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
+**0** | [Weekly Infosec Update (Online)](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **1** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
 **2** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
 **3** | [ResetHacker Cyber Crime Investigation Dept.(Offline)](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
