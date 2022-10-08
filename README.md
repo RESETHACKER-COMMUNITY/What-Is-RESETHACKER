@@ -72,8 +72,8 @@ Index | Events
 ## Our Journey:
 
 - 10th Octuber 2022
-> After taking the feedback from community form 2+ months, making announcement such as release it every wednesday at 8:00-8:30 AM IST.
- and working on the feedback with multiple updates v0.1 - v0.6 and We have started working on the stage 2.
+> After taking the feedback from community for almost 3 months, making announcement such as release it every wednesday at 8:00-8:30 AM IST.
+ and working on the feedback with multiple updates v0.1 - v0.6 and We have started working on the **stage 2**.
  
  
 - 21st Sept 2022
