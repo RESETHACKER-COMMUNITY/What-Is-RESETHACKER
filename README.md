@@ -84,7 +84,7 @@ Index | Events
 > Resethacker Community is so grateful to all the Organization, group, and community that support Weekly Infosec Update for the engagement. Without their support reaching out to hackers would not have been possible and we have given the title "Community Engagement Partners" of Weekly Infosec Update:- Hacker101 Discord, TryHackMe Discord, Offensive Security Discord, HackerSploit Discord, Bug Bounty Hunter Den, Stefan Rows Community, Nahamsec Discord, RedBlue Private Discussion, TCM Security Discord, Bounty-hunters, The Cyber Council and others. 
 
 - 29th August 2022
-> Vikram founder ResetHacker community launches **Pentesting-Helpdesk** on ResetHacker github, to giving community full assistance with 
+> Vikram founder of ResetHacker community launches **Pentesting-Helpdesk** on ResetHacker github, to giving community full assistance with 
     
     Pentesting Pre-Engagements Advice
     Pentesting NDA & Saas Aggrement form
@@ -94,16 +94,16 @@ Index | Events
     Penetration quotation etc. 
 
 - 25th July 2022
-> Vikram founder ResetHacker community ResetHacker community enroll the beta version of Weekly Infosec Update v0.1 crowdsource newsletter.
+> Vikram founder of ResetHacker community ResetHacker community enroll the beta version of Weekly Infosec Update v0.1 crowdsource newsletter.
 
 - 26th June 2022
 > Inviting community leaders to solve the problem with Weekly Infosec Update and work togrther to create culture and provide value to Infosec community. 
 
 - 26th June 2022
-> Vikram founder ResetHacker community started working on new project called Weekly Infosec Update because It's very time consuming for professionals to monitor the InfoSec Community on twitter, telegram, reddit, discord and visiting security website every day.
+> Vikram founder of ResetHacker community started working on new project called Weekly Infosec Update because It's very time consuming for professionals to monitor the InfoSec Community on twitter, telegram, reddit, discord and visiting security website every day.
 
 - 1st June 2022
-> Vikram one of the founder of ResetHacker community started working on new mission to Bring Infosec community, group and leader together that solve community challenge, problem, create culture and provide value to Infosec community. 
+> Vikram one of the founder of ResetHacker started working on new mission to Bring Infosec community, group and leader together that solve community challenge, problem, create culture and provide value to Infosec community. 
 
 - 4th may 2022
 > ResetHacker launches **Bugbounty-Helpdesk** on ResetHacker github, to giving community full assistance with Bug bounty FAQ, bugbounty setup, bugbounty wordlists,  bugbounty checklist,  bugbounty mindmap, bugbounty Methodology and other resources.
