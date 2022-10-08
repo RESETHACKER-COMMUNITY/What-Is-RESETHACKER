@@ -69,6 +69,9 @@ Index | Events
 **9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
+- 26th June 2021
+> ResetHacker Team will be offline.
+
 - 26th January 2021
 > ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation page, Making everything transparent to the community.
 
