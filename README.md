@@ -50,7 +50,7 @@ Index | *ResetHacker*
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
-**1** | [Weekly Infosec Update (Online) - crowdsource Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
+**1** | [Weekly Infosec Update (Online) - Team crowdsource Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **2** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
 **3** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
 **4** | [ResetHacker Cyber Crime Investigation Dept.(Offline)](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
@@ -59,6 +59,7 @@ Index | Department
 ## ResetHacker Community Features 
 Index | Events 
 --- | ---
+**0** | [Weekly Infosec Update (Online) - Open Source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **1** | [RESETBOUNTY- Monthly Webinar on Pentesting](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
 **2** | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO)
 **3** | [The ResetHacker Show - Interview with Hacker](https://youtube.com/playlist?list=PLNR8n-5bMyMNQOHLdDh6-t0Hw_YPWa04N)
