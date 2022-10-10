@@ -9,6 +9,7 @@ Tips to protect every business, government agency, and individual can take to im
 5. Invest in tools that add high levels of security to protect confidential work, IP, trade secrets, classified information, and personal and financial data. These tools include removable drives, self-encrypting solid-state drives with pre-boot and multi-factor authentication,?fireproof and waterproof data storage devices, and digital forensics tools.
 
 ---
+
 # Pc/Laptop Security to Stay Anonymous
 
 #### Use Os (Operating System)
@@ -69,6 +70,7 @@ Particularly Most of the popular Plugins provider reveal your identity and locat
 #### Try burner account(fake Email, mobile number etc)
 //
 #### Few Basic Tips for Home user
+
 ✅ Check your DNS leak (DNSleakstest.com)
 And turn off your laptop or mobile location.
 
@@ -88,20 +90,25 @@ and Disable flash player.
 At the search bar,
 type "referer". You should see the value "network.HTTP.send referer header".
 Double click it, and change the value to 0.
-✅Use Https everywhere
-To ensure that your private conversations with websites can't be snooped on or tampered with by other parties.
+
+✅Use Https everywhere : to ensure that your private conversations with websites can't be snooped on or tampered with by other parties.
+
 ✅Be careful with credits card and Iot devices.
+
 ✅Be suspicious of any Emails trying to trick you into opening infected attachments or click on malicious links, common sense is your best defense.
+
 ✅In addition. backups are often the only way you can recover from ransomware.
 
 
 --- 
+
 # Mobile Security (To stay Anonymous):
 
 #### Operating System (OS)
 .
 Most smartphones run one of two operating systems: Google's Android or Apple's iOS.
 When it comes to privacy, iOS is the first choice.iOS works only on Apple devices and makes it much more difficult to run applications that have not been approved by Apple. .
+
 #### Use Black Sim/fake sim card
 .
 If possible and Buy it from mobile privacy companies(like encryped-os.com) or black market(online/offline)
@@ -128,6 +135,7 @@ Note : If VPN does not work in your country then you might need to find another 
 To access online content anonymously, you can use a pair of Android apps called @Orbot and @Orfox. Orbot channels Internet traffic through Tor's anonymity network and Orfox is a mobile version of Firefox that uses Orbot and provides additional privacy protections.Together, they allow you to circumvent online filtering and browse anonymously, much like Tor Browser .
 .
 #### Proxy tools
+
 If you work from a country that aggressively blocks Tor bridges and VPN services,then you might use @psiphon3 and @lantern .
 .
 #### Removes metadata from photographs,recordings,videos and blurfaces by using @ObscuraCam app.
@@ -138,7 +146,8 @@ Note : metadata basically reveals your Gps Coordinate,device data and other pote
 .
 #### Disable WiFi, Bluetooth,GPS and Near Field Communication (NFC) when you are not using them.Transfer data using a cable connection when possible and share file anonymously (Use @Onionshare).
 .
-#### Install Antivirus(@Nortan) and Firewall(Afwall+) in You're Mobile. .
+#### Install Antivirus(@Nortan) and Firewall(Afwall+) in You're Mobile. 
+
 #### don't use software unless it comes from an official source like the Google Play, F-droid or the Apple App Store.
 .
 #### Change your Apps(like WhatsApp) Settings to "Do not Download Automatically "
