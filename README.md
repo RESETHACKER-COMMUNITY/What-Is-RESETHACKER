@@ -423,22 +423,4 @@ Index | Social Media
 -📩 | [Contact](resethackerteam@gmail.com)
 -🌐 | [Website](https://resethacker.com/)
 
-
-# [Contributors of ResetHacker](contributers.md)
-
-
-## Be Social with RESETHACKER
-> [Twitter](https://twitter.com/resethacker) | [Blog](https://instagram.com/@resethacker/)
-
-Index | Social Media
---- | ---
--🎓 | [RESETHACKR Telegram](https://t.me/resethacker/) 
--🗨 | [RESETHACKER Discord](https://discord.gg/HbM3435JcX)
--👁️‍🗨️ | [Instagram](https://instagram.com/@resethacker/) 
--👩‍💻 | [Tools](https://github.com/RESETHACKER-COMMUNITY/) 
--🏆 | [LinkedIn](https://www.linkedin.com/in/RESETHACKER/) 
--💬 | [Medium](https://www.resethackerofficial.medium.com/)
--📩 | [Contact](resethackerteam@gmail.com)
--🌐 | [Website](https://resethacker.com/)
-
 Thank you 
