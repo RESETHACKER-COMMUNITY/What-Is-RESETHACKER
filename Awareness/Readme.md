@@ -1,6 +1,6 @@
 # October is celebrated as Cyber Security Awareness Month globally.
 
-Tips to protect every business, government agency, and individual can take to improve their cybersecurity during Cybersecurity Awareness Month :
+> Tips to protect every business, government agency, and individual can take to improve their cybersecurity during Cybersecurity Awareness Month :
 
 1. Use strong passwords that are unique and randomly generated.
 2. Enable Multi-Factor Authentication to reduce the potential of being hacked.
@@ -30,8 +30,8 @@ Note : If VPN does not work in your country then you might need to find another 
 .
 When it come to password you can try this
 1) Memorizing half of your password or create a unique password.
-2)Consider using a password manager to securely store all of your password.
-3)Use Two ways Authentication. .
+2) Consider using a password manager to securely store all of your password.
+3) Use Two ways Authentication. .
 //
 #### Use Firewall .
 Most of the time your computer has Firewall already built in to the operating system but sometimes we need some extra protection so you can use two kind of Firewall
@@ -45,7 +45,7 @@ Hardware Firewall
 #### Use Antivirus
 Make sure you have anti-virus(@norton) software installed on your computer and that it is Automatically updating. However, keep in mind that no anti-virus can catch all malware; your computer can still be infected. .
 //
-#### If you're security professionals then sure you can try to fix the problem when you get Hacked but If not then don't fix>
+#### If you're security professionals then try to fix the problem when you get Hacked but If not then don't try to fix the problem.
 Eventually,we all get hacked.If you suspect you have been hacked never try to fix the situation, instead report it right away. If you try to fix the situation, such as paying an online ransom or deleting the infected files, not only could you stil be hacked but you are most likely causing far more harm than good.
 
 #### Use a search engine that doesn't track you. Use @Duckduckgo or @tor
@@ -58,7 +58,7 @@ Eventually,we all get hacked.If you suspect you have been hacked never try to fi
 .
 #### Share your file/document anonymously.
 Use @onionshare.
-Block javascript
+Block javascript and turn on when it required.
 Use these Extensions
 Firefox(@noscript)
 Crome(@scriptsafe)
@@ -67,7 +67,7 @@ Crome(@scriptsafe)
 Every plugin or add-on you install in your browser can expose you to more danger. Only install the plugins you need and make sure they are always current. If you no longer need a plugin, disable or remove it.
 Particularly Most of the popular Plugins provider reveal your identity and location. But there is an exceptional one try PRIVACY BADGER, Available for chrome and firefox.
 .
-#### Try burner account(fake Email, mobile number etc)
+#### Try burner account(Temp Email, mobile number etc)
 //
 #### Few Basic Tips for Home user
 
