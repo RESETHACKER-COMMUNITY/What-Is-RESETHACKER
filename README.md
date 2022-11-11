@@ -45,7 +45,7 @@ Index | *ResetHacker*
  *In 2 years(2019 - 2021), RESETHACKER has become one of a fastest-growing community of open knowledge.*
 
 ## How It started?
-> Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
+> We started with an idea to promote cybersecurity in india and reset the perspective of hacker. Over 90+ people have contributed and 20+ people are leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
