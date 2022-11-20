@@ -308,26 +308,45 @@ Index | Events
 
 # Meet ResetHacker
 
-## Leader of ResetDevelopers Department 
+## Leader of Weekly Infosec Update
+Name | Roles
+-- | --
+Lead | Good Resources Share
+Co-lead | Paul Miller
+
+## Leader of ResetDevelopers Department (Offline)
 Name | Roles
 -- | --
 Lead | Altaf Shaik
 Co-lead | Harsh Sangvi
 
-## Leader of ResetHacker.CCID Department 
+## Leader of ResetHacker.CCID Department (Offline)
 Name | Roles
 -- | --
 Lead | Gaurav Singh
 Co-lead | SaurabBagz
 
 
-## Leader of Editors Department 
+## Leader of Editors Department (Offline)
 Name | Roles
 -- | --
 Lead | Gautam Makawana
 Lead | Ranjeet
 
-## Leaders of ResetHacker community 
+
+## Leaders of ResetHacker community 2023-20** (Online)
+Name | Roles
+-- | --
+Vikram | [Lead Community & Content director]
+Paul Miller | []
+
+
+## Leaders of ResetHacker Corporate Mentors 2023-20** (Online)
+Name | Roles
+-- | --
+Updating Soon | [Updating Soon]
+
+## Leaders of ResetHacker community 2019-2021 (Offline)
 Name | Roles
 -- | --
 Attr1b | [Lead Community & Content director]
@@ -353,7 +372,7 @@ Rahul RC | [GitHub Management & Moderator](https://twitter.com/coder_rc)
 Ujjawal Kumar | [GitHub Management & Contributor]()
 
 
-## Team of ResetDevelopers Department 
+## Team of ResetDevelopers Department (Offline)
 Name | Developer Department 
 -- | --
 Altaf Shikh | [Team lead & Back-end developer](https://instagram.com/ialtafshaikh?igshid=1x3yi6o25uf1v)
@@ -366,7 +385,7 @@ Mihir | [Front end developer]()
 Waleed | [Lead Mi/Ai ](https://instagram.com/pistalavista?igshid=ghh094dihv5k)
 
 
-## Team of ResetHacker.CCID Department 
+## Team of ResetHacker.CCID Department (Offline)
 Name | CCID department 
 -- | --
 Gaurav singh | [Lead CCID](https://instagram.com/_i_am_root_?igshid=1jpna3lvkhnb6)
@@ -376,7 +395,7 @@ Cybersquard | [Forensics and awareness](https://instagram.com/cyb3rsqu4d?igshid=
 Chittaranjan Kumar | [Forensics and awareness](https://instagram.com/@chitta2019)
 Dhrupad Soni | [Core Investigation]()
 
-## Team of ResetEditors Department 
+## Team of ResetEditors Department (offline)
 Name | Editor Department
 -- | --
 Gautam | [Lead( Graphics Designer)]()
