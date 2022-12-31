@@ -25,7 +25,7 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 
 ## Promblems Volunteer can slove
 
-- Curating list of important articles every day.
+- Curating list of important articles every day. (FROM INTERNET by Dhruv Mankand)
 - Tracking Poc & CVe everyday
 - Track Important tweet everyday.
 - Track Data Breach Everydays.
