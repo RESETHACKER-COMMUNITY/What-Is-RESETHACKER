@@ -1,6 +1,8 @@
 # Welcome to ResetHacker Community 
 An India crowdsourcing community of action for cybersecurity, DevOps & software engineers.
 
+
+
 Where Hackers think what is next for a career?
 
 ## Missison : 
@@ -39,3 +41,4 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 - Take session for Resume/cover letter Review 
 - Mentorship and Guidance  
 - Track cybersecurity Jobs
+- Host Session with Mentors
