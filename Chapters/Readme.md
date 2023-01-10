@@ -25,7 +25,7 @@ By connecting, training and promoting cybersecurity in all states of India, we h
   - Become a [volunteer]() - What problem do you plan to slove in cybersecurity by volunteering RESETHACKER COMMUNITY ?
   - Start a [Chapter] - Reach out to us resethackerofficial@gmail.com
 
-## Promblems Volunteer can slove
+## Promblems Volunteers can slove
 
 - Curating list of important articles every day. (FROM INTERNET by Dhruv Mankand)
 - Tracking Poc & CVe everyday
@@ -42,3 +42,7 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 - Mentorship and Guidance  
 - Track cybersecurity Jobs
 - Host Session with Mentors
+- Create Challenges for cybersecurity Coommunity.
+- Create Content that solve problems.
+- Creative ideas to promote cybersecurity in india.
+- Lead cybersecurity in your own state.
