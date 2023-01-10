@@ -48,6 +48,9 @@ Where Hackers think what is next for a career?
  - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open knowledge.
  - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
 
+## How It started?
+> We(A group of white hat hacker) started with an idea to provide cybersecurity knowledge to technical & non-technical people in india and reset the mindset towards Hacking(Cybersecurity) as career. 
+
 ## Our Journey:
 
 - 10th October 2022
