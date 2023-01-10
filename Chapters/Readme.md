@@ -46,3 +46,5 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 - Create Content that solve problems.
 - Creative ideas to promote cybersecurity in india.
 - Lead cybersecurity in your own state.
+- Help community with Resethacker operations. 
+- Publish whitepaper/research or your work with resetHacker.
