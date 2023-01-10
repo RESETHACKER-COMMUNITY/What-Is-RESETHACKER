@@ -39,17 +39,51 @@ Index | *ResetHacker*
 -🌐 | [Website(Offline)](https://resethacker.com/) 
 
 
-# What is RESETHACKER?
-> *RESETHACKER* is an india crowdsourcing community of action for cybersecurity, DevOps & software engineers.
+# Welcome to ResetHacker Community 
 
-Where Hackers think what is next for a career?
+Where Hackers think what is next for a career ?
 
-### Fun Fact
- - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open knowledge.
- - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
+![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
+
+An India crowdsourcing community of action for cybersecurity, DevOps & software engineers.
+
+## Mission : 
+Connecting, empowering and training the Infosec community, groups and leaders to solve cybersecurity problems.
+
+## Vision: 
+We're on a mission to build an India-centric cybersecurity community for the world and promote (Hacking)cybersecurity as a carer in india.
 
 ## How It started?
 > We(A group of white hat hacker) started with an idea to provide cybersecurity knowledge to technical & non-technical people in india and reset the mindset towards Hacking(Cybersecurity) as career. 
+
+
+### Fun Fact
+ - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open knowledge.
+ - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER
+
+## [Departments of ResetHacker Community](/Departments.md)
+Index | Department 
+--- | ---
+**1** | [Weekly Infosec Update (Online) - An open source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
+**2** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
+**3** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
+**4** | [ResetHacker Cyber Crime Investigation Dept.(Offline)](https://instagram.com/resethacker.ccid?igshid=1wynnwno5vjn8)
+**5** | [ResetEditors Dept.(Offline)](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
+
+## ResetHacker Community Features 
+Index | Iniciative & Events 
+--- | ---
+**0** | [ResetHacker Chapters(Karnataka, Maharastra, Andhara Pradesh, Gujarat, Delhi, Kerala)]()
+**0** | [Weekly Infosec Update (Online) - Open Source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
+**1** | [RESETBOUNTY- Monthly Webinar on Pentesting](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
+**2** | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO)
+**3** | [The ResetHacker Show - Interview with Hacker](https://youtube.com/playlist?list=PLNR8n-5bMyMNQOHLdDh6-t0Hw_YPWa04N)
+**4** | [Security Monday - Weekly News from IT sector](https://youtube.com/playlist?list=PLNR8n-5bMyMMdpvOtaHB8r1ScVBg2Ed2m)
+**5** | [ResetHacker Publication- Blogs](https://www.resethackerofficial.medium.com/)
+**6** | [Mini CTF - Monthly CTF](https://youtube.com/playlist?list=PLNR8n-5bMyMOR6PHMOKXtTBMnguMMugFM)
+**7** | [ResetHacker Discussion to discuss Vulnerability](https://t.me/joinchat/URNgiYnNKnZw_Jqy)
+**8** | [Discord(Offline) Discussions - resources & Open talk](https://discord.gg/HbM3435JcX)
+**9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
 ## Our Journey:
 
