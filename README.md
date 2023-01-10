@@ -40,12 +40,16 @@ Index | *ResetHacker*
 
 
 # What is RESETHACKER?
-> *RESETHACKER* is India centric crowdsourcing community of action, has started with an idea to promote IT sectors and provide cybersecurity knowledge to technical & non-technical people around the world.
+> *RESETHACKER* is an india crowdsourcing community of action for cybersecurity, DevOps & software engineers.
 
- *In 2 years(2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open knowledge.*
+Where Hackers think what is next for a career?
+
+### Fun Fact
+ - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open knowledge.
+ - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
 
 ## How It started?
-> We(A group of white hat hacker) started with an idea to promote cybersecurity in india and reset the mindset towards hacker as career. Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
+> We(A group of white hat hacker) started with an idea to provide cybersecurity knowledge to technical & non-technical people in india and reset the mindset towards Hacking(Cybersecurity) as career. 
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
@@ -57,8 +61,9 @@ Index | Department
 **5** | [ResetEditors Dept.(Offline)](https://instagram.com/reseteditors?igshid=1e1t1pwbndodx)
 
 ## ResetHacker Community Features 
-Index | Events 
+Index | Iniciative & Events 
 --- | ---
+**0** | [ResetHacker Chapters(Karnataka, Maharastra, Andhara Pradesh, Gujarat, Delhi, Kerala)]()
 **0** | [Weekly Infosec Update (Online) - Open Source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **1** | [RESETBOUNTY- Monthly Webinar on Pentesting](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
 **2** | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO)
