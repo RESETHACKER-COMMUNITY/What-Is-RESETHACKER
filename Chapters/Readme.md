@@ -6,11 +6,11 @@ Where Hackers think what is next for a career ?
 
 An India crowdsourcing community of action for cybersecurity, DevOps & software engineers.
 
-## Mission : 
-Connecting, empowering and training the Infosec community, groups and leaders to solve cybersecurity problems.
+## Our Mission : 
+Connect, empower and train the infosec groups, leaders and workforce to solve cybersecurity problems.
 
-## Vision: 
-We're on a mission to build an India-centric cybersecurity community for the world and promote (Hacking)cybersecurity as a carer in india.
+## Our Vision: 
+To build an India-centric cybersecurity community for the world that promote (Hacking)cybersecurity as a carrer in india.
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
