@@ -48,10 +48,10 @@ Where Hackers think what is next for a career ?
 An India crowdsourcing community of action for cybersecurity, DevOps & software engineers.
 
 ## Mission : 
-Connecting, empowering and training the Infosec community, groups and leaders to solve cybersecurity problems.
+Connect, empower and train the infosec groups, leaders and workforce to solve cybersecurity problems.
 
 ## Vision: 
-We're on a mission to build an India-centric cybersecurity community for the world and promote (Hacking)cybersecurity as a carer in india.
+To build an India-centric cybersecurity community for the world that promote (Hacking)cybersecurity as a carrer in india.
 
 ## How It started?
 > We(A group of white hat hacker) started with an idea to provide cybersecurity knowledge to technical & non-technical people in india and reset the mindset towards Hacking(Cybersecurity) as career. 
