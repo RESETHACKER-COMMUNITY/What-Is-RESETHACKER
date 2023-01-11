@@ -1,14 +1,18 @@
-# ResetHacker AndhraPradesh
+## ResetHacker AndhraPradesh
 - Color Code : RED
+- Launch Date : 08/12/2022
 
 #### Chapter leader 
--
+- Chaitanya & Sai Pavan 
 
 #### Operation Manager
--
+- Ravi
 
-# Iniciative & Events :
-ID | Execution Date | Announcement Date | Platform(Online/Offline) | Agenda (Webinar/Discussion) | Host | FeedBack |
+## Iniciative & Events :
+ID | Announcement Date | Execution Date | Platform(Online/Offline) | Agenda (Webinar/Discussion) | Host | Event Moderator | FeedBack |
 |---|---|---|---|---| ---| ---|
-| 2 | 26th October 2023 | 26th October 2023 | Google Meet(online) | Getting into cybersecurity |   | Topic | 
-| 1 | 26th October 2023 | 19 October 2023 | Google Meet(Online) | Introduction and Launch | Sai Pawan | Introducing ResetHacker, Why we launched chapters, Vision, Get to know each other | 
+| 1 | 17th December 2022 | 18 December 2022 | Google Meet(Online) | Introduction and Launch | Sai Pawan | Introducing ResetHacker, Why we launched chapters, Vision, Get to know each other | 
+
+
+## Iniciative
+- Resources Sharing
