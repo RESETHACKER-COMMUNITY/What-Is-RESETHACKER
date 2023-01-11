@@ -4,13 +4,16 @@ Where Hackers think what is next for a career ?
 
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
-An India crowdsourcing community of action for cybersecurity, DevOps & software engineers.
+An India crowdsourcing community of action for Cybersecurity professionals, DevOps engineers, and IT professionals.
 
 ## Our Mission : 
-Connect, empower and train the infosec groups, leaders and workforce to solve cybersecurity problems.
+Connect, empower and train the infosec groups, leaders and workforce to protect degitalization.
 
 ## Our Vision: 
 To build an India-centric cybersecurity community for the world that promote (Hacking)cybersecurity as a carrer in india.
+
+## Who can join ?
+- People who are passionate about technology, and want to stay updated with the industry trends and developme
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
