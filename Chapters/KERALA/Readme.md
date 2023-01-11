@@ -1,20 +1,18 @@
 ## Welcome to ResetHacker KERALA
-- Color Code : YELLOW
+- Color Code : GREEN
+- Launch Date : 08/01/2023
 
 #### Chapter leader
 #### Operation Manager
-- Muhammed As
-- 
+- Muhammed Ashique
+- Fazalu Rahman 
 
 ## Iniciative & Events :
-ID | Execution Date | Announcement Date | Platform(Online/Offline) | Agenda (Webinar/Discussion) | Host | Event Moderator | FeedBack |
-|---|---|---|---|---| ---| ---| ---|
-| 2 | 26th October 2023 | 26th October 2023 | Google Meet(online) | Getting into cybersecurity |  Vaibhav | Gaurav | Web security, Car Hacking & Malware | 
-| 1 | 26th October 2023 | 19 October 2023 | Google Meet(Online) | Introduction and Launch |  Vaibhav | Gaurav | Introducing ResetHacker, Why we launched chapters, Vision, Get to know each other | 
+ID | Announcement Date | Execution Date | Platform(Online/Offline) | Agenda (Webinar/Discussion) | Host | Event Moderator | FeedBack |
+|---|---|---|---|---| ---| ---| ---| 
+| 1 | 13 January 2023 | 15 January 2023 | Google Meet(Online) | Introduction and Launch |  Fazalu Rahman | Muhammed Ashique | Introducing ResetHacker, Why we launched chapters, Vision, Get to know each other | 
 
-## Initiative to Engage
-
-- 100DAYS of Hacking Challenge
+## Initiative to Engage Group
 - Sharing resourses
 
 
