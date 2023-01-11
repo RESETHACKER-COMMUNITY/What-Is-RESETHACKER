@@ -75,3 +75,4 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 - Lead cybersecurity in your own state.
 - Help community with Resethacker operations. 
 - Publish whitepaper/research or your work with resetHacker.
+- Weekly contest
