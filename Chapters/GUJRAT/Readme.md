@@ -1,20 +1,19 @@
-## Welcome to ResetHacker GUJRAT
-- Color Code : YELLOW
+## Welcome to ResetHacker GUJARAT
+- Color Code : Neon YELLOW
+- Luanch Date : 09/01/2022
 
 #### Chapter leader
 #### Operation Manager
 - Yash Korat
-- 
+- Rishiraj Parmar
 
 ## Iniciative & Events :
 ID | Execution Date | Announcement Date | Platform(Online/Offline) | Agenda (Webinar/Discussion) | Host | Event Moderator | FeedBack |
-|---|---|---|---|---| ---| ---| ---|
-| 2 | 26th October 2023 | 26th October 2023 | Google Meet(online) | Getting into cybersecurity |  Vaibhav | Gaurav | Web security, Car Hacking & Malware | 
-| 1 | 26th October 2023 | 19 October 2023 | Google Meet(Online) | Introduction and Launch |  Vaibhav | Gaurav | Introducing ResetHacker, Why we launched chapters, Vision, Get to know each other | 
+|---|---|---|---|---| ---| ---| ---| 
+| 1 | 13th Jan 2023 | 15 January 2023 | Google Meet(Online) | Introduction and Launch | Rishiraj | Yash Korat | Introducing ResetHacker, Why we launched chapters, Vision, Get to know each other | 
 
-## Initiative to Engage
+## Group Engagement
 
-- 100DAYS of Hacking Challenge
 - Sharing resourses
 
 
