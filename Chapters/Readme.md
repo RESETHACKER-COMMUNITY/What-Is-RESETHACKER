@@ -15,6 +15,7 @@ We're on a mission to build an India-centric cybersecurity community for the wor
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
+**0** | [ResetHacker Chapters(Karnataka, Maharastra, Andhara Pradesh, Gujarat, Delhi, Kerala)]()
 **1** | [Weekly Infosec Update (Online) - An open source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **2** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
 **3** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
@@ -24,7 +25,6 @@ Index | Department
 ## ResetHacker Community Features 
 Index | Iniciative & Events 
 --- | ---
-**0** | [ResetHacker Chapters(Karnataka, Maharastra, Andhara Pradesh, Gujarat, Delhi, Kerala)]()
 **0** | [Weekly Infosec Update (Online) - Open Source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **1** | [RESETBOUNTY- Monthly Webinar on Pentesting](https://youtube.com/playlist?list=PLNR8n-5bMyMP0XRrnye1Kccey6OnTGkuy)
 **2** | [RESTCON Conference](https://youtube.com/playlist?list=PLNR8n-5bMyMOMHqJS2drxIA78IOPxTBCO)
