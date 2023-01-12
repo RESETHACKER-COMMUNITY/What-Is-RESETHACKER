@@ -13,7 +13,7 @@ Connect, empower and train the infosec groups, leaders and workforce to protect 
 To build an India-centric cybersecurity community for the world that promote (Hacking)cybersecurity as a carrer in india.
 
 ## Who can join ?
-- People who are passionate about technology, and want to stay updated with the industry trends and developme
+- People who are passionate about technology, and want to stay updated with the industry trends and development.
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
