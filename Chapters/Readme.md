@@ -80,3 +80,4 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 - Publish whitepaper/research or your work with resetHacker.
 - Weekly contest
 - Study group for certificate
+- Podcast
