@@ -18,16 +18,6 @@ To create an India-centric cybersecurity community for the world where cybersecu
 ## Goal :
 A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
 
-With our community-led ed-tech platform, you'll have access to:
-
-- online Community Support (24/7)
-- Job assessment services
-- Mentor-ship and guidance from industry experts.
-- Hands-on training and internship opportunities
-- Offline Networking at the end of program.
-- We understand that getting a cybersecurity certification or degree can be expensive, that's why we provide financial support to help ease the burden of our students. You can choose to pay after getting a job or use EMI.
-
-
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
