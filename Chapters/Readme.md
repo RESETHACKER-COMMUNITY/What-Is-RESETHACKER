@@ -6,12 +6,26 @@ Where Hackers think what is next for a career ?
 
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
+## Objective: 
+To train and 100x individuals in cybersecurity within the first year of operation, with a focus on providing hands-on training and mentorship to underrepresented groups in the industry.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
 
-## Our Vision: 
+## Our Vision : 
 To create an India-centric cybersecurity community for the world where cybersecurity is recognized as a vital and desirable career choice and to make it accessible to people from all backgrounds, regardless of their financial or educational status.
+
+## Goal :
+A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
+
+With our community-led ed-tech platform, you'll have access to:
+
+- online Community Support (24/7)
+- Job assessment services
+- Mentor-ship and guidance from industry experts.
+- Hands-on training and internship opportunities
+- Offline Networking at the end of program.
+- We understand that getting a cybersecurity certification or degree can be expensive, that's why we provide financial support to help ease the burden of our students. You can choose to pay after getting a job or use EMI.
 
 
 ## [Departments of ResetHacker Community](/Departments.md)
