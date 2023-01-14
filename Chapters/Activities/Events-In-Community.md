@@ -25,3 +25,5 @@
 ## Monthly
 - Chapter/country Monthly Meetup
 - Networking
+- Mentorship Session
+- Hackers Stories
