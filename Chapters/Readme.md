@@ -7,7 +7,7 @@ Where Hackers think what is next for a career ?
 An India crowdsourcing community of action for Cybersecurity professionals, DevOps engineers, and IT professionals.
 
 ## Our Mission : 
-Connect, empower and train the infosec groups, leaders and workforce to protect degitalization.
+Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
 
 ## Our Vision: 
 To build an India-centric cybersecurity community for the world that promote (Hacking)cybersecurity as a carrer in india.
