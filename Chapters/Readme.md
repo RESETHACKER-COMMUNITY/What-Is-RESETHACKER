@@ -58,11 +58,11 @@ we have taken the initiative to reach the mission and vision of RESETHACKER.
 
 
 
-## How to engage with ResetHacker Community
+## How to connect with ResetHacker Community
   
   - Join the [Whatsapp Group](https://chat.whatsapp.com/GxrkwIWwC6GKhYlsJVTU9t)/Telegram Group(https://t.me/resethacker)
   - Become a [volunteer]() - What problem do you plan to slove in cybersecurity by volunteering RESETHACKER COMMUNITY ?
-  - Start a [Chapter] - Reach out to us resethackerofficial@gmail.com
+  - Start a [Chapters] - Reach out to us resethackerofficial@gmail.com
 
 ## Promblems Volunteers can slove
 
