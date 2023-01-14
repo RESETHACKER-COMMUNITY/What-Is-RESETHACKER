@@ -39,8 +39,15 @@ Index | Iniciative & Events
 **8** | [Discord(Offline) Discussions - resources & Open talk](https://discord.gg/HbM3435JcX)
 **9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
+
+# We're available in Countries
+- India
+- UK
+
+
 ## Chapters :
-By connecting, training and promoting cybersecurity in all states of India, we have taken the initiative to reach the mission and vision of RESETHACKER.
+By connecting, training and promoting cybersecurity(Hacking) as carrer in all states of India and country.
+we have taken the initiative to reach the mission and vision of RESETHACKER.
 
 - Karnataka (Online - White)
 - Maharashtra (Online - Orange)
@@ -48,6 +55,8 @@ By connecting, training and promoting cybersecurity in all states of India, we h
 - Delhi (Online - Sky Blue)
 - Gujarat (Online - Neon Yellow)
 - Kerala (Online - Green)
+
+
 
 ## How to engage with ResetHacker Community
   
