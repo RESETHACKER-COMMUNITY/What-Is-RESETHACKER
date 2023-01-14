@@ -1,19 +1,18 @@
 # Welcome to ResetHacker Community 
 
+An India crowdsourcing community of action for Cybersecurity professionals, DevOps engineers, and IT professionals.
+
 Where Hackers think what is next for a career ?
 
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
-An India crowdsourcing community of action for Cybersecurity professionals, DevOps engineers, and IT professionals.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
 
 ## Our Vision: 
-To build an India-centric cybersecurity community for the world that promote (Hacking)cybersecurity as a carrer in india.
+To create an India-centric cybersecurity community for the world where cybersecurity is recognized as a vital and desirable career choice and to make it accessible to people from all backgrounds, regardless of their financial or educational status.
 
-## Who can join ?
-- People who are passionate about technology, and want to stay updated with the industry trends and development.
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
