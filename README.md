@@ -47,8 +47,8 @@ An India crowdsourcing community of action for Cybersecurity, IT professionals, 
 ## Objective: 
 To enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing Events, resources, jobs, networking, guidance and mentorship.
 
-## Our Mission : 
-Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
+## Our Mission :  
+To connect, empower, and train the infosec community, leaders, and workforce to recognize cybersecurity as a vital and desirable career choice.
 
 ## Our Vision : 
 To create an India-centric cybersecurity community for the world where cybersecurity is recognized as a vital and desirable career choice and to make it accessible to people from all backgrounds, regardless of their financial or educational status.
