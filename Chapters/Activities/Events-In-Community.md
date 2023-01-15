@@ -1,3 +1,8 @@
+# Activities or Events or iniciative leaders or operation manager can THINK
+
+- As a leader or operation manager, Think How will you run a community or organization or team.
+- ResetHacker is giving you that oportunity.
+
 ------------------------
 ## Daily Event:
 - From INTERNET
@@ -29,9 +34,7 @@
 - Hackers Stories
 
 
-
-
-## OTHER Activities leaders can plans or think about
+## OTHER Activities leaders can plans or THINK
 
     - Curating list of important articles every day. (FROM INTERNET by Dhruv Mankand)
     - Tracking Poc & CVe everyday
