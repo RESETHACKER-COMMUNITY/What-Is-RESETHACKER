@@ -7,7 +7,7 @@ Where Hackers think what is next for a career ?
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To train 100x individuals in cybersecurity within the first year of operation, with a focus on providing hands-on training and mentorship to underrepresented groups in the industry.
+To Enable 100x individuals in cybersecurity within the first year of operation, with a focus on providing resources, guidance and mentorship.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
