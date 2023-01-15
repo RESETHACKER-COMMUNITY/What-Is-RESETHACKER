@@ -19,7 +19,7 @@
 
 > Made in India 🇮🇳 
 
-> *Send a birthday message #RESETHACKER2021* 
+> *Send a birthday message **#RESETHACKER2021*** 
 > [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 
 ## Sponsor Resethacker
