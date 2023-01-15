@@ -46,20 +46,27 @@ Index | Iniciative & Events
 # We're available in Countries
 - India
 - UK
-
+- Europe
 
 ## Chapters :
 By connecting, training and promoting cybersecurity(Hacking) as carrer in all states of India and country.
 we have taken the initiative to reach the mission and vision of RESETHACKER.
 
+#### INDIA
 - Karnataka (Online - White)
 - Maharashtra (Online - Orange)
 - Andhra Pradesh (Online - Red)
 - Delhi (Online - Sky Blue)
 - Gujarat (Online - Neon Yellow)
 - Kerala (Online - Green)
+- Uttar Pradesh(Launcing Soon)
+- Panjab/haryana(Launcing Soon)
 
+#### UK
+- ResetHacker UK(Launcing Soon)
 
+#### Europe
+- Serbia(Part of Balkans)(Launcing Soon)
 
 ## How to connect with ResetHacker Community
   
