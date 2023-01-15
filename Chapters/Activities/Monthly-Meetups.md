@@ -9,7 +9,7 @@
 - Summary and appriciate the guest.
 - Feedback Polls 
 
-## Meetup Picture/video and summary on Instagram.
+## Please record Meetup video so we can upload it on Youtube.
 
 -----------------------------
 
