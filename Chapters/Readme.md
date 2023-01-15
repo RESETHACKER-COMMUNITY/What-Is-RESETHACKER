@@ -1,4 +1,4 @@
-## Welcome to ResetHacker Community Where Hackers think what is next for a career ?
+## Welcome to ResetHacker Where Hackers think what is next for a career ?
 
 **What is RESETHACKER ?**
 
