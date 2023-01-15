@@ -18,8 +18,8 @@ To create an India-centric cybersecurity community for the world where cybersecu
 ## Goal :
 A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
 
-## Reset Ed-tech with community
-## Think Hacking as a career Think ResetHacker
+##### Reset Ed-tech with community
+##### Think Hacking as a career Think ResetHacker
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
