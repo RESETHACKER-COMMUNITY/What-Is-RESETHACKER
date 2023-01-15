@@ -1,23 +1,21 @@
+
+## Welcome to [ResetHacker Community]
+
+- An India crowdsourcing community of action for Cybersecurity, IT professionals, engineers, and anyone who think cybersecurity (Hacking) as career.
+
 ## Guideline & Rules For Community Members
 
+1. Asking questions and answering them. Everyone’s got something to learn, everyone’s got something to teach. Take advantage of both! 
+And Please Avoid or google or use chatGPT for Questions based on
 
-We're RESETHACKER's Family.
+      - How
+      - Why 
+      - What 
 
-- India's crowdsourcing community of action for professionals hackers and hobbyists interested in  & Networking.
-
-### Want to know what we're all about? Here's a short run down of what you can expect:
-
-1.    RESETHACKER is our researcher community, and this server exists to help you connect to the wider community here at RESETHACKER. 
-
-2.    Asking questions and answering them. Everyone’s got something to learn, everyone’s got something to teach. Take advantage of both!  
-      Please do respect other people by asking specific questions, and trying to find the answer first yourself. 
-      Don't ask open ended questions like, "how do I use burp", what is wireshark, etc.
-
-3.    Shamelessness. We share both wins and losses without shame, because failure is the foundation of success. 
-
-4.    Responsible discussions of programs – it’s what we’re here for, after all, but remember to respect the public/private status of programs. 
-
-5.    Become friends with influencing people ,CTF player, CTF creator,Bughunter, developers,Programmers.
+### How to ask :
+- Introduce Name + year of expiriance.
+- Steps you have already taken to try to resolve the issue.
+- Where do you need help (Provide as much relevant information as possible eg SS, tools name etc)      
 
 ### 🚨Strict rules🚷 @everyone
 
@@ -31,6 +29,8 @@ We're RESETHACKER's Family.
 
 5) Ask admins before posting inside the groups.
 
-6) If your're Hiring then highly recomend you discuss with @reset_vicky(Community Mnager for ResetHacker)
+7) Responsible discussions of programs – it’s what we’re here for, after all, but remember to respect the public/private status of programs. 
+
+8) If your're Hiring then highly recomend you discuss with @reset_vicky(Community Mnager for ResetHacker)
 
 
