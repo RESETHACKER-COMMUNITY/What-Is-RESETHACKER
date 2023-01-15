@@ -1,15 +1,13 @@
-# Welcome to ResetHacker Community 
+## Welcome to ResetHacker Community Where Hackers think what is next for a career ?
 
 **What is RESETHACKER ?**
 
 An India crowdsourcing community of action for Cybersecurity, IT professionals, engineers, and anyone who **think hacking as career**.
 
-Where Hackers think what is next for a career ?
-
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To Enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing hands-on training, resources, guidance and mentorship.
+To Enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing Events, resources, guidance and mentorship.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
