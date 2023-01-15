@@ -1,6 +1,6 @@
 # Welcome to ResetHacker Community 
 
-An India crowdsourcing community of action for Cybersecurity professionals, DevOps engineers, and IT professionals.
+An India crowdsourcing community of action for Cybersecurity professionals, engineers, and anyone who think hacking as career.
 
 Where Hackers think what is next for a career ?
 
