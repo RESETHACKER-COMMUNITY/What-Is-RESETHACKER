@@ -100,7 +100,7 @@ Index | Iniciative & Events
 > Resethacker Community is so grateful to all the Organization, group, and community that support Weekly Infosec Update for the engagement. Without their support reaching out to hackers would not have been possible and we have given the title "Community Engagement Partners" of Weekly Infosec Update:- Hacker101 Discord, TryHackMe Discord, Offensive Security Discord, HackerSploit Discord, Bug Bounty Hunter Den, Stefan Rows Community, Nahamsec Discord, RedBlue Private Discussion, TCM Security Discord, Bounty-hunters, The Cyber Council and others. 
 
 - 29th August 2022
-> Vikram founder of ResetHacker community launches **Pentesting-Helpdesk** on ResetHacker github, to giving community full assistance with 
+> Vikram founder of ResetHacker community launches **Pentesting-Helpdesk** on ResetHacker github, to give community full assistance with 
     
     Pentesting Pre-Engagements Advice
     Pentesting NDA & Saas Aggrement form
