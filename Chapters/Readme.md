@@ -52,7 +52,7 @@ Index | Iniciative & Events
 - Europe
 
 ## Chapters :
-By connecting, training and promoting cybersecurity(Hacking) as carrer in all states of India and country.
+By connecting, training and promoting cybersecurity(Hacking) as carrer in all states of India and other countries.
 we have taken the initiative to reach the mission and vision of RESETHACKER.
 
 #### INDIA
