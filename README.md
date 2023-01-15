@@ -45,7 +45,7 @@ An India crowdsourcing community of action for Cybersecurity, IT professionals, 
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing Events, resources, jobs, guidance and mentorship.
+To enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing Events, resources, jobs, networking, guidance and mentorship.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
