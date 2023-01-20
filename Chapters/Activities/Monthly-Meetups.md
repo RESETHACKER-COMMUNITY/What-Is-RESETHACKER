@@ -35,3 +35,14 @@
 - QA 
 - Discuss What's for next week
 - Thankyou
+
+## TODOLIST (checklist)
+
+	1. Team : DONE
+	2. Guest Lists : DONE
+	3. Setting up platform to host events : DONE
+	4. Training Team and assigning Task : (Keep improving and automating) 
+	5. Marketing strategy : Work in progress
+    6. Thankyou NOTE & Slide on Social media platform.
+    7. Thankyou Email from RESETHACKER community.
+
