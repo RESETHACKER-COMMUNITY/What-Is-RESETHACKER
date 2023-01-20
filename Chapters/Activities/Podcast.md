@@ -1,5 +1,5 @@
 ## Podcast Name & Company Name 
-- Why and storie behind name? 
+- Why and story behind name? 
 - Business & Monetization : Advertisements for business, Sponsers for podcast, Merch etc. 
 - Goal : What you want to achive by creating a podcast
 - FUTURE : Offline studio and inviting guests.
