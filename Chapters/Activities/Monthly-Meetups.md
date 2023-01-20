@@ -2,9 +2,9 @@
 ## Webinar Name & organization Name :
 
     Why and story behind name?
-    Business & Monetization : Advertisements for business, Sponsors for podcast, Merch etc.
+    Business & Monetization : Advertisements for business, Sponsors, Merch etc.
     Goal : What you want to achive by creating a podcast
-    FUTURE : Offline studio and inviting guests.
+    FUTURE : Offline meetups, studio and inviting guests offline.
 
 ## Fund :
 
