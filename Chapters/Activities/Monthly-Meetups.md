@@ -1,4 +1,17 @@
-# Formate for chapter Monthly Meetup (Operation Managers)
+
+## Webinar Name & organization Name :
+
+    Why and story behind name?
+    Business & Monetization : Advertisements for business, Sponsors for podcast, Merch etc.
+    Goal : What you want to achive by creating a podcast
+    FUTURE : Offline studio and inviting guests.
+
+## Fund :
+
+    Domain, Website, professional emails, mic, light. video editing software, Canva, podcast broadcasting software, Teams, etc.
+
+
+## Formate for chapter Monthly Meetup (Operation Managers)
 
 - Meetup Topic Polls
 - Announcement on Group and Instagram
@@ -13,7 +26,7 @@
 
 -----------------------------
 
-# Formate for chapter Monthly Meetup (HOST)
+## Formate for chapter Monthly Meetup ( for HOST)
 
 - Welcome
 - Introduction of ResetHacker community
