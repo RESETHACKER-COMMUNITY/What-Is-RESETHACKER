@@ -1,16 +1,16 @@
 ## Podcast Name & Company Name 
 - Why and story behind name? 
-- Business & Monetization : Advertisements for business, Sponsers for podcast, Merch etc. 
+- Business & Monetization : Advertisements for business, Sponsors for podcast, Merch etc. 
 - Goal : What you want to achive by creating a podcast
 - FUTURE : Offline studio and inviting guests.
 
 ## Fund 
-- Domain, Website, professional emails, mic, light. video editing software, canva, podcast broadcasting sotware, Teams, etc.
+- Domain, Website, professional emails, mic, light. video editing software, Canva, podcast broadcasting software, Teams, etc.
 
 ## Challenges
 - Difficulty with inviting and reaching out to the Guests because of time zone issues.
 - How to stay connected with guests for the long period of time.
-- Making sure guests are happy even after the PODCAST & followup.
+- Making sure guests are happy even after the PODCAST & follow-up.
 - Title & thumbnail for the podcast.
 
 ## TEAM (6)
@@ -28,35 +28,35 @@
   > TASK : Title & thumbnail for the podcast.
   
   > TASK : Creative ways to stay in touch with guests after the PODCAST.
-- Outreach Lead (Speakers, Partners, Sponsers, Community, Groups, etc) (1)
-  > TASK : Tamplete on how to outreach and follow up with Speakers, Partners, Sponsers, Community, Groups, etc. 
+- Outreach Lead (Speakers, Partners, Sponsors, Community, Groups, etc) (1)
+  > TASK : Tamplete on how to outreach and follow up with Speakers, Partners, Sponsors, Community, Groups, etc. 
   
   > TASK : follow up after the PODCAST.
 - Host 1 & co-Host 02 (Backup plan)
-   > TASK : Introduction scripts, 3-4 Guest scripts formate,  Practice, learn how to talk based on reseach, have conversation on fact.
+   > TASK : Introduction scripts, 3-4 Guest scripts Formate,  Practice, learn how to talk based on research, have conversation on fact.
 - Video/graphics designers (2) 
    
    > TASK : Logo, Tamplete for podcast, tamplete for short clips, Tamplete for social media platforms, intro, outro, Technical Break etc. 
 - Marketing & SEO  (1)
 
-- Social Media Platform Managememnt (optional for 2nd Roles)
+- Social Media Platform Management (optional for 2nd Roles)
 
 ## Claim PODCAST and company name on all the Platform
 
 - Website (Claim)
-- Youtube (Claim)
+- YouTube (Claim)
 
 (Marketing & Announcement)
-- LinkedIN
+- LinkedIn
 - Twitter
-- Instgram
+- Instagram
 
-(Optionals)
-- Facebok
+(Optional)
+- Facebook
 - Twitch
 - Reddit
 
-(Audio formate)
+(Audio Formate)
 - Spotify
 - Anchor
 - Apple Music
@@ -64,7 +64,7 @@
 ## Formate for Weekly podcast (For HOST)
 
 - Introduction & Welcome 
-- Summary or Highlight or start with intresting topic.
+- Summary or Highlight or start with interesting topic.
 - Guest Introduction and invite
 - Conversation
 - Hint or clue for next week ?
@@ -76,7 +76,7 @@
 - Newsletter (Emails)
 - blogs(SEO)
 - Social media posts(Engagements)
-- Podcast Polls, twitter polls (To understand people intrest and number of people watching)
+- Podcast Polls, twitter polls (To understand people interest and number of people watching)
 
 ### Formate
   - Announcement on Platforms
@@ -84,16 +84,12 @@
   - Update2 on Group(10 Minutes Ago)
     //Announcement on Platforms (10 Minutes before)//
 
-  - Summary and appriciate the guest.
+  - Summary and appreciate the guest.
   - Feedback Polls 
 
-NOTE : Record video and audia with high quality mic so we can upload it on Youtube and other platform
-
+NOTE : Record video and audio with high quality mic so we can upload it on YouTube and other platform
 
 ## FUTURE PLANS :
 - Offline studio
-- Monetization : Advertisements for business, Sponsers for podcast etc.
-- Business Oportunity : Merchandise, Service such as Pentesting, complience, etc
-
-
-
+- Monetization : Advertisements for business, Sponsors for podcast etc.
+- Business Opportunity : Merchandise, Service such as Pentesting, compliance, etc
