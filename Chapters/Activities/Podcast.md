@@ -1,14 +1,15 @@
 ## Podcast Name & Company Name 
-- Why & goal 
+- Why and storie behind name? 
 - Business & Monetization : Advertisements for business, Sponsers for podcast, Merch etc. 
-- What you want to achive by creating a podcast
-- FUTURE : Offline studio
+- Goal : What you want to achive by creating a podcast
+- FUTURE : Offline studio and inviting guests.
 
 ## Fund 
 - Domain, Website, emails, mic, light. Logo, Teams, etc.
 
 ## Challenges
-- How to stay connected with guests the long period of time.
+- Reaching out to Guests and time zone issues.
+- How to stay connected with guests for the long period of time.
 - Make sure guests are happy and continuw with the follow up even after the PODCAST.
 
 ## TEAM (6)
@@ -23,7 +24,7 @@
 - Outreach Lead (Speakers, Partners, Sponsers, Community, Groups, etc) (1)
   > TASK : Tamplete on how to outreach and follow up with Speakers, Partners, Sponsers, Community, Groups, etc. 
   > TASK : follow up after the PODCAST.
-- Host 1 & co-Host 02 (Optional)
+- Host 1 & co-Host 02 (Backup plan)
    > TASK : Introduction scripts, 3-4 Guest scripts formate,  Practice, learn how to talk based on reseach, have conversation on fact.
 - Video/graphics designers (2) 
    > TASK : Logo, Tamplete for podcast, tamplete for short clips, Tamplete for social media platforms, intro, outro, Technical Break etc. 
@@ -74,6 +75,7 @@
 NOTE : Record video and audia with high quality mic so we can upload it on Youtube and other platform
 
 ## FUTURE PLANS :
+- Offline studio
 - Monetization : Advertisements for business, Sponsers for podcast etc.
 - Business Oportunity : Merchandise, Service such as Pentesting, complience, etc
 
