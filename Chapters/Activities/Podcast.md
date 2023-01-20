@@ -89,7 +89,15 @@
 
 NOTE : Record video and audio with high quality mic so we can upload it on YouTube and other platform
 
+## TODOLIST
+	1. Team : DONE
+	2. Guest Lists : DONE
+	3. Setting up Discord and Slack : DONE
+	4. Training Team and assigning Task : (Keep improving and automating)
+
 ## FUTURE PLANS :
 - Offline studio
 - Monetization : Advertisements for business, Sponsors for podcast etc.
 - Business Opportunity : Merchandise, Service such as Pentesting, compliance, etc
+
+
