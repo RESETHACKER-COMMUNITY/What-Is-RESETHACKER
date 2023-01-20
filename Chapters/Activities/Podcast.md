@@ -5,7 +5,7 @@
 - FUTURE : Offline studio and inviting guests.
 
 ## Fund 
-- Domain, Website, emails, mic, light. Logo, Teams, etc.
+- Domain, Website, professional emails, mic, light. video editing software, canva, podcast broadcasting sotware, Teams, etc.
 
 ## Challenges
 - Difficulty with inviting and reaching out to the Guests because of time zone issues.
@@ -72,16 +72,23 @@
 
 ## Marketing Formate for PODCAST 
 
-- Podcast Topic Polls, twitter polls
-- Announcement on Platforms
-- Update1 (on Meetup Day)
-- Update2 on Group(10 Minutes Ago)
-//Announcement on Platforms (10 Minutes before)//
+### Engage & PODCAST visitors
+- Newsletter (Emails)
+- blogs(SEO)
+- Social media posts(Engagements)
+- Podcast Polls, twitter polls (To understand people intrest and number of people watching)
 
-- Summary and appriciate the guest.
-- Feedback Polls 
+### Formate
+  - Announcement on Platforms
+  - Update1 (on Meetup Day)
+  - Update2 on Group(10 Minutes Ago)
+    //Announcement on Platforms (10 Minutes before)//
+
+  - Summary and appriciate the guest.
+  - Feedback Polls 
 
 NOTE : Record video and audia with high quality mic so we can upload it on Youtube and other platform
+
 
 ## FUTURE PLANS :
 - Offline studio
