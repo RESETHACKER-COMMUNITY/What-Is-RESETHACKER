@@ -8,9 +8,10 @@
 - Domain, Website, emails, mic, light. Logo, Teams, etc.
 
 ## Challenges
-- Reaching out to Guests and time zone issues.
+- Difficulty with inviting and reaching out to the Guests because of time zone issues.
 - How to stay connected with guests for the long period of time.
-- Make sure guests are happy and continuw with the follow up even after the PODCAST.
+- Making sure guests are happy even after the PODCAST & followup.
+- Title & thumbnail for the podcast.
 
 ## TEAM (6)
 > Assign Two 2 Roles :
@@ -23,6 +24,10 @@
   > TASK : flowchart & Strategy for end to end podcast. 
 - R&S Department : Guest Research & Strategy Department (1)
   > TASK : Tamplete on how to research, 3-4 Tamplete on how to research based on topics.
+  
+  > TASK : Title & thumbnail for the podcast.
+  
+  > TASK : Creative ways to stay in touch with guests after the PODCAST.
 - Outreach Lead (Speakers, Partners, Sponsers, Community, Groups, etc) (1)
   > TASK : Tamplete on how to outreach and follow up with Speakers, Partners, Sponsers, Community, Groups, etc. 
   
