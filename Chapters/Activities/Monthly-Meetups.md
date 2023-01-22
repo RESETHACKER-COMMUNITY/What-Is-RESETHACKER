@@ -1,11 +1,11 @@
 
 ## EVENTS 1 
-- Launching ResetHacker STATE/CITY : Meet and greet 01
+- **Launching ResetHacker STATE/CITY : Meet and greet 01**
 
 - Agenda :
     Intruducing RESETHACKER, Why and story behind name?
     Goal : What you want to achive by creating a  chapter?
-    FUTURE : Offline meetups, networkings and inviting guests offline.
+    FUTURE : Offline meetups, networking and inviting guests offline.
 
 ## TODOLIST : Formate for chapter Monthly Meetup (Operation Managers & chapter Lead follow)
 
