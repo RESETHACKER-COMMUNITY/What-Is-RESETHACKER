@@ -1,18 +1,15 @@
 
-## Webinar Name & organization Name :
+## EVENTS 1 
+- Launching ResetHacker STATE/CITY : Meet and greet 01
 
-    Why and story behind name?
-    Business & Monetization : Paid webinars, Advertisements for business, Sponsors, Merch etc.
-    Goal : What you want to achive by creating a podcast
-    FUTURE : Offline meetups, studio and inviting guests offline.
+- Agenda :
+    Intruducing RESETHACKER, Why and story behind name?
+    Goal : What you want to achive by creating a  chapter?
+    FUTURE : Offline meetups, networkings and inviting guests offline.
 
-## Fund :
+## TODOLIST : Formate for chapter Monthly Meetup (Operation Managers & chapter Lead follow)
 
-    Domain, Website, professional emails, mic, light. video editing software, Canva, podcast broadcasting software, Teams, etc.
-
-
-## Formate for chapter Monthly Meetup (Operation Managers)
-
+- Poll for Meetup Timing 
 - Meetup Topic Polls
 - Announcement on Group and Instagram
 - Update1 (on Meetup Day)
@@ -26,23 +23,46 @@
 
 -----------------------------
 
+## Checklist
+
+	1. Team : DONE/Progress
+	2. Guest Lists : DONE/Progress
+	3. Setting up platform to host events : DONE/Progress
+	4. Training Team and assigning Task : (Keep improving and automating) 
+	5. Marketing strategy : Work in progress/DONE
+	
+    Thankyou NOTE, picture & Slide on Social media platform.
+    Thankyou Email from RESETHACKER community.
+    
+    
+    
 ## Formate for chapter Monthly Meetup ( for HOST)
 
-- Welcome
-- Introduction of ResetHacker community
-- Agenda
-- Be creative and encourage Hackers to join conversation.
-- QA 
-- Discuss What's for next week
-- Thankyou
+	- Welcome
+	- Introduction of ResetHacker community
+	- Agenda
+	- Be creative and encourage Hackers to join conversation.
+	- QA 
+	- Discuss What's for next week
+	- Thankyou
 
-## TODOLIST (checklist)
 
-	1. Team : DONE
-	2. Guest Lists : DONE
-	3. Setting up platform to host events : DONE
-	4. Training Team and assigning Task : (Keep improving and automating) 
-	5. Marketing strategy : Work in progress
-    6. Thankyou NOTE & Slide on Social media platform.
-    7. Thankyou Email from RESETHACKER community.
+## Examples :
 
+	Good evening everyone,
+
+	Welcome everyone to ResetHacker ____________ 1st online introduction event. 
+
+	My name is ____________.
+	I am excited to be your host today as we explore the *"ResetHacker community, why we started this chapter and get to know each other"*.
+
+	Today, we also have a Community manager of ResetHacker, Vicky Kumar, with us to share his insights if you have questions related to ResetHacker.
+	And ______________, operation manager of ResetHacker Kerala.
+
+	For those of you who may not be familiar, ResetHacker is India's crowdsourcing community of action for cybersecurity and IT professionals. 
+
+	Our goal is to empower and train the next generation of cybersecurity leaders, providing events, resources, guidance, and mentorship 
+	to those seeking to make a career in Cybersecurity (Hacking).
+	
+	Currently, we have chapters in states like KARNATAKA, MAHARASHTRA, ANDHRA PRADESH, DELHI, GUJARAT, KERALA, UTTAR PRADESH, PUNJAB, 
+	and HARYANA, and we're expanding to the UK and Europe. (Share the Link in Chat)
