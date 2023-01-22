@@ -33,4 +33,8 @@ And Please Avoid or google or use chatGPT for Questions based on
 
 8) If your're Hiring then highly recomend you discuss with @reset_vicky(Community Mnager for ResetHacker)
 
+Warning: You may be kicked or permanently banned if you fail to follow the rules. Depending on the severity of the behavior in question we have a graduated scale of response:
+
+1 warning before being booted off the group (or kicked) 1 prior boot before being banned from the RESETHACKER COMMUNITY.
+
 
