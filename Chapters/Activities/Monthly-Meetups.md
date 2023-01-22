@@ -32,7 +32,7 @@
 	5. Marketing strategy : Work in progress/DONE
 	
     Thankyou NOTE, picture & Slide on Social media platform.
-    Thankyou Email from RESETHACKER community.
+    Thankyou Email from RESETHACKER community to Guest and certificate.
     
     
     
@@ -66,3 +66,30 @@
 	
 	Currently, we have chapters in states like KARNATAKA, MAHARASHTRA, ANDHRA PRADESH, DELHI, GUJARAT, KERALA, UTTAR PRADESH, PUNJAB, 
 	and HARYANA, and we're expanding to the UK and Europe. (Share the Link in Chat)
+	
+	
+
+
+## TO FOLLOW Up with GUEST
+- Create and schedule a google meet link ()
+
+
+
+	Title : 
+	Add Guest Emails : resethackerofficial@gmail.com, chapter emails, HOST, Community Manager
+	NOTE : Check Time Zone & AM & PM
+	Add This in google meet Discription :
+		HOST NAME : 
+		What is RESTHACKER ?
+		https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER
+		Social media Link : linktr.ee/RESETHACKER
+
+		NOTE :  We'll publist this session on Youtube within 1 week.
+		YOUTUBE Link: 
+
+
+		In case of emergency or help you can reacch us out on : resethackerofficial@gmail.com
+		or Commmunity mannager of RESETHACKER COMMUNITY @resetvicky
+
+
+		In case of emergency or help you can reacch us out on : resethackerofficial@gmail.com
