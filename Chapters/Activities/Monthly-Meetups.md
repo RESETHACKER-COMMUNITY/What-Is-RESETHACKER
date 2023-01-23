@@ -131,6 +131,7 @@ Task Assigned : Community Manager
 Thankyou **speaker Name**,  
 For this amazing session on **Topic Name**.
 
+![Explample](https://user-images.githubusercontent.com/25515871/214100593-8d100724-8dc7-48b4-9e98-b85d6ffe6433.jpg)
 
 # Feedback (Members)
 TASK Assigned : Operation Manager 
