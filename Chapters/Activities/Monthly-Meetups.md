@@ -19,20 +19,27 @@
 - Summary and appriciate the guest.
 - Feedback Polls 
 
-## Please record Meetup video so we can upload it on Youtube.
+## Please record Meetup video so we can upload it on Youtube. 
+> SOMETIME YOU'll see auidio issue so i request leaders to test it by recording a small conversation.
 
 -----------------------------
 
 ## Checklist
-
-	1. Team : DONE/Progress
-	2. Guest Lists : DONE/Progress
+	
+   ## Before the EVENT 
+	1. Team Time and Guest time: DONE/Progress
+	2. Guest Lists  and invite them : DONE/Progress
 	3. Setting up platform to host events : DONE/Progress
-	4. Training Team and assigning Task : (Keep improving and automating) 
-	5. Marketing strategy : Work in progress/DONE
+	4. Be comfertable with google meet paltform and make it intractive: (Keep improving and automating) 
 	
     Thankyou NOTE, picture & Slide on Social media platform.
-    Thankyou Email from RESETHACKER community to Guest and certificate.
+    
+   ## After the Event
+	- Feedback for members and ask to tag on social media platform.
+	- Send a Thankyou Note to Guest speaker 
+	- Send Slide to Chapter group and cross check the audio & upload it to youtube.
+	- Thankyou Email from RESETHACKER chapter email to Guest speaker and attach certificate.
+	- Don't forget to put resethackerofficial@gmail.com in CC.
     
     
     
@@ -43,11 +50,16 @@
 	- Agenda
 	- Be creative and encourage Hackers to join conversation.
 	- QA 
-	- Discuss What's for next week
+	- Discuss What's for next MONTH
 	- Thankyou
+	
 
 
-## Examples :
+# Examples :
+
+
+# Before the EVENT 
+## Host Opening line
 
 	Good evening everyone,
 
@@ -68,12 +80,11 @@
 	and HARYANA, and we're expanding to the UK and Europe. (Share the Link in Chat)
 	
 	
-
-
-## TO FOLLOW Up with GUEST
+## TO FOLLOW Up with Guest speaker(Leader to GUEST)
+TASK Assigned : Operation Manager or chapter leader
 - Create and schedule a google meet link ()
 
-
+- Example
 
 	Title : 
 	Add Guest Emails : resethackerofficial@gmail.com, chapter emails, HOST, Community Manager
@@ -91,5 +102,64 @@
 		In case of emergency or help you can reacch us out on : resethackerofficial@gmail.com
 		or Commmunity mannager of RESETHACKER COMMUNITY @resetvicky
 
-
 		In case of emergency or help you can reacch us out on : resethackerofficial@gmail.com
+		
+		
+## TO Follow up for the event(With Members)
+TASK Assigned : Operation Manager 
+
+Hello Everyone,
+
+The Google Meet link for todays session  "xxxxxxxxxxxxxx" is
+
+https://meet.google.com/xxxxxxxxxxxx
+
+Will start at 8 PM
+
+Thanks, 
+Leader & operation manager Name 
+Chapter Leads ResetHacker Kerala
+
+
+
+# After the EVENT 
+## Thankyou Note (Guest)
+Task Assigned : Community Manager
+
+Thankyou **speaker Name**,  
+For this amazing session on **Topic Name**.
+
+
+# Feedback (Members)
+TASK Assigned : Operation Manager 
+
+Hey everyone,
+
+Did you enjoy the session?
+
+Give a thumbs up if you want more in the future.
+
+And if you have suggestions for us. we'll love to hear from you.
+
+For those who missed it. We'll upload it on YouTube.
+
+Thankyou 
+
+
+---------------------
+
+## Engagement (Members)
+TASK Assigned : Operation Manager 
+
+If you have a screenshot of the session tag **RESETHACKER** on Instagram or Twitter.
+@resethacker
+
+We'll add you to our story.
+
+
+
+## Followup for event (Members)
+TASK Assigned : Operation Manager 
+
+For those who need the slides of today's session please use this link 
+slides: LINK or pdf
