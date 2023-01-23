@@ -86,14 +86,16 @@
 	
 ## Google meet calender Link TO FOLLOW Up with Guest speaker(Leader to GUEST)
 TASK Assigned : Operation Manager or chapter leader
+
 - **Create and schedule a google meet link ()**
 
 - Example
 
-	Title : 
-	Add Guest Emails : resethackerofficial@gmail.com, chapter emails, HOST, Community Manager
-	NOTE : Check Time Zone & AM & PM
-	Add This in google meet Discription :
+	- Title : 
+	- Add Guest Emails : resethackerofficial@gmail.com, chapter emails, HOST, Community Manager
+	- NOTE : Check Time Zone & AM & PM
+	- Add This in google meet Discription :
+		
 		HOST NAME : 
 		What is RESTHACKER ?
 		https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER
@@ -101,11 +103,10 @@ TASK Assigned : Operation Manager or chapter leader
 
 		NOTE :  We'll publist this session on Youtube within 1 week.
 		YOUTUBE Link: 
-
-
+		
 		In case of emergency or help you can reacch us out on : resethackerofficial@gmail.com
 		or Commmunity mannager of RESETHACKER COMMUNITY @resetvicky
-
+		
 		In case of emergency or help you can reacch us out on : resethackerofficial@gmail.com
 		
 		
