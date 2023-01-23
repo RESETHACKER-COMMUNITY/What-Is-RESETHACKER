@@ -7,14 +7,9 @@
     Goal : What we want to achive by creating a chapter?
     FUTURE : Offline meetups, networking and inviting guests offline.
 
-## TODOLIST : Formate for chapter Monthly Meetup (Operation Managers & chapter Lead follow)
+## TODOLIST : 
+> Formate for chapter Monthly Meetup (Operation Managers & chapter Lead follow)
 
-- Poll for Meetup Timing 
-- Meetup Topic Polls
-- Announcement on Group and Instagram
-- Update1 (on Meetup Day)
-- Update2 on Group(10 Minutes Ago)
-//Announcement on ResetHacker Community (10 Minutes Ago)//
 
 - Summary and appriciate the guest.
 - Feedback Polls 
@@ -25,12 +20,19 @@
 -----------------------------
 
 ## Checklist
+> DONE/PROCESS
 	
    ## Before the EVENT 
-	1. Team Time and Guest time: DONE/Progress
-	2. Guest Lists  and invite them : DONE/Progress
-	3. Setting up platform to host events : DONE/Progress
-	4. Be comfertable with google meet paltform and make it intractive: (Keep improving and automating) 
+ 	1. Poll for Meetup Timing 
+	2. Team Time and Guest time: DONE/Progress
+ 	2. Guest Lists invite them and ask for the Meetup Topic 
+ 	3. Announcement on Group and Instagram
+ 	4. Update1 (on Meetup Day)
+ 	5. Update2 on Group(15 Minutes Ago)
+	//Announcement on ResetHacker Community (10 Minutes Ago)//
+	6. Setting up platform to host events and send google meet calender link with **resethacckerChpeter@gmail.com** to speaker 1 day before the event
+	7. Keep resethacker resethackerofficial@gmail.com in CC while intracting with speaker.
+	7. Be comfertable with google meet paltform and make it intractive: (Keep improving and automating) 
 	
     Thankyou NOTE, picture & Slide on Social media platform.
     
@@ -80,9 +82,9 @@
 	and HARYANA, and we're expanding to the UK and Europe. (Share the Link in Chat)
 	
 	
-## TO FOLLOW Up with Guest speaker(Leader to GUEST)
+## Google meet calender Link TO FOLLOW Up with Guest speaker(Leader to GUEST)
 TASK Assigned : Operation Manager or chapter leader
-- Create and schedule a google meet link ()
+- **Create and schedule a google meet link ()**
 
 - Example
 
