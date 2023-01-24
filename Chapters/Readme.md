@@ -7,16 +7,21 @@ An India crowdsourcing community of action for Cybersecurity, IT professionals, 
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To Enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing Events, resources, guidance and mentorship.
+To Enable 10,000 individuals in cybersecurity within the end of 2023, with a focus on creating a safe and welcoming environment for all by sharing knowdelege in Events, guidance and mentorship.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
 
 ## Our Vision : 
-To create an India-centric cybersecurity community for the world where cybersecurity is recognized as a vital and desirable career choice and to make it accessible to people from all backgrounds, regardless of their financial or educational status.
+To revolutionize the cybersecurity profession in India as a desirable and vital career, by creating a world-class India-centric community accessible to all, which empowers individuals from all backgrounds to pursue a career in cybersecurity.
 
 ## Goal :
 A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
+Business Model: A subscription-based platform with tiered levels of access depending on the user’s needs.
+Platform: Web-based platform with an intuitive user interface, accessible on all devices.
+
+## Timeline :
+We are committed to achieving these goals within a 5-year timeline. 
 
 ##### Reset Ed-tech with community
 ##### Think Hacking as a career Think ResetHacker
