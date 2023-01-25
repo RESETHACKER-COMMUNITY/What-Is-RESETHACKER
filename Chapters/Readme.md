@@ -13,7 +13,7 @@ To Enable 10,000 individuals in cybersecurity within the end of 2023, with a foc
 Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
 
 ## Our Vision : 
-To revolutionize the cybersecurity profession in India as a desirable and vital career, by creating a world-class India-centric community accessible to all, which empowers individuals from all backgrounds to pursue a career in cybersecurity.
+A world-class India-centric community accessible to all, which empowers individuals and group from all backgrounds to pursue a career in cybersecurity.
 
 ## Goal :
 A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
