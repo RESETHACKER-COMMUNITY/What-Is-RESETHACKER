@@ -1,4 +1,4 @@
-## 26th January 2021 - Republic Day with RESETHACKER
+## 26th January 2023 - Republic Day with RESETHACKER
 <div align=""><br>
 <a href="mailto:resethackerofficail@gmail.com?subject=ResetHacker Community" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail"></a>
 <a href="https://github.com/RESETHACKER-COMMUNITY" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github"></a>
@@ -15,11 +15,16 @@
   <a href="https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/"><img src="/.images/RH-BLACK-BG.jpg" alt="RESETHACKER" width="300" height="280"></a>
 </h1>
 
-> ResetHacker celebrates its **2 year anniversary** and RESETHACKER community launches Github organisation, Making everything transparent for the community.
+> ResetHacker celebrating its **4 year anniversary** by launching Chapters, to promote cybersecurity locally and enable 10k hackers at the end of 2023.
+# We're available in [Countries and States](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/Chapters/Readme.md)
+- India 
+- UK
+- Europe
+> ResetHacker celebrated its **2 year anniversary** by launching Github organisation, Making everything transparent for the community.
 
 > Made in India 🇮🇳 
 
-> *Send a birthday message **#RESETHACKER2021*** 
+> *Send a birthday message **#RESETHACKER2023*** 
 > [Twitter](https://twitter.com/resethacker) | [Instagram](https://instagram.com/@resethacker/)
 
 ## Sponsor Resethacker
@@ -59,13 +64,9 @@ A Community-led Ed-tech platform that track students progress and provide "Exten
 ## How It started?
 > We(A group of white hat hacker) started with an idea to provide cybersecurity knowledge to technical & non-technical people in india and reset the mindset towards Hacking(Cybersecurity) as career. 
 
-# We're available in [Countries and States](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/Chapters/Readme.md)
-- India 
-- UK
-- Europe
 
 ### Fun Fact
- - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open knowledge.
+ - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open security knowledge.
  - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER
 
 ## [Departments of ResetHacker Community](/Departments.md)
