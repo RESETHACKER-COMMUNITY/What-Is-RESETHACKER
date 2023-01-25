@@ -15,12 +15,11 @@
   <a href="https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/"><img src="/.images/RH-BLACK-BG.jpg" alt="RESETHACKER" width="300" height="280"></a>
 </h1>
 
-> ResetHacker is celebrating it's **4th anniversary by establishing chapters across all states & country, with the aim of promoting cybersecurity as a career and enabling 10,000 hackers by the end of 2023.*
-# We're available in [Countries and States](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/Chapters/Readme.md)
+> ResetHacker is celebrating it's **4th anniversary by establishing chapters across all states & country, with the aim of promoting cybersecurity as a career and enabling 10,000 hackers by the end of 2023.**
+> We're available in [Countries and States](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/Chapters/Readme.md)
 - India 
 - UK
 - Europe
-> ResetHacker celebrated its **2 year anniversary** by launching Github organisation, Making everything transparent for the community.
 
 > Made in India 🇮🇳 
 
@@ -67,7 +66,8 @@ A Community-led Ed-tech platform that track students progress and provide "Exten
 
 ### Fun Fact
  - In 2 years (2019 - 2021), RESETHACKER has become one of a fastest-growing cybersecurity community of open security knowledge.
- - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER
+ - Over 90+ people have contributed and 20+ people were leading the RESETHACKER Community Where 50+ people are the CORE of RESETHACKER.
+ - ResetHacker celebrated its **2 year anniversary** by launching Github organisation, Making everything transparent for the community.
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
