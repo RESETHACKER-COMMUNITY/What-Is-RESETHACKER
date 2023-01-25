@@ -17,8 +17,6 @@ To revolutionize the cybersecurity profession in India as a desirable and vital 
 
 ## Goal :
 A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
-Business Model: A subscription-based platform with tiered levels of access depending on the user’s needs.
-Platform: Web-based platform with an intuitive user interface, accessible on all devices.
 
 ## Timeline :
 We are committed to achieving these goals within a 5-year timeline. 
