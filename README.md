@@ -15,7 +15,7 @@
   <a href="https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/"><img src="/.images/RH-BLACK-BG.jpg" alt="RESETHACKER" width="300" height="280"></a>
 </h1>
 
-> ResetHacker celebrating its **4 year anniversary** by launching Chapters, to promote cybersecurity locally and enable 10k hackers at the end of 2023.
+> ResetHacker is celebrating it's **4th anniversary by establishing chapters across all states & country, with the aim of promoting cybersecurity as a career and enabling 10,000 hackers by the end of 2023.*
 # We're available in [Countries and States](https://github.com/RESETHACKER-COMMUNITY/What-Is-RESETHACKER/blob/main/Chapters/Readme.md)
 - India 
 - UK
