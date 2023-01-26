@@ -43,22 +43,28 @@ Index | *ResetHacker*
 -🌐 | [Website(Offline)](https://resethacker.com/) 
 
 
-# Welcome to ResetHacker where hackers think what is next for a career ?
+# Welcome to ResetHacker where hacker thinks what is next for a career ?
 
-An India crowdsourcing community of action for Cybersecurity, IT professionals, engineers, and anyone who **think hacking as career**
+**What is RESETHACKER ?**
+
+> An India crowdsourcing community of action for Cybersecurity, IT professionals, engineers, and anyone who **thinks of cybersecurity as a career"**.
+
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To enable 100x individuals in cybersecurity within the end of 2023, with a focus on providing Events, resources, jobs, networking, guidance and mentorship.
+To Enable 10,000 individuals in cybersecurity within the end of 2023, with a focus on creating a cybersecurity as career culture for all by sharing knowdelege and expiriance through Events, guidance and mentorship.
 
-## Our Mission :  
-To connect, empower, and train the infosec community, leaders, and workforce to recognize cybersecurity as a vital and desirable career choice.
+## Our Mission : 
+Connect, empower and train the infosec groups, leaders and workforce to promote **cybersecurity as a career** through workshops, training sessions, mentorship programs, and creating a learning platform, with a focus on developing leaders in the field.
 
 ## Our Vision : 
-To create an India-centric cybersecurity community for the world where cybersecurity is recognized as a vital and desirable career choice and to make it accessible to people from all backgrounds, regardless of their financial or educational status.
+A world-class India-centric community accessible to all, which empowers individuals and groups from all backgrounds to pursue a career in cybersecurity and become leaders in the field.
 
 ## Goal :
-A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help graduate/under-graduate succeed.
+A Community-led Ed-tech platform that track students progress and provide **Extended support** on top of certifications to help you succeed.
+
+## Timeline :
+We are committed to achieving these goals within a 1-year timeline. 
 
 ## How It started?
 > We(A group of white hat hacker) started with an idea to provide cybersecurity knowledge to technical & non-technical people in india and reset the mindset towards Hacking(Cybersecurity) as career. 
