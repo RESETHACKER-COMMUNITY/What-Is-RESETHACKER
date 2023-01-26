@@ -52,7 +52,7 @@ Index | *ResetHacker*
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To Enable 10,000 individuals in cybersecurity within the end of 2023, with a focus on creating a cybersecurity as career culture for all by sharing knowdelege and expiriance through Events, guidance and mentorship.
+To Enable 10,000 individuals in cybersecurity within the end of 2023, with a focus on creating a cybersecurity as career culture and launching chapters for all states and sharing knowdelege through Events, guidance and mentorship.
 
 ## Our Mission : 
 Connect, empower and train the infosec groups, leaders and workforce to promote **cybersecurity as a career** through workshops, training sessions, mentorship programs, and creating a learning platform, with a focus on developing leaders in the field.
