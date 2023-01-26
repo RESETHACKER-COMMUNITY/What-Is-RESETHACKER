@@ -1,4 +1,5 @@
-## 26th January 2023 - Republic Day with #RESETHACKER2023
+## 🎉 26th January 2023 - Happy Republic Day and 
+## 🎉 Happy 4th anniversary to the ResetHacker community! 🎉 
 <div align=""><br>
 <a href="mailto:resethackerofficail@gmail.com?subject=ResetHacker Community" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail"></a>
 <a href="https://github.com/RESETHACKER-COMMUNITY" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github"></a>
@@ -104,44 +105,66 @@ Index | Iniciative & Events
 
 - 26th January 2023
 > **stage 2** 🎉 Happy 4th anniversary to the ResetHacker community! 🎉
+
 > **stage 2** ResetHacker is celebrating it's 4th anniversary by establishing chapters across all states & country, with the aim of promoting cybersecurity as a career and enabling 10,000 hackers by the end of 2023. We're available in Countries and States.
+
 > **stage 2** Hosting introduction meetup for RESETHACKER Gujarat.
+
 > **stage 2** RESETHACKER Partnered with **HelloFriend** media cunsultancy Company and announcement.
 
 - 25th January 2023
-> **stage 2** Updating github, clebrating RESETHACKER 4th year anniversery by relaunching RESETHACKER online and organizing online meetup.
-> **stage 2** Final meeting with HelloFreind Teams and founder. 
-> **stage 2** Rechecking the anniversary operation and team of Chapters leaders.
+  > **stage 2** Updating github, clebrating RESETHACKER 4th year anniversery by relaunching RESETHACKER online and organizing online meetup.
+  
+  > **stage 2** Final meeting with HelloFreind Teams and founder. 
+  
+  > **stage 2** Rechecking the anniversary operation and team of Chapters leaders.
 
 
 - 24th January 2023
-> **stage 2** Launching chapters for RESTHACKER Community and expanding outside the india.
-> **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
-> **stage 2** Discussion to Launch a podcast in colebration for cybersecurity. 
-> **stage 2** Hosting chapter meetup and team mangement and operations.
-> **stage 2** Identified the problem working on exicution of pitchdeck to genrate PoC and discussing with the leaders in cybersecurity for partnership and looking for  potential co-founder in Tech.
-> **stage 2** Launching startup group and cennecting enterprenues.
-> **stage 2** Again Delay xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. (Till from 28th, 29th jan & 12thfeb to 19th feb)
+  > **stage 2** Launching chapters for RESTHACKER Community and expanding outside the india.
+  
+  > **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
+  
+  > **stage 2** Discussion to Launch a podcast in colebration for cybersecurity. 
+  
+  > **stage 2** Hosting chapter meetup and team mangement and operations.
+  
+  > **stage 2** Identified the problem working on exicution of pitchdeck to genrate PoC and discussing with the leaders in cybersecurity for partnership and looking for  potential co-founder in Tech.
+  
+  > **stage 2** Launching startup group and cennecting enterprenues.
+
+  > **stage 2** Again Delay xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. (Till from 28th, 29th jan & 12thfeb to 19th feb)
 
 - 30th December 2022
-> **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
-> **stage 2** Working on pitchdeck and discussing with the mentors to look for the partners and co-founders.
-> **stage 2** Working on launching chapter so we can host offline launch party with MVP in bangalore.
-> **stage 2** Hosting chapter meetup and team mangement and operation.
-> **stage 2** Launching startup group and cennecting enterprenues.
-> **stage 2** Opportunity to work as community manager for in AIplanet based.
-> **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
+  > **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
+  
+  > **stage 2** Working on pitchdeck and discussing with the mentors to look for the partners and co-founders.
+  
+  > **stage 2** Working on launching chapter so we can host offline launch party with MVP in bangalore.
+  
+  > **stage 2** Hosting chapter meetup and team mangement and operation.
+  
+  > **stage 2** Launching startup group and cennecting enterprenues.
+  
+  > **stage 2** Opportunity to work as community manager for in AIplanet based.
+  
+  > **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
 
 - 10th December 2022
-> **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
-> **stage 2** Working on UI/UX part of website and refining the mentors.
-> **stage 2** Discussing on hosting offline private party and relaunch of RESETHACKER in bangalore.
-> **stage 2** Opportunity to promote startup and network with guests/founders/VC in HYDRABAD and work as commmunity manager.
+  > **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
+  
+  > **stage 2** Working on UI/UX part of website and refining the mentors.
+  
+  > **stage 2** Discussing on hosting offline private party and relaunch of RESETHACKER in bangalore.
+  
+  > **stage 2** Opportunity to promote startup and network with guests/founders/VC in HYDRABAD and work as commmunity manager.
 
 - 10th November 2022
-> **stage 2** Working on building a MVP for RESETHACKER, recruting required team and hosting Offline meetup to Relaunch RESTHACKER. 
-> **stage 2** Tried to reachout to company regarding the to curating community curated newsletter for business for pentesterlab, hackerone, intigriti etc. and had a conversation/meeting but not align with their goal or business model will not work for them.
-> **stage 2** Opportunity to promote startup in HYDRABAD and work as commmunity manager.
+  > **stage 2** Working on building a MVP for RESETHACKER, recruting required team and hosting Offline meetup to Relaunch RESTHACKER.
+   
+  > **stage 2** Tried to reachout to company regarding the to curating community curated newsletter for business for pentesterlab, hackerone, intigriti etc. and had a conversation/meeting but not align with their goal or business model will not work for them.
+  
+  > **stage 2** Opportunity to promote startup in HYDRABAD and work as commmunity manager.
 
 - 10th October 2022
 > After taking the feedback from community for almost 3 months, making announcement such as releasing Weekly Infosec Update every wednesday at 8:00-8:30 AM IST.
