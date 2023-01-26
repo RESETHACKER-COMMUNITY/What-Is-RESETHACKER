@@ -2,27 +2,28 @@
 
 **What is RESETHACKER ?**
 
-An India crowdsourcing community of action for Cybersecurity, IT professionals, engineers, and anyone who **think hacking as career**.
+An India crowdsourcing community of action for Cybersecurity, IT professionals, engineers, and anyone who **thinks of cybersecurity as a career"**.
 
 ![RestHacker-Community](https://user-images.githubusercontent.com/25515871/211546520-2c15a8bb-2f13-4bbe-90ce-16a4a23b7f5d.jpeg)
 
 ## Objective: 
-To Enable 10,000 individuals in cybersecurity within the end of 2023, with a focus on creating a safe and welcoming environment for all by sharing knowdelege in Events, guidance and mentorship.
+To Enable 10,000 individuals in cybersecurity within the end of 2023, with a focus on creating a cybersecurity as career culture for all by sharing knowdelege and expiriance through Events, guidance and mentorship.
 
 ## Our Mission : 
-Connect, empower and train the infosec groups, leaders and workforce to promote (Hacking)cybersecurity as career.
+Connect, empower and train the infosec groups, leaders and workforce to promote **cybersecurity as a career** through workshops, training sessions, mentorship programs, and creating a learning platform, with a focus on developing leaders in the field.
 
 ## Our Vision : 
-A world-class India-centric community accessible to all, which empowers individuals and group from all backgrounds to pursue a career in cybersecurity.
+A world-class India-centric community accessible to all, which empowers individuals and groups from all backgrounds to pursue a career in cybersecurity and become leaders in the field.
 
 ## Goal :
-A Community-led Ed-tech platform that track students progress and provide "Extended support" on top of certifications to help you succeed.
+A Community-led Ed-tech platform that track students progress and provide **Extended support** on top of certifications to help you succeed.
 
 ## Timeline :
 We are committed to achieving these goals within a 5-year timeline. 
 
 ##### Reset Ed-tech with community
 ##### Think Hacking as a career Think ResetHacker
+#cybersecurity #careers #hacking #mentorship #commmunity
 
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
