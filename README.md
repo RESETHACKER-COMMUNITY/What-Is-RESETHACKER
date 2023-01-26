@@ -78,6 +78,7 @@ We are committed to achieving these goals within a 1-year timeline.
 ## [Departments of ResetHacker Community](/Departments.md)
 Index | Department 
 --- | ---
+**0** | chapter Leaders and Managers(Online) - RESETHACKER chapter]
 **1** | [Weekly Infosec Update (Online) - An open source Newsletter](https://github.com/RESETHACKER-COMMUNITY/Pentesting-Bugbounty/tree/main/ResetCybersecuirty)
 **2** | [ResetHacker Security(Offline)- Team of Freelance Penetration Tester](https://resethacker.com)
 **3** | [ResetDeveloper Dept.(Offline)](https://instagram.com/resetdeveloper?igshid=1k4ij7y0brg4r)
