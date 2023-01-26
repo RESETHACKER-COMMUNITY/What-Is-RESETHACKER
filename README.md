@@ -108,39 +108,26 @@ Index | Iniciative & Events
 
 > **stage 2** ResetHacker is celebrating it's 4th anniversary by establishing chapters across all states & country, with the aim of promoting cybersecurity as a career and enabling 10,000 hackers by the end of 2023. We're available in Countries and States.
 
-> **stage 2** Hosting introduction meetup for RESETHACKER Gujarat.
-
-> **stage 2** RESETHACKER Partnered with **HelloFriend** media cunsultancy Company and announcement.
+> **stage 2** we will be hosting an introduction meetup for the RESETHACKER Gujarat chapter. Additionally, we have partnered with HelloFriend media consultancy company and have an exciting announcement to share.
 
 - 25th January 2023
-  > **stage 2** Updating github, clebrating RESETHACKER 4th year anniversery by relaunching RESETHACKER online and organizing online meetup.
-  
-  > **stage 2** Final meeting with HelloFreind Teams and founder. 
-  
-  > **stage 2** Rechecking the anniversary operation and team of Chapters leaders.
-
+  > **stage 2** we have updated our GitHub, celebrating our anniversary by relaunching our online presence, and organizing an online meetup. We will also have a final meeting with the HelloFreind teams and founder.
 
 - 24th January 2023
-  > **stage 2** Launching chapters for RESTHACKER Community and expanding outside the india.
+  > **stage 2** We will be launching international chapters for the RESTHACKER community and expanding outside of India. 
   
-  > **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
+  > **stage 2** Due to a delay in work caused by a partner's hospitalization, we have not been able to focus on all of our teams, but we are now back on track.
   
-  > **stage 2** Discussion to Launch a podcast in colebration for cybersecurity. 
+  > **stage 2** We are also discussing the launch of a podcast to celebrate cybersecurity and hosting chapter meetups for team management and operations. 
   
-  > **stage 2** Hosting chapter meetup and team mangement and operations.
-  
-  > **stage 2** Identified the problem working on exicution of pitchdeck to genrate PoC and discussing with the leaders in cybersecurity for partnership and looking for  potential co-founder in Tech.
-  
-  > **stage 2** Launching startup group and cennecting enterprenues.
+  > **stage 2** We have identified a problem and are working on the execution of a pitch deck to generate a Proof of Concept, discussing partnerships with leaders in cybersecurity, and looking for potential co-founders in the tech field. We are also launching a startup group and connecting with entrepreneurs.
 
   > **stage 2** Again Delay xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. (Till from 28th, 29th jan & 12thfeb to 19th feb)
 
 - 30th December 2022
-  > **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
+  > **stage 2** The ResetHacker community is currently working on refining our business model and discussing with founders to understand how they raise money. 
   
-  > **stage 2** Working on pitchdeck and discussing with the mentors to look for the partners and co-founders.
-  
-  > **stage 2** Working on launching chapter so we can host offline launch party with MVP in bangalore.
+  > **stage 2** We are also working on our pitch deck, discussing with mentors to look for partners and co-founders. 
   
   > **stage 2** Hosting chapter meetup and team mangement and operation.
   
@@ -148,7 +135,7 @@ Index | Iniciative & Events
   
   > **stage 2** Opportunity to work as community manager for in AIplanet based.
   
-  > **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
+  > **stage 2** We have faced some delays in our work due to a founder and community manager partner being hospitalized from December 18th to January 24th 2023. This has made it difficult for us to focus on all of our teams, but we are now back on track and moving forward with our plans.
 
 - 10th December 2022
   > **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
