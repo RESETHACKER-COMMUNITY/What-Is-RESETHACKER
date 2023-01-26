@@ -100,7 +100,48 @@ Index | Iniciative & Events
 **8** | [Discord(Offline) Discussions - resources & Open talk](https://discord.gg/HbM3435JcX)
 **9** | [ResetHacker Spotlight - Features Hackers work](https://www.instagram.com/p/CKdi3bCgSwn/?igshid=devgbxjw6gkb)
 
-## Our Journey:
+## Our Journey and backend with founder:
+
+- 26th January 2023
+> **stage 2** 🎉 Happy 4th anniversary to the ResetHacker community! 🎉
+> **stage 2** ResetHacker is celebrating it's 4th anniversary by establishing chapters across all states & country, with the aim of promoting cybersecurity as a career and enabling 10,000 hackers by the end of 2023. We're available in Countries and States.
+> **stage 2** Hosting introduction meetup for RESETHACKER Gujarat.
+> **stage 2** RESETHACKER Partnered with **HelloFriend** media cunsultancy Company and announcement.
+
+- 25th January 2023
+> **stage 2** Updating github, clebrating RESETHACKER 4th year anniversery by relaunching RESETHACKER online and organizing online meetup.
+> **stage 2** Final meeting with HelloFreind Teams and founder. 
+> **stage 2** Rechecking the anniversary operation and team of Chapters leaders.
+
+
+- 24th January 2023
+> **stage 2** Launching chapters for RESTHACKER Community and expanding outside the india.
+> **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
+> **stage 2** Discussion to Launch a podcast in colebration for cybersecurity. 
+> **stage 2** Hosting chapter meetup and team mangement and operations.
+> **stage 2** Identified the problem working on exicution of pitchdeck to genrate PoC and discussing with the leaders in cybersecurity for partnership and looking for  potential co-founder in Tech.
+> **stage 2** Launching startup group and cennecting enterprenues.
+> **stage 2** Again Delay xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. (Till from 28th, 29th jan & 12thfeb to 19th feb)
+
+- 30th December 2022
+> **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
+> **stage 2** Working on pitchdeck and discussing with the mentors to look for the partners and co-founders.
+> **stage 2** Working on launching chapter so we can host offline launch party with MVP in bangalore.
+> **stage 2** Hosting chapter meetup and team mangement and operation.
+> **stage 2** Launching startup group and cennecting enterprenues.
+> **stage 2** Opportunity to work as community manager for in AIplanet based.
+> **stage 2** Delay with work and not able on focus on all the team beacuse of partner got admited in hospital. (From Dec 18th to 24th of January 2023)
+
+- 10th December 2022
+> **stage 2** Working on Refining the business model and discussing with founders and unserstanding how they rasise the money.
+> **stage 2** Working on UI/UX part of website and refining the mentors.
+> **stage 2** Discussing on hosting offline private party and relaunch of RESETHACKER in bangalore.
+> **stage 2** Opportunity to promote startup and network with guests/founders/VC in HYDRABAD and work as commmunity manager.
+
+- 10th November 2022
+> **stage 2** Working on building a MVP for RESETHACKER, recruting required team and hosting Offline meetup to Relaunch RESTHACKER. 
+> **stage 2** Tried to reachout to company regarding the to curating community curated newsletter for business for pentesterlab, hackerone, intigriti etc. and had a conversation/meeting but not align with their goal or business model will not work for them.
+> **stage 2** Opportunity to promote startup in HYDRABAD and work as commmunity manager.
 
 - 10th October 2022
 > After taking the feedback from community for almost 3 months, making announcement such as releasing Weekly Infosec Update every wednesday at 8:00-8:30 AM IST.
@@ -126,15 +167,21 @@ Index | Iniciative & Events
 
 - 25th July 2022
 > Vikram founder of ResetHacker community ResetHacker community enroll the beta version of Weekly Infosec Update v0.1 crowdsource newsletter.
+> Vikram founder of ResetHacker community Understanding the startup ecosystem by joining Google india Startup after getting selected for 6 months till november 2022.
 
 - 26th June 2022
 > Inviting community leaders to solve the problem with Weekly Infosec Update and work togrther to create culture and provide value to Infosec community. 
+> Vikram founder of ResetHacker community Understanding the startup ecosystem by joining Google india Startup after getting selected for 6 months till november 2022.
 
 - 26th June 2022
 > Vikram founder of ResetHacker community started working on new project called Weekly Infosec Update because It's very time consuming for professionals to monitor the InfoSec Community on twitter, telegram, reddit, discord and visiting security website every day.
 
 - 1st June 2022
 > Vikram one of the founder of ResetHacker started working on new mission to Bring Infosec community, group and leader together that solve community challenge, problem, create culture and provide value to Infosec community. 
+> Vikram founder of ResetHacker community Understanding the startup ecosystem by joining Google india Startup after getting selected for 6 months till november 2022.
+
+- Jan 2022 
+> Vikram founder of ResetHacker community Understanding the startup ecosystem by joining YCombinator Startup school after getting selected for winter batch(3 months)
 
 - 4th may 2022
 > ResetHacker launches **Bugbounty-Helpdesk** on ResetHacker github, to giving community full assistance with Bug bounty FAQ, bugbounty setup, bugbounty wordlists,  bugbounty checklist,  bugbounty mindmap, bugbounty Methodology and other resources.
