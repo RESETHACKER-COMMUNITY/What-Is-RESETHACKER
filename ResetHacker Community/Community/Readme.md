@@ -33,11 +33,11 @@ is an experiment-driven technique to determine the most effective ways of growin
 		The process involves a mix of marketing, content, creativity, and analytics.
 		The reason why it’s called growth hacking is that a hacker finds a quick, cost-effective but innovative method to attain growth instead of following conventional processes. 
 
-eg:
- leverge referal marketing, 
- find social media platforms your competitors aren't using,
- partner with another company to share to share audiances
- Content marketing A/B testing.
+	eg:
+ 	leverge referal marketing, 
+ 	find social media platforms your competitors aren't using (indirectly talking about your community)
+ 	partner with another company to share to share audiances
+ 	Content marketing A/B testing.
 ---------------------------
 
 
