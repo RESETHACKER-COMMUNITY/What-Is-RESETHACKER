@@ -3,7 +3,7 @@
 - **Launching ResetHacker STATE/CITY : Meet and greet 01**
 
 - Agenda :
-    - Intruducing RESETHACKER, Why and story behind name?
+    - Intruducing XYZ, Why and story behind name?
     - What is community and Why you should join community ?
     - Goal : What we want to achive by creating a chapter?
     - Discussion and QA with Team Resthacker and chapter leader.
@@ -50,7 +50,7 @@
 ## Formate for chapter Monthly Meetup ( for HOST)
 
 	- Welcome
-	- Introduction of ResetHacker community
+	- Introduction of XYZ 
 	- Agenda
 	- Be creative and encourage Hackers to join conversation.
 	- QA 
