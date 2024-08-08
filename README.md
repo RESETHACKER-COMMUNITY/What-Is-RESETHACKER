@@ -1,4 +1,4 @@
-## 🎉 26th January 2023 - Happy Republic Day and 
+## Since 2019 - 2022 (Not active) 
 ## 🎉 Happy 4th anniversary to the ResetHacker community! 🎉 
 <div align=""><br>
 <a href="mailto:resethackerofficail@gmail.com?subject=ResetHacker Community" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail"></a>
